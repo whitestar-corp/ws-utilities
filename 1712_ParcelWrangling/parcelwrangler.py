@@ -9,8 +9,8 @@ import arcpy
 #from arcpy import env
 
 
-def process_gdb(gdbpathname):#, outfolder, outname):
-    print("Processing GeoDatabase: " + gdbpathname)
+def process_gdb(gdbpathname, filterprefix):#, outfolder, outname):
+    print("\n\nBuilding GeoDatabase: " + gdbpathname)
     arcpy.env.workspace=gdbpathname
     try:
         #create output gdb
@@ -23,6 +23,10 @@ def process_gdb(gdbpathname):#, outfolder, outname):
             fcs = arcpy.ListFeatureClasses(None, None, ds)
             for fc in fcs:
                 # get the FIPS Code
+
+                if(filterprefix != None and not(fc.lower().startswith(filterprefix))):
+                    continue
+
                 fips = ""
                 with arcpy.da.SearchCursor(fc, ['FIPS']) as cursor:
                     for row in cursor:
@@ -40,6 +44,7 @@ def process_gdb(gdbpathname):#, outfolder, outname):
     except Exception:
         print(Exception.message)
 
+print("Looking for Parcel gdbs in " + os.path.join(os.getcwd(), 'input'))
 
 gdbs = []
 dirs = os.walk(os.path.join(os.getcwd(), "input"))
@@ -49,17 +54,24 @@ for dir in dirs:
 
 print('\nFound these Geodatabases to wrangle parcels in:\n{}\n'.format(gdbs))
 
+processed_count = 0
+
 for gdb in gdbs:
     # name output file and delete if it exists
     directory = os.path.join(os.getcwd(),'output')
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-    outfile = os.path.join(os.getcwd(),'output',os.path.basename(gdb))
+    outfilePoints = os.path.join(os.getcwd(),'output',os.path.splitext(os.path.basename(gdb))[0]+'_Parcels_Points.gdb')
+    outfilePolys =  os.path.join(os.getcwd(),'output',os.path.splitext(os.path.basename(gdb))[0]+'_Parcels_Polys.gdb')
 
     try:
-        shutil.copytree(gdb, outfile)
-        process_gdb(outfile)
+        shutil.copytree(gdb, outfilePoints)
+        process_gdb(outfilePoints, 'propertypoints')
+
+        shutil.copytree(gdb, outfilePolys)
+        process_gdb(outfilePolys, 'parcels')
+
        # Directories are the same
     except shutil.Error as e:
         print('Directory not copied. Error: %s' % e)
@@ -67,4 +79,7 @@ for gdb in gdbs:
     except OSError as e:
         print('Directory not copied. Error: %s' % e)
 
+    processed_count = processed_count +1
+    print('Processed {} of {} gdbs'.format(processed_count, len(gdbs)))
 
+print("### Done ###")
