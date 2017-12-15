@@ -19,9 +19,9 @@ for field in fields:
     f.write(', ')
 f.write('log_file')
 f.write(', ')
-f.write('created')
+f.write('cr')
 f.write(', ')
-f.write('CR')
+f.write('timestamp')
 f.write(', ')
 f.write('\n')
 
@@ -32,7 +32,7 @@ for file in files:
     parsed_data = json.load(open(filenamepath))
     #pprint(parsed_data)
     for field in fields:
-        print(field, ",")
+        print(field, ",", parsed_data[0][field])
         f.write(parsed_data[0][field])
         f.write(', ')
     print
