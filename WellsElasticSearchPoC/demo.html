@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no"/>
+    <title>Elastic Search Demo</title>
+    <style>
+      html,
+      body,
+      #viewDiv {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.18/esri/themes/light/main.css">
+    <script>
+      var locationPath = location.pathname.replace(/\/[^/]+$/, "");
+      window.dojoConfig = {
+        packages: [
+          {
+            name: "app",
+            location: locationPath + "/app"
+          }
+        ]
+      };
+    </script>
+    <script src="https://js.arcgis.com/4.18"></script>
+  </head>
+  <body>
+    <table>
+      <tr>
+      <td>
+      <input type="button" id="mybutton" value="mybutton" />
+      </td>
+      <button onclick="recentre();">Button 2</button>
+      <input type="text" id="foo" value="" onkeyup="onTextModified(this)" />
+      </tr>
+      </table> 
+    
+    <div id="viewDiv"></div>
+
+   <!--
+    <script>require(["app/main"]);</script> 
+
+    <script src="./app/fuad.js"></script>    
+  
+
+    <script>require(["app/testmap"]);</script>
+    -->
+    <script src = "./app/search.js"></script>
+  </body>
+</html>
