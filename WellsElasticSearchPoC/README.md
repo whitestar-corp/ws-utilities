@@ -7,7 +7,9 @@ npm i --save-dev @types/node
 
 tsc --init
 
-
+Request promises 
+npm install --save request request-promise-native
+npm install --save-dev @types/request @types/request-promise-native
 
 
 # elastic search 
