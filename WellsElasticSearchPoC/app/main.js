@@ -38,13 +38,19 @@ define(["require", "exports"], function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     var estester;
+    var ws_es_url = 'https://es.whitestar.com';
+    var user_name = 'quorum';
+    var password = '1aCa4319$';
     //const client:Client = new Client({node:'https://quorum:1aCa4319$@es.whitestar.com'});
     var WESTester = /** @class */ (function () {
         function WESTester() {
             this.watchBox = document.getElementById("search_box2");
-            this.watchBox.onkeyup = this.handleTextChange;
+            this.watchBox.onkeyup = this.fetchTest;
             var testb = document.getElementById("testButton");
             testb.onmousedown = this.pingTest;
+            var testclient = document.getElementById("testClient");
+            testclient.onmousedown = this.clientTest;
+            document.getElementById('testFetch').onmouseup = this.fetchTest;
             //        this.client = new Client({ node: 'https://quorum:1aCa4319$@es.whitestar.com'});
             //        this.client.ping();
         }
@@ -89,6 +95,60 @@ define(["require", "exports"], function (require, exports) {
                             return [3 /*break*/, 4];
                         case 4: return [2 /*return*/];
                     }
+                });
+            });
+        };
+        WESTester.prototype.fetchTest = function () {
+            return __awaiter(this, void 0, void 0, function () {
+                var headers, middlebits, searchprefix, u, response, data, hits, showkeys, showme, first, showtable, i;
+                return __generator(this, function (_a) {
+                    switch (_a.label) {
+                        case 0:
+                            headers = new Headers();
+                            headers.append('Authorization', 'Basic ' + btoa(user_name + ':' + password));
+                            middlebits = '/us_header/_search';
+                            searchprefix = document.getElementById("search_box2").value;
+                            //  https://es.whitestar.com/us_header/_search?q=%22KER*%22&from=0&size=20
+                            if (searchprefix.length < 1)
+                                return [2 /*return*/];
+                            u = ws_es_url + middlebits + '?' + "q=" + searchprefix + '*&' + 'size=20&from=0';
+                            return [4 /*yield*/, fetch(u, { headers: headers })];
+                        case 1:
+                            response = _a.sent();
+                            return [4 /*yield*/, response.json()];
+                        case 2:
+                            data = _a.sent();
+                            if (response.ok) {
+                                console.log(data);
+                                hits = data.hits;
+                                document.getElementById("viewDiv").innerHTML = '<br>Hits: ' + data.hits.total + '<br>';
+                                first = true;
+                                showtable = "<table><tr>";
+                                Object.keys(data.hits.hits[0]["_source"]).forEach(function (key) {
+                                    showtable += "<td>" + key + "</td>";
+                                });
+                                showtable += "</tr>";
+                                for (i = 0; i < data.hits.hits.length; i++) {
+                                    showtable += "<tr>";
+                                    Object.keys(data.hits.hits[i]["_source"]).forEach(function (key) {
+                                        showme += data.hits.hits[i]["_source"][key] + " ";
+                                        showtable += "<td>" + data.hits.hits[i]["_source"][key] + "</td>";
+                                    });
+                                    showme += '<br>';
+                                    showtable += "/<tr>";
+                                }
+                                showtable += "</tr></table>";
+                                document.getElementById("viewDiv").innerHTML += showtable;
+                            }
+                            return [2 /*return*/];
+                    }
+                });
+            });
+        };
+        WESTester.prototype.clientTest = function () {
+            return __awaiter(this, void 0, void 0, function () {
+                return __generator(this, function (_a) {
+                    return [2 /*return*/];
                 });
             });
         };
