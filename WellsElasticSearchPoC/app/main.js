@@ -100,17 +100,21 @@ define(["require", "exports"], function (require, exports) {
         };
         WESTester.prototype.fetchTest = function () {
             return __awaiter(this, void 0, void 0, function () {
-                var headers, middlebits, searchprefix, u, response, data, hits, showkeys, showme, first, showtable, i;
+                var headers, esindex, middlebits, searchprefix, searchfield, u, response, data, showtable, i;
                 return __generator(this, function (_a) {
                     switch (_a.label) {
                         case 0:
                             headers = new Headers();
                             headers.append('Authorization', 'Basic ' + btoa(user_name + ':' + password));
-                            middlebits = '/us_header/_search';
+                            esindex = document.getElementById("esindex").value;
+                            middlebits = '/' + esindex + '/_search';
                             searchprefix = document.getElementById("search_box2").value;
                             //  https://es.whitestar.com/us_header/_search?q=%22KER*%22&from=0&size=20
                             if (searchprefix.length < 1)
                                 return [2 /*return*/];
+                            searchfield = document.getElementById("seachfield").value;
+                            if (searchfield != "_all")
+                                searchprefix = searchfield + ":" + searchprefix;
                             u = ws_es_url + middlebits + '?' + "q=" + searchprefix + '*&' + 'size=20&from=0';
                             return [4 /*yield*/, fetch(u, { headers: headers })];
                         case 1:
@@ -120,9 +124,7 @@ define(["require", "exports"], function (require, exports) {
                             data = _a.sent();
                             if (response.ok) {
                                 console.log(data);
-                                hits = data.hits;
                                 document.getElementById("viewDiv").innerHTML = '<br>Hits: ' + data.hits.total + '<br>';
-                                first = true;
                                 showtable = "<table><tr>";
                                 Object.keys(data.hits.hits[0]["_source"]).forEach(function (key) {
                                     showtable += "<td>" + key + "</td>";
@@ -131,10 +133,8 @@ define(["require", "exports"], function (require, exports) {
                                 for (i = 0; i < data.hits.hits.length; i++) {
                                     showtable += "<tr>";
                                     Object.keys(data.hits.hits[i]["_source"]).forEach(function (key) {
-                                        showme += data.hits.hits[i]["_source"][key] + " ";
                                         showtable += "<td>" + data.hits.hits[i]["_source"][key] + "</td>";
                                     });
-                                    showme += '<br>';
                                     showtable += "/<tr>";
                                 }
                                 showtable += "</tr></table>";

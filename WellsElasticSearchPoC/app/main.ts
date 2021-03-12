@@ -86,15 +86,19 @@ class WESTester
         var headers = new Headers();
         headers.append('Authorization', 'Basic ' + btoa(user_name + ':' + password));          
 
-        
-        var middlebits = '/us_header/_search'
+        var esindex = (document.getElementById("esindex") as HTMLInputElement).value;
+        var middlebits = '/' + esindex + '/_search'
 
         //var params = {size:20, from:0};
 
         var searchprefix = (document.getElementById("search_box2") as HTMLInputElement).value;
         //  https://es.whitestar.com/us_header/_search?q=%22KER*%22&from=0&size=20
-        if(searchprefix.length <1)
+        if(searchprefix.length < 1)
             return;
+
+        var searchfield = (document.getElementById("seachfield") as HTMLInputElement).value;
+        if(searchfield != "_all")
+            searchprefix = searchfield + ":" + searchprefix;
 
         var u = ws_es_url + middlebits+ '?' + "q=" + searchprefix + '*&'+ 'size=20&from=0';
         const response = await fetch(u,{headers: headers});
@@ -103,11 +107,7 @@ class WESTester
         {
             console.log(data);
 
-            var hits = data.hits;
             document.getElementById("viewDiv").innerHTML = '<br>Hits: ' + data.hits.total +'<br>';
-            var showkeys:string;
-            var showme:string;
-            var first = true;
 
             var showtable = "<table><tr>";
             
@@ -123,12 +123,9 @@ class WESTester
                 Object.keys(data.hits.hits[i]["_source"]).forEach(function(key)
                 {
 
-
-                    showme += data.hits.hits[i]["_source"][key] + " ";
                     showtable += "<td>" + data.hits.hits[i]["_source"][key] + "</td>"
                 })
 
-                showme += '<br>'
 
                 showtable += "/<tr>"
             }

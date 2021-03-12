@@ -10,8 +10,15 @@
         padding: 0;
         margin: 0;
         height: 100%;
-        width: 100%;
+        width: 100%;   
       }
+      table, td, th {
+        border: 1px solid black;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+}
     </style>
     <link rel="stylesheet" href="https://js.arcgis.com/4.18/esri/themes/light/main.css">
     <script>
@@ -25,7 +32,7 @@
         ]
       };
     </script>
-    <script src="https://js.arcgis.com/4.18"></script>
+    <script src="https://js.arcgis.com/4.18"></script> 
   </head>
   <body>
     <table>
@@ -35,21 +42,36 @@
           </td>
         </tr>
         <td>
-          <input type="button" id="testClient" value="Client Test" />
+          <input type="button" id="testClient" value="Client Test" hidden=true />
         </td>
       </tr>
     </tr>
     <td>
-      <input type="button" id="testFetch" value="Fetch Test" />
+      <input type="button" id="testFetch" value="Fetch Test" hidden=true/>
     </td>
   </tr>
         <tr>
           <td>
-            <input type="text" id="search_box2" value="" />
+          
           </td>
         </tr>
     </table> 
-    
+    <label for="esindex">Search Index</label>
+
+    <select name="SearchIndex" id="esindex">
+    <option value="us_header">US Header</option>
+    <option value="tx_header">Texas Header</option>
+    </select>
+
+    <select name="SearchField" id="seachfield">
+      <option value="_all">All</option>
+      <option value="county">County</option>
+      <option value="operator">Operator</option>
+
+    </select>
+    <br>
+    <label for="search_box2">Search All</label>
+    <input type="text" id="search_box2" value="" width="1000" />
     <div id="viewDiv"></div>
 
    <!--
