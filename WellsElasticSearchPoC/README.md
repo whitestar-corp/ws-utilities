@@ -17,3 +17,5 @@ I've gotten to a point where I can log into Elasticsearch at https://es.whitesta
 
 https://quorum:1aCa4319$@es.whitestar.com
 
+ES types don't workl - try....
+npm install --save @types/elasticsearch

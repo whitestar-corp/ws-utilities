@@ -143,8 +143,8 @@ class WESTester
         //var client = new Client();
         //tscconsole.log(client);
 
-
 /*
+
         // https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/client-connecting.html
         var client = new Client({
             node:'https://es.whitestar.com' ,
@@ -169,7 +169,7 @@ class WESTester
           }, (err, result) => {
             if (err) console.log(err)
           })
-          */
+          //*/
     }
 }
 
