@@ -1,0 +1,268 @@
+2021-04-01 20:34:37|   0.0|  0.0|INFORM|FME 2020.2.0.0 (20201027 - Build 20787 - WIN64)
+2021-04-01 20:34:37|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2021-04-01 20:34:37|   0.0|  0.0|INFORM|FME ESRI Edition (node locked-crc)
+2021-04-01 20:34:37|   0.0|  0.0|INFORM|Serial Number: CY27-P78W-20C5
+2021-04-01 20:34:37|   0.0|  0.0|INFORM|Permanent License.
+2021-04-01 20:34:37|   0.0|  0.0|INFORM|Machine host name is: IP-C61386BF
+2021-04-01 20:34:37|   0.0|  0.0|INFORM|START - ProcessID: 8208, peak process memory usage: 37500 kB, current process memory usage: 37432 kB
+2021-04-01 20:34:37|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `D:/Users/rwhite/Documents/texas-wells/wells-service/fmw\wb-xlate-1617327274741_7612' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{327e8bae-1aaf-4d4f-9006-3a355faa1abc}'
+2021-04-01 20:34:37|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'D:\Users\rwhite\AppData\Roaming\Safe Software\FME\'
+2021-04-01 20:34:37|   0.5|  0.5|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;D:\Users\rwhite\Documents\FME\Formats
+2021-04-01 20:34:37|   0.5|  0.0|INFORM|Shared folders for transformers are : D:\Users\rwhite\AppData\Roaming\Safe Software\FME\Packages\20787-win64\transformers;C:\Program Files\FME\transformers
+2021-04-01 20:34:37|   0.5|  0.0|INFORM|Shared folders for coordinate systems are : D:\Users\rwhite\Documents\FME\CoordinateSystems
+2021-04-01 20:34:37|   0.5|  0.0|INFORM|Shared folders for coordinate system exceptions are : D:\Users\rwhite\Documents\FME\CoordinateSystemExceptions
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Shared folders for coordinate system grid overrides are : D:\Users\rwhite\Documents\FME\CoordinateSystemGridOverrides
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : D:\Users\rwhite\Documents\FME\CsmapTransformationExceptions
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Shared folders for transformer categories are : D:\Users\rwhite\Documents\FME\TransformerCategories
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: Current working folder is `D:\Users\rwhite\Documents\texas-wells\wells-service\fmw'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: Temporary folder is `D:\Users\rwhite\AppData\Local\Temp\1\wbrun_1617327152903_7612\fmetmp_1617327276678_7612', set from environment variable `FME_TEMP'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'D:\Users\rwhite\Documents\texas-wells\wells-service\fmw/'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'permits_liner.fmw'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2020.2.0.0'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|System Status: 272.82 GB of disk space available in the FME temporary folder (D:\Users\rwhite\AppData\Local\Temp\1\wbrun_1617327152903_7612\fmetmp_1617327276678_7612)
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|System Status: 15.82 GB of physical memory available
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|System Status: 63.26 GB of virtual memory available
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Operating System: Microsoft Windows Server 10 Server 4.0 64-bit  (Build 14393)
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Platform: WIN64
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Locale: en_US
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|System Encoding: windows-1252
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 47.45 GB
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 35.59 GB
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Creating writer for format: 
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Creating reader for format: 
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Loaded module 'QueryFactory' from file 'C:\Program Files\FME\plugins/QueryFactory.dll'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20200115)
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20200115)
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20200115)
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Loaded module 'FeatureJoinerFactory' from file 'C:\Program Files\FME\plugins/FeatureJoinerFactory.dll'
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|FME API version of module 'FeatureJoinerFactory' matches current internal version (3.8 20200115)
+2021-04-01 20:34:37|   0.6|  0.0|INFORM|Emptying factory pipeline
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for R_1
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|Creating reader for format: PostgreSQL
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `POSTGRES'
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|Loaded module 'POSTGRES' from file 'C:\Program Files\FME\plugins/POSTGIS.dll'
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|FME API version of module 'POSTGRES' matches current internal version (3.8 20200115)
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|Performing query against POSTGRES dataset `pg.whitestar.com'
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|Opening POSTGRES reader for dataset 'postgis20'
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|POSTGRES reader: Building features into bulk mode features
+2021-04-01 20:34:37|   0.7|  0.0|INFORM|Executing custom data query: 'select distinct
+wb_api as api,
+wb_line_count as lnr_count,
+wb_top_of_liner as top_liner,
+wb_bottom_of_liner as btm_liner,
+wb_lin_inch as lnr_thick,
+wb_lin_frac_denom as lnr_frac_d,
+wb_lin_frac_num as lnr_frac_n,
+wb_sacks_of_cement as sacks_cmnt
+from wb08_test'
+2021-04-01 20:34:39|   1.9|  1.2|STATS |SQLCreator_2_Creator (CreationFactory): Created 1 features
+2021-04-01 20:34:39|   1.9|  0.0|INFORM|Successfully closed POSTGRES database reader
+2021-04-01 20:34:39|   1.9|  0.0|INFORM|Successfully closed POSTGRES database reader
+2021-04-01 20:34:39|   1.9|  0.0|STATS |SQLCreator_2_RESULT Feature Counter -1 17 (TeeFactory): Cloned 65846 input feature(s) into 65846 output feature(s)
+2021-04-01 20:34:39|   1.9|  0.0|STATS |SQLCreator_2_RESULT Brancher -1 17 (BranchingFactory): Branched 65846 input features -- 1 feature routed to the target factory, and 0 features routed to the fallback factory.
+2021-04-01 20:34:39|   1.9|  0.0|STATS |SQLCreator_2_<REJECTED> Feature Counter -1 2147614734 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:34:39|   2.0|  0.1|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for R_2
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|Creating reader for format: PostGIS
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `POSTGIS'
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|FME Configuration: Source coordinate system for reader R_2[POSTGIS] set to `LL27'
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|Coordinate System `LL27' parameters: CS_NAME=`LL27' DESC_NM=`NAD27 datum, Latitude-Longitude; Degrees' DT_NAME=`NAD27' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`85.16666666666667' MAX_LNG=`-45.733333333333334' MIN_LAT=`5.983333333333333' MIN_LNG=`-194.35' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20200115)
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|Performing query against POSTGIS dataset `pg.whitestar.com'
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|Opening POSTGIS reader for dataset 'postgis20'
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|2.5 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|POSTGIS reader: Building features into bulk mode features
+2021-04-01 20:34:39|   2.0|  0.0|INFORM|Executing custom data query: 'select *
+from tx_header_pre_cum_test
+where length(api) = 8'
+2021-04-01 20:34:39|   2.1|  0.1|WARN  |NOT changing coordinate system of reader identified by keyword `R_2' from `LL27' to `EPSG:4267' -- mapping file setting of `LL27' overrides coordinate system `EPSG:4267' read from file
+2021-04-01 20:34:44|   7.1|  5.0|INFORM|POSTGIS reader: Read 30000 features
+2021-04-01 20:34:49|  11.9|  4.8|INFORM|POSTGIS reader: Read 60000 features
+2021-04-01 20:34:54|  16.9|  4.9|INFORM|POSTGIS reader: Read 90000 features
+2021-04-01 20:34:59|  21.8|  4.9|INFORM|POSTGIS reader: Read 120000 features
+2021-04-01 20:35:04|  27.0|  5.2|INFORM|POSTGIS reader: Read 150000 features
+2021-04-01 20:35:09|  32.0|  5.0|INFORM|POSTGIS reader: Read 180000 features
+2021-04-01 20:35:14|  37.0|  5.0|INFORM|POSTGIS reader: Read 210000 features
+2021-04-01 20:35:19|  41.9|  4.9|INFORM|POSTGIS reader: Read 240000 features
+2021-04-01 20:35:24|  46.7|  4.9|INFORM|POSTGIS reader: Read 270000 features
+2021-04-01 20:35:30|  52.1|  5.4|INFORM|POSTGIS reader: Read 300000 features
+2021-04-01 20:35:36|  58.2|  6.1|INFORM|POSTGIS reader: Read 330000 features
+2021-04-01 20:35:41|  63.4|  5.2|INFORM|POSTGIS reader: Read 360000 features
+2021-04-01 20:35:46|  68.4|  5.0|INFORM|POSTGIS reader: Read 390000 features
+2021-04-01 20:35:51|  73.3|  4.9|INFORM|POSTGIS reader: Read 420000 features
+2021-04-01 20:35:56|  78.2|  4.9|INFORM|POSTGIS reader: Read 450000 features
+2021-04-01 20:36:01|  83.1|  5.0|INFORM|POSTGIS reader: Read 480000 features
+2021-04-01 20:36:07|  88.4|  5.2|INFORM|POSTGIS reader: Read 510000 features
+2021-04-01 20:36:12|  93.6|  5.3|INFORM|POSTGIS reader: Read 540000 features
+2021-04-01 20:36:17|  99.0|  5.4|INFORM|POSTGIS reader: Read 570000 features
+2021-04-01 20:36:23| 104.2|  5.2|INFORM|POSTGIS reader: Read 600000 features
+2021-04-01 20:36:28| 109.4|  5.2|INFORM|POSTGIS reader: Read 630000 features
+2021-04-01 20:36:33| 114.6|  5.2|INFORM|POSTGIS reader: Read 660000 features
+2021-04-01 20:36:38| 119.7|  5.1|INFORM|POSTGIS reader: Read 690000 features
+2021-04-01 20:36:44| 124.8|  5.1|INFORM|POSTGIS reader: Read 720000 features
+2021-04-01 20:36:49| 129.8|  5.0|INFORM|POSTGIS reader: Read 750000 features
+2021-04-01 20:36:54| 134.7|  4.9|INFORM|POSTGIS reader: Read 780000 features
+2021-04-01 20:36:59| 140.2|  5.5|INFORM|POSTGIS reader: Read 810000 features
+2021-04-01 20:37:05| 146.0|  5.8|INFORM|POSTGIS reader: Read 840000 features
+2021-04-01 20:37:11| 151.2|  5.2|INFORM|POSTGIS reader: Read 870000 features
+2021-04-01 20:37:16| 156.2|  5.0|INFORM|POSTGIS reader: Read 900000 features
+2021-04-01 20:37:21| 161.2|  5.0|INFORM|POSTGIS reader: Read 930000 features
+2021-04-01 20:37:26| 166.2|  4.9|INFORM|POSTGIS reader: Read 960000 features
+2021-04-01 20:37:28| 168.1|  1.9|STATS |SQLCreator_3_Creator (CreationFactory): Created 1 features
+2021-04-01 20:37:28| 168.1|  0.0|INFORM|Successfully closed POSTGIS database reader
+2021-04-01 20:37:28| 168.2|  0.1|INFORM|Successfully closed POSTGIS database reader
+2021-04-01 20:37:28| 168.2|  0.0|STATS |SQLCreator_3_RESULT Feature Counter -1 18 (TeeFactory): Cloned 971071 input feature(s) into 971071 output feature(s)
+2021-04-01 20:37:28| 168.2|  0.0|STATS |SQLCreator_3_RESULT Brancher -1 18 (BranchingFactory): Branched 971071 input features -- 10 features routed to the target factory, and 0 features routed to the fallback factory.
+2021-04-01 20:37:28| 168.2|  0.0|STATS |SQLCreator_3_<REJECTED> Feature Counter -1 2147614736 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:37:28| 168.2|  0.0|STATS |_CREATOR_BRANCH_TARGET (TeeFactory): Cloned 1036917 input feature(s) into 1036917 output feature(s)
+2021-04-01 20:37:34| 174.0|  5.8|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 470000 / 971071
+2021-04-01 20:37:39| 178.9|  5.0|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 910000 / 971071
+2021-04-01 20:37:39| 179.6|  0.7|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 971071 / 971071
+2021-04-01 20:37:42| 182.3|  2.7|STATS |FeatureJoiner_JOINED Feature Counter -1 20 (TeeFactory): Cloned 65774 input feature(s) into 65774 output feature(s)
+2021-04-01 20:37:42| 182.3|  0.0|STATS |FeatureJoiner_<REJECTED> Feature Counter -1 2147811343 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:37:42| 182.3|  0.0|STATS |StringLengthCalculator_3 (TeeFactory): Cloned 65774 input feature(s) into 65774 output feature(s)
+2021-04-01 20:37:42| 182.3|  0.0|STATS |StringLengthCalculator_3_OUTPUT Feature Counter -1 19 (TeeFactory): Cloned 65774 input feature(s) into 65774 output feature(s)
+2021-04-01 20:37:42| 182.3|  0.0|STATS |Tester_2 (TestFactory): Tested 65774 input feature(s) -- 0 feature(s) passed and 65774 feature(s) failed
+2021-04-01 20:37:42| 182.3|  0.0|STATS |Tester_2_PASSED Feature Counter -1 21 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:37:42| 182.3|  0.0|STATS |Tester_2_FAILED Feature Counter -1 23 (TeeFactory): Cloned 65774 input feature(s) into 65774 output feature(s)
+2021-04-01 20:37:42| 182.3|  0.0|STATS |StringPadder_3_CheckWidth (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-04-01 20:37:42| 182.3|  0.0|STATS |StringPadder_3_StringPadder (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:37:42| 182.3|  0.0|STATS |StringPadder_3_<REJECTED> Feature Counter -1 24 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:37:42| 182.3|  0.0|STATS |AttributeCreator_4_OUTPUT Feature Counter -1 22 (TeeFactory): Cloned 65774 input feature(s) into 65774 output feature(s)
+2021-04-01 20:37:52| 192.0|  9.8|INFORM|FME Configuration: Using FME Reprojection Engine
+2021-04-01 20:37:52| 192.1|  0.1|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for POSTGIS_1
+2021-04-01 20:37:52| 192.1|  0.0|INFORM|Creating writer for format: PostGIS
+2021-04-01 20:37:52| 192.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `POSTGIS'
+2021-04-01 20:37:52| 192.1|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20200115)
+2021-04-01 20:37:52| 192.1|  0.0|INFORM|FME Configuration: Destination coordinate system set to `LL27'
+2021-04-01 20:37:52| 192.1|  0.0|INFORM|Coordinate System `LL27' parameters: CS_NAME=`LL27' DESC_NM=`NAD27 datum, Latitude-Longitude; Degrees' DT_NAME=`NAD27' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`85.16666666666667' MAX_LNG=`-45.733333333333334' MIN_LAT=`5.983333333333333' MIN_LNG=`-194.35' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2021-04-01 20:37:52| 192.1|  0.0|INFORM|POSTGIS writer: Splitting bulk mode features into features
+2021-04-01 20:37:52| 192.3|  0.2|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20200115)
+2021-04-01 20:37:52| 192.3|  0.0|INFORM|Writer `POSTGIS_1' of type `POSTGIS' using group definition keyword `POSTGIS_1_DEF'
+2021-04-01 20:37:52| 192.3|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20200115)
+2021-04-01 20:37:52| 192.3|  0.0|INFORM|Opening POSTGIS writer for dataset 'postgis20'...
+2021-04-01 20:37:52| 192.3|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-04-01 20:37:52| 192.3|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-04-01 20:37:52| 192.3|  0.0|INFORM|2.5 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2021-04-01 20:37:52| 192.3|  0.0|INFORM|Testing for the existence of table 'public.tx_liners_latest_build_test'...
+2021-04-01 20:37:52| 192.3|  0.0|INFORM|Creating table 'public.tx_liners_latest_build_test'...
+2021-04-01 20:37:52| 192.6|  0.3|INFORM|POSTGIS Writer: Creating 'unquoted WKB' geometry processor for feature type 'public.tx_liners_latest_build_test'
+2021-04-01 20:37:52| 192.6|  0.0|INFORM|POSTGIS Writer: Creating 'streaming Bulk Copy' feature type processor for feature type 'public.tx_liners_latest_build_test'
+2021-04-01 20:37:53| 192.7|  0.1|INFORM|Committed transaction at feature '1000'
+2021-04-01 20:37:53| 192.8|  0.1|INFORM|Committed transaction at feature '2000'
+2021-04-01 20:37:53| 192.9|  0.1|INFORM|Committed transaction at feature '3000'
+2021-04-01 20:37:53| 193.0|  0.1|INFORM|Committed transaction at feature '4000'
+2021-04-01 20:37:53| 193.1|  0.1|INFORM|Committed transaction at feature '5000'
+2021-04-01 20:37:53| 193.1|  0.1|INFORM|Committed transaction at feature '6000'
+2021-04-01 20:37:53| 193.2|  0.1|INFORM|Committed transaction at feature '7000'
+2021-04-01 20:37:53| 193.3|  0.1|INFORM|Committed transaction at feature '8000'
+2021-04-01 20:37:53| 193.4|  0.1|INFORM|Committed transaction at feature '9000'
+2021-04-01 20:37:53| 193.5|  0.1|INFORM|Committed transaction at feature '10000'
+2021-04-01 20:37:54| 193.6|  0.1|INFORM|Committed transaction at feature '11000'
+2021-04-01 20:37:54| 193.7|  0.1|INFORM|Committed transaction at feature '12000'
+2021-04-01 20:37:54| 193.8|  0.1|INFORM|Committed transaction at feature '13000'
+2021-04-01 20:37:54| 193.9|  0.1|INFORM|Committed transaction at feature '14000'
+2021-04-01 20:37:54| 194.0|  0.1|INFORM|Committed transaction at feature '15000'
+2021-04-01 20:37:54| 194.1|  0.1|INFORM|Committed transaction at feature '16000'
+2021-04-01 20:37:54| 194.2|  0.1|INFORM|Committed transaction at feature '17000'
+2021-04-01 20:37:54| 194.3|  0.1|INFORM|Committed transaction at feature '18000'
+2021-04-01 20:37:54| 194.3|  0.1|INFORM|Committed transaction at feature '19000'
+2021-04-01 20:37:54| 194.4|  0.1|INFORM|Committed transaction at feature '20000'
+2021-04-01 20:37:55| 194.5|  0.1|INFORM|Committed transaction at feature '21000'
+2021-04-01 20:37:55| 194.6|  0.1|INFORM|Committed transaction at feature '22000'
+2021-04-01 20:37:55| 194.7|  0.1|INFORM|Committed transaction at feature '23000'
+2021-04-01 20:37:55| 194.8|  0.1|INFORM|Committed transaction at feature '24000'
+2021-04-01 20:37:55| 194.9|  0.1|INFORM|Committed transaction at feature '25000'
+2021-04-01 20:37:55| 195.0|  0.1|INFORM|Committed transaction at feature '26000'
+2021-04-01 20:37:55| 195.0|  0.1|INFORM|Committed transaction at feature '27000'
+2021-04-01 20:37:55| 195.1|  0.1|INFORM|Committed transaction at feature '28000'
+2021-04-01 20:37:55| 195.2|  0.1|INFORM|Committed transaction at feature '29000'
+2021-04-01 20:37:56| 195.3|  0.1|INFORM|Committed transaction at feature '30000'
+2021-04-01 20:37:56| 195.5|  0.2|INFORM|Committed transaction at feature '31000'
+2021-04-01 20:37:56| 195.5|  0.1|INFORM|Committed transaction at feature '32000'
+2021-04-01 20:37:56| 195.6|  0.1|INFORM|Committed transaction at feature '33000'
+2021-04-01 20:37:56| 195.7|  0.1|INFORM|Committed transaction at feature '34000'
+2021-04-01 20:37:56| 195.8|  0.1|INFORM|Committed transaction at feature '35000'
+2021-04-01 20:37:56| 195.9|  0.1|INFORM|Committed transaction at feature '36000'
+2021-04-01 20:37:56| 196.0|  0.1|INFORM|Committed transaction at feature '37000'
+2021-04-01 20:37:56| 196.1|  0.1|INFORM|Committed transaction at feature '38000'
+2021-04-01 20:37:57| 196.2|  0.1|INFORM|POSTGIS writer: 38940 of 65774 features written
+2021-04-01 20:37:57| 196.2|  0.0|INFORM|Committed transaction at feature '39000'
+2021-04-01 20:37:57| 196.3|  0.1|INFORM|Committed transaction at feature '40000'
+2021-04-01 20:37:57| 196.5|  0.1|INFORM|Committed transaction at feature '41000'
+2021-04-01 20:37:57| 196.6|  0.1|INFORM|Committed transaction at feature '42000'
+2021-04-01 20:37:57| 196.7|  0.1|INFORM|Committed transaction at feature '43000'
+2021-04-01 20:37:57| 196.8|  0.1|INFORM|Committed transaction at feature '44000'
+2021-04-01 20:37:57| 196.8|  0.1|INFORM|Committed transaction at feature '45000'
+2021-04-01 20:37:57| 196.9|  0.1|INFORM|Committed transaction at feature '46000'
+2021-04-01 20:37:57| 197.0|  0.1|INFORM|Committed transaction at feature '47000'
+2021-04-01 20:37:57| 197.1|  0.1|INFORM|Committed transaction at feature '48000'
+2021-04-01 20:37:58| 197.2|  0.1|INFORM|Committed transaction at feature '49000'
+2021-04-01 20:37:58| 197.3|  0.1|INFORM|Committed transaction at feature '50000'
+2021-04-01 20:37:58| 197.4|  0.1|INFORM|Committed transaction at feature '51000'
+2021-04-01 20:37:58| 197.5|  0.1|INFORM|Committed transaction at feature '52000'
+2021-04-01 20:37:58| 197.6|  0.1|INFORM|Committed transaction at feature '53000'
+2021-04-01 20:37:58| 197.6|  0.1|INFORM|Committed transaction at feature '54000'
+2021-04-01 20:37:58| 197.7|  0.1|INFORM|Committed transaction at feature '55000'
+2021-04-01 20:37:58| 197.8|  0.1|INFORM|Committed transaction at feature '56000'
+2021-04-01 20:37:58| 197.9|  0.1|INFORM|Committed transaction at feature '57000'
+2021-04-01 20:37:58| 198.0|  0.1|INFORM|Committed transaction at feature '58000'
+2021-04-01 20:37:59| 198.0|  0.1|INFORM|Committed transaction at feature '59000'
+2021-04-01 20:37:59| 198.1|  0.1|INFORM|Committed transaction at feature '60000'
+2021-04-01 20:37:59| 198.2|  0.1|INFORM|Committed transaction at feature '61000'
+2021-04-01 20:37:59| 198.3|  0.1|INFORM|Committed transaction at feature '62000'
+2021-04-01 20:37:59| 198.4|  0.1|INFORM|Committed transaction at feature '63000'
+2021-04-01 20:37:59| 198.5|  0.1|INFORM|Committed transaction at feature '64000'
+2021-04-01 20:37:59| 198.6|  0.1|INFORM|Committed transaction at feature '65000'
+2021-04-01 20:37:59| 198.7|  0.1|INFORM|POSTGIS writer: 65774 of 65774 features written
+2021-04-01 20:38:00| 199.0|  0.3|STATS |Sorter (SortFactory): Finished sorting a total of 65774 features.
+2021-04-01 20:38:00| 199.0|  0.0|STATS |Sorter_SORTED Feature Counter -1 26 (TeeFactory): Cloned 65774 input feature(s) into 65774 output feature(s)
+2021-04-01 20:38:00| 199.0|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 65774 input feature(s), wrote 65774 output feature(s): 0 matched merge filters, 65774 were routed to output, 0 could not be routed.
+2021-04-01 20:38:00| 199.0|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:38:00| 199.0|  0.0|INFORM|Creating 'BTree' index on column "wstar_id" of table 'public.tx_liners_latest_build_test'...
+2021-04-01 20:38:00| 199.0|  0.0|INFORM|Creating 'BTree' index on column "api" of table 'public.tx_liners_latest_build_test'...
+2021-04-01 20:38:00| 199.0|  0.0|INFORM|Creating 'BTree' index on column "api_cnty" of table 'public.tx_liners_latest_build_test'...
+2021-04-01 20:38:00| 199.0|  0.0|INFORM|Creating 'BTree' index on column "county" of table 'public.tx_liners_latest_build_test'...
+2021-04-01 20:38:00| 199.0|  0.0|INFORM|Creating 'GIST' index on column "geom" of table 'public.tx_liners_latest_build_test'...
+2021-04-01 20:38:01| 199.0|  0.0|INFORM|Successfully closed POSTGIS database writer
+2021-04-01 20:38:01| 199.0|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|INFORM|Feature output statistics for `POSTGIS' writer using keyword `POSTGIS_1':
+2021-04-01 20:38:01| 199.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|STATS |                               Features Written
+2021-04-01 20:38:01| 199.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|STATS |public.tx_liners_latest_build_test                                       65774
+2021-04-01 20:38:01| 199.0|  0.0|STATS |==============================================================================
+2021-04-01 20:38:01| 199.0|  0.0|STATS |Total Features Written                                                   65774
+2021-04-01 20:38:01| 199.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|STATS |                            Features Read Summary
+2021-04-01 20:38:01| 199.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|STATS |==============================================================================
+2021-04-01 20:38:01| 199.0|  0.0|STATS |Total Features Read                                                          0
+2021-04-01 20:38:01| 199.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|STATS |                           Features Written Summary
+2021-04-01 20:38:01| 199.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|STATS |public.tx_liners_latest_build_test                                       65774
+2021-04-01 20:38:01| 199.0|  0.0|STATS |==============================================================================
+2021-04-01 20:38:01| 199.0|  0.0|STATS |Total Features Written                                                   65774
+2021-04-01 20:38:01| 199.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:38:01| 199.0|  0.0|INFORM|Translation was SUCCESSFUL with 1 warning(s) (65774 feature(s) output)
+2021-04-01 20:38:01| 199.0|  0.0|INFORM|FME Session Duration: 3 minutes 24.0 seconds. (CPU: 191.5s user, 7.0s system)
+2021-04-01 20:38:01| 199.0|  0.0|INFORM|END - ProcessID: 8208, peak process memory usage: 2440684 kB, current process memory usage: 106800 kB

@@ -1,0 +1,201 @@
+2021-08-10 12:27:21|   0.0|  0.0|INFORM|FME 2020.2.0.0 (20201027 - Build 20787 - WIN64)
+2021-08-10 12:27:21|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2021-08-10 12:27:21|   0.0|  0.0|INFORM|FME ESRI Edition (node locked-crc)
+2021-08-10 12:27:21|   0.0|  0.0|INFORM|Serial Number: CY27-P78W-20C5
+2021-08-10 12:27:21|   0.0|  0.0|INFORM|Permanent License.
+2021-08-10 12:27:21|   0.1|  0.0|INFORM|Machine host name is: IP-C61386BF
+2021-08-10 12:27:21|   0.1|  0.0|INFORM|START - ProcessID: 7192, peak process memory usage: 37780 kB, current process memory usage: 37716 kB
+2021-08-10 12:27:21|   0.1|  0.0|INFORM|FME Configuration: Command line arguments are `fme' `D:\Users\rwhite\Documents\texas-wells\wells-service\fmw\loadp5.fmw'
+2021-08-10 12:27:21|   0.1|  0.0|INFORM|FME Configuration: Connection Storage: 'D:\Users\rwhite\AppData\Roaming\Safe Software\FME\'
+2021-08-10 12:27:23|   1.3|  1.2|WARN  |Failed to free sufficient memory to reach the process usage limit. To improve stability and performance please increase the memory available to FME. Available memory can be increased by adding physical RAM, increasing swap space, or closing other applications
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;D:\Users\rwhite\Documents\FME\Formats
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Shared folders for transformers are : D:\Users\rwhite\AppData\Roaming\Safe Software\FME\Packages\20787-win64\transformers;C:\Program Files\FME\transformers;D:\Users\rwhite\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Shared folders for coordinate systems are : D:\Users\rwhite\Documents\FME\CoordinateSystems
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Shared folders for coordinate system exceptions are : D:\Users\rwhite\Documents\FME\CoordinateSystemExceptions
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Shared folders for coordinate system grid overrides are : D:\Users\rwhite\Documents\FME\CoordinateSystemGridOverrides
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : D:\Users\rwhite\Documents\FME\CsmapTransformationExceptions
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Shared folders for transformer categories are : D:\Users\rwhite\Documents\FME\TransformerCategories
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: Current working folder is `D:\Users\rwhite\Documents\texas-wells\wells-service'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: Temporary folder is `D:\Users\rwhite\AppData\Local\Temp\1', set from environment variable `TEMP'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'D:\Users\rwhite\Documents\texas-wells\wells-service\fmw/'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'loadp5.fmw'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2020.2.0.0'
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|System Status: 222.92 GB of disk space available in the FME temporary folder (D:\Users\rwhite\AppData\Local\Temp\1)
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|System Status: 15.82 GB of physical memory available
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|System Status: 63.26 GB of virtual memory available
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Operating System: Microsoft Windows Server 10 Server 4.0 64-bit  (Build 14393)
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|FME Platform: WIN64
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Locale: en_US
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|System Encoding: windows-1252
+2021-08-10 12:27:23|   1.3|  0.0|WARN  |FME Configuration: Extremely low initial memory conditions detected. To improve stability and performance please increase the memory available to FME. Available memory can be increased by adding physical RAM, increasing swap space, or closing other applications
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Creating writer for format: 
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Creating reader for format: 
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding CSV2 Reader with keyword CSV2_1
+2021-08-10 12:27:23|   1.3|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2021-08-10 12:27:23|   1.4|  0.1|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV2'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|Loaded module 'CSV2' from file 'C:\Program Files\FME\plugins/CSV2.dll'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20200115)
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Opening dataset 'D:\Users\rwhite\Documents\texas-wells\wells-service\data\operator\p501.csv'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_DELIMITER' has the value 'auto'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_FIELD_NAMES_LINE' has the value '1'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_DATA_START_LINE' has the value '2'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_SCAN_MAX_ROWS' has the value '1000'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_READ_SKIPPED_LINES' has the value 'No'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_ENCODING' has the value 'windows-1252'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_SKIP_DUPLICATE_DELIMITERS' has the value 'No'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_QUALIFIERS' has the value 'Yes'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_VALUE_QUALIFIERS' has the value 'Yes'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_PRESERVE_SOURCE_ENCODING' has the value 'No'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_CASE_SENSITIVE_FIELD_NAMES' has the value 'Yes'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_ENFORCE_STRICT_SCHEMA' has the value 'No'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_SCAN_TYPES' has the value 'No'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|CSV reader: Directive '_SCAN_ADDITIONAL_FIELDS' has the value 'No'
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2021-08-10 12:27:23|   1.5|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2021-08-10 12:27:24|   2.3|  0.9|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for POSTGRES_2
+2021-08-10 12:27:24|   2.3|  0.0|INFORM|Creating writer for format: PostgreSQL
+2021-08-10 12:27:24|   2.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `POSTGRES'
+2021-08-10 12:27:24|   2.4|  0.0|INFORM|Loaded module 'POSTGRES' from file 'C:\Program Files\FME\plugins/POSTGIS.dll'
+2021-08-10 12:27:24|   2.4|  0.0|INFORM|FME API version of module 'POSTGRES' matches current internal version (3.8 20200115)
+2021-08-10 12:27:24|   2.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-08-10 12:27:24|   2.4|  0.0|INFORM|POSTGRES writer: Splitting bulk mode features into features
+2021-08-10 12:27:24|   2.5|  0.1|INFORM|FME API version of module 'POSTGRES' matches current internal version (3.8 20200115)
+2021-08-10 12:27:24|   2.5|  0.0|INFORM|Writer `POSTGRES_2' of type `POSTGRES' using group definition keyword `POSTGRES_2_DEF'
+2021-08-10 12:27:24|   2.5|  0.0|INFORM|FME API version of module 'POSTGRES' matches current internal version (3.8 20200115)
+2021-08-10 12:27:24|   2.5|  0.0|INFORM|Opening POSTGRES writer for dataset 'postgis20'...
+2021-08-10 12:27:24|   2.5|  0.1|INFORM|PostGIS client encoding: 'UTF8'
+2021-08-10 12:27:24|   2.5|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-08-10 12:27:24|   2.5|  0.0|INFORM|Testing for the existence of table 'public.p501'...
+2021-08-10 12:27:24|   2.5|  0.0|INFORM|Dropping existing table 'public.p501'...
+2021-08-10 12:27:25|   2.5|  0.0|INFORM|Creating table 'public.p501'...
+2021-08-10 12:27:25|   2.5|  0.0|INFORM|POSTGRES Writer: Creating 'streaming Bulk Copy' feature type processor for feature type 'p501'
+2021-08-10 12:27:25|   3.3|  0.8|INFORM|Committed transaction at feature '1000'
+2021-08-10 12:27:26|   4.0|  0.7|INFORM|Committed transaction at feature '2000'
+2021-08-10 12:27:27|   4.7|  0.6|INFORM|Committed transaction at feature '3000'
+2021-08-10 12:27:28|   5.4|  0.8|INFORM|Committed transaction at feature '4000'
+2021-08-10 12:27:28|   6.1|  0.7|INFORM|Committed transaction at feature '5000'
+2021-08-10 12:27:29|   6.3|  0.2|INFORM|POSTGRES writer: 5300 of 74846 features written
+2021-08-10 12:27:29|   6.8|  0.4|INFORM|Committed transaction at feature '6000'
+2021-08-10 12:27:30|   7.5|  0.7|INFORM|Committed transaction at feature '7000'
+2021-08-10 12:27:30|   8.2|  0.7|INFORM|Committed transaction at feature '8000'
+2021-08-10 12:27:31|   8.8|  0.6|INFORM|Committed transaction at feature '9000'
+2021-08-10 12:27:32|   9.3|  0.6|INFORM|Committed transaction at feature '10000'
+2021-08-10 12:27:32|  10.0|  0.7|INFORM|Committed transaction at feature '11000'
+2021-08-10 12:27:33|  10.7|  0.6|INFORM|Committed transaction at feature '12000'
+2021-08-10 12:27:34|  11.1|  0.4|INFORM|POSTGRES writer: 12601 of 74846 features written
+2021-08-10 12:27:34|  11.4|  0.3|INFORM|Committed transaction at feature '13000'
+2021-08-10 12:27:34|  12.0|  0.7|INFORM|Committed transaction at feature '14000'
+2021-08-10 12:27:35|  12.8|  0.8|INFORM|Committed transaction at feature '15000'
+2021-08-10 12:27:36|  13.5|  0.7|INFORM|Committed transaction at feature '16000'
+2021-08-10 12:27:37|  14.1|  0.7|INFORM|Committed transaction at feature '17000'
+2021-08-10 12:27:37|  14.8|  0.6|INFORM|Committed transaction at feature '18000'
+2021-08-10 12:27:38|  15.5|  0.7|INFORM|Committed transaction at feature '19000'
+2021-08-10 12:27:39|  15.9|  0.4|INFORM|POSTGRES writer: 19684 of 74846 features written
+2021-08-10 12:27:39|  16.1|  0.2|INFORM|Committed transaction at feature '20000'
+2021-08-10 12:27:39|  16.8|  0.7|INFORM|Committed transaction at feature '21000'
+2021-08-10 12:27:40|  17.5|  0.7|INFORM|Committed transaction at feature '22000'
+2021-08-10 12:27:41|  18.2|  0.7|INFORM|Committed transaction at feature '23000'
+2021-08-10 12:27:42|  18.9|  0.7|INFORM|Committed transaction at feature '24000'
+2021-08-10 12:27:42|  19.5|  0.6|INFORM|Committed transaction at feature '25000'
+2021-08-10 12:27:43|  20.2|  0.7|INFORM|Committed transaction at feature '26000'
+2021-08-10 12:27:44|  20.8|  0.6|INFORM|POSTGRES writer: 26943 of 74846 features written
+2021-08-10 12:27:44|  20.9|  0.1|INFORM|Committed transaction at feature '27000'
+2021-08-10 12:27:44|  21.5|  0.7|INFORM|Committed transaction at feature '28000'
+2021-08-10 12:27:45|  22.1|  0.6|INFORM|Committed transaction at feature '29000'
+2021-08-10 12:27:45|  22.7|  0.6|INFORM|Committed transaction at feature '30000'
+2021-08-10 12:27:46|  23.4|  0.7|INFORM|Committed transaction at feature '31000'
+2021-08-10 12:27:47|  24.0|  0.6|INFORM|Committed transaction at feature '32000'
+2021-08-10 12:27:47|  24.7|  0.7|INFORM|Committed transaction at feature '33000'
+2021-08-10 12:27:48|  25.4|  0.7|INFORM|Committed transaction at feature '34000'
+2021-08-10 12:27:49|  25.7|  0.3|INFORM|POSTGRES writer: 34562 of 74846 features written
+2021-08-10 12:27:49|  26.0|  0.3|INFORM|Committed transaction at feature '35000'
+2021-08-10 12:27:49|  26.6|  0.6|INFORM|Committed transaction at feature '36000'
+2021-08-10 12:27:50|  27.2|  0.6|INFORM|Committed transaction at feature '37000'
+2021-08-10 12:27:51|  27.9|  0.6|INFORM|Committed transaction at feature '38000'
+2021-08-10 12:27:51|  28.5|  0.6|INFORM|Committed transaction at feature '39000'
+2021-08-10 12:27:52|  29.1|  0.7|INFORM|Committed transaction at feature '40000'
+2021-08-10 12:27:53|  29.8|  0.7|INFORM|Committed transaction at feature '41000'
+2021-08-10 12:27:53|  30.4|  0.6|INFORM|Committed transaction at feature '42000'
+2021-08-10 12:27:54|  30.5|  0.1|INFORM|POSTGRES writer: 42177 of 74846 features written
+2021-08-10 12:27:54|  31.0|  0.5|INFORM|Committed transaction at feature '43000'
+2021-08-10 12:27:55|  31.7|  0.7|INFORM|Committed transaction at feature '44000'
+2021-08-10 12:27:55|  32.4|  0.6|INFORM|Committed transaction at feature '45000'
+2021-08-10 12:27:56|  33.0|  0.7|INFORM|Committed transaction at feature '46000'
+2021-08-10 12:27:57|  33.7|  0.7|INFORM|Committed transaction at feature '47000'
+2021-08-10 12:27:57|  34.3|  0.6|INFORM|Committed transaction at feature '48000'
+2021-08-10 12:27:58|  34.9|  0.6|INFORM|Committed transaction at feature '49000'
+2021-08-10 12:27:59|  35.3|  0.4|INFORM|POSTGRES writer: 49642 of 74846 features written
+2021-08-10 12:27:59|  35.6|  0.2|INFORM|Committed transaction at feature '50000'
+2021-08-10 12:27:59|  36.2|  0.6|INFORM|Committed transaction at feature '51000'
+2021-08-10 12:28:00|  36.8|  0.6|INFORM|Committed transaction at feature '52000'
+2021-08-10 12:28:01|  37.5|  0.7|INFORM|Committed transaction at feature '53000'
+2021-08-10 12:28:01|  38.2|  0.7|INFORM|Committed transaction at feature '54000'
+2021-08-10 12:28:02|  38.9|  0.7|INFORM|Committed transaction at feature '55000'
+2021-08-10 12:28:03|  39.6|  0.7|INFORM|Committed transaction at feature '56000'
+2021-08-10 12:28:04|  40.1|  0.5|INFORM|POSTGRES writer: 56753 of 74846 features written
+2021-08-10 12:28:04|  40.2|  0.1|INFORM|Committed transaction at feature '57000'
+2021-08-10 12:28:04|  40.8|  0.6|INFORM|Committed transaction at feature '58000'
+2021-08-10 12:28:05|  41.4|  0.6|INFORM|Committed transaction at feature '59000'
+2021-08-10 12:28:06|  42.0|  0.7|INFORM|Committed transaction at feature '60000'
+2021-08-10 12:28:06|  42.7|  0.6|INFORM|Committed transaction at feature '61000'
+2021-08-10 12:28:07|  43.3|  0.7|INFORM|Committed transaction at feature '62000'
+2021-08-10 12:28:08|  44.0|  0.6|INFORM|Committed transaction at feature '63000'
+2021-08-10 12:28:08|  44.7|  0.7|INFORM|Committed transaction at feature '64000'
+2021-08-10 12:28:09|  44.8|  0.1|INFORM|POSTGRES writer: 64131 of 74846 features written
+2021-08-10 12:28:09|  45.3|  0.6|INFORM|Committed transaction at feature '65000'
+2021-08-10 12:28:10|  46.1|  0.7|INFORM|Committed transaction at feature '66000'
+2021-08-10 12:28:11|  46.8|  0.7|INFORM|Committed transaction at feature '67000'
+2021-08-10 12:28:11|  47.5|  0.7|INFORM|Committed transaction at feature '68000'
+2021-08-10 12:28:12|  48.3|  0.8|INFORM|Committed transaction at feature '69000'
+2021-08-10 12:28:13|  48.9|  0.6|INFORM|Committed transaction at feature '70000'
+2021-08-10 12:28:13|  49.5|  0.6|INFORM|Committed transaction at feature '71000'
+2021-08-10 12:28:14|  49.5|  0.0|INFORM|POSTGRES writer: 71069 of 74846 features written
+2021-08-10 12:28:14|  50.1|  0.6|INFORM|Committed transaction at feature '72000'
+2021-08-10 12:28:15|  50.8|  0.6|INFORM|Committed transaction at feature '73000'
+2021-08-10 12:28:15|  51.4|  0.6|INFORM|Committed transaction at feature '74000'
+2021-08-10 12:28:16|  51.9|  0.5|INFORM|POSTGRES writer: 74846 of 74846 features written
+2021-08-10 12:28:16|  52.0|  0.1|INFORM|MULTI_READER(MULTI_READER): Done reading 74846 features from 1 readers
+2021-08-10 12:28:16|  52.0|  0.0|INFORM|Emptying factory pipeline
+2021-08-10 12:28:16|  52.0|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 74846 input feature(s), wrote 74846 output feature(s): 74846 matched merge filters, 74846 were routed to output, 0 could not be routed.
+2021-08-10 12:28:16|  52.0|  0.0|STATS |CSV_CSV2_1 Splitter (TeeFactory): Cloned 74846 input feature(s) into 74846 output feature(s)
+2021-08-10 12:28:16|  52.0|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 74846 input feature(s), wrote 74846 output feature(s): 0 matched merge filters, 74846 were routed to output, 0 could not be routed.
+2021-08-10 12:28:16|  52.0|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-10 12:28:16|  52.0|  0.0|INFORM|Creating 'BTree' index on column "oror_org_operator_number" of table 'public.p501'...
+2021-08-10 12:28:16|  52.0|  0.0|INFORM|Creating 'BTree' index on column "oror_other_organization_no" of table 'public.p501'...
+2021-08-10 12:28:16|  52.0|  0.0|INFORM|Successfully closed POSTGRES database writer
+2021-08-10 12:28:16|  52.0|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|INFORM|Feature output statistics for `POSTGRES' writer using keyword `POSTGRES_2':
+2021-08-10 12:28:16|  52.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|STATS |                               Features Written
+2021-08-10 12:28:16|  52.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|STATS |p501                                                                     74846
+2021-08-10 12:28:16|  52.0|  0.0|STATS |==============================================================================
+2021-08-10 12:28:16|  52.0|  0.0|STATS |Total Features Written                                                   74846
+2021-08-10 12:28:16|  52.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|STATS |                            Features Read Summary
+2021-08-10 12:28:16|  52.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|STATS |CSV                                                                      74846
+2021-08-10 12:28:16|  52.0|  0.0|STATS |==============================================================================
+2021-08-10 12:28:16|  52.0|  0.0|STATS |Total Features Read                                                      74846
+2021-08-10 12:28:16|  52.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|STATS |                           Features Written Summary
+2021-08-10 12:28:16|  52.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|STATS |p501                                                                     74846
+2021-08-10 12:28:16|  52.0|  0.0|STATS |==============================================================================
+2021-08-10 12:28:16|  52.0|  0.0|STATS |Total Features Written                                                   74846
+2021-08-10 12:28:16|  52.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-10 12:28:16|  52.0|  0.0|INFORM|Translation was SUCCESSFUL with 2 warning(s) (74846 feature(s) output)
+2021-08-10 12:28:16|  52.0|  0.0|INFORM|FME Session Duration: 56.0 seconds. (CPU: 50.1s user, 0.9s system)
+2021-08-10 12:28:16|  52.0|  0.0|INFORM|END - ProcessID: 7192, peak process memory usage: 185144 kB, current process memory usage: 54204 kB

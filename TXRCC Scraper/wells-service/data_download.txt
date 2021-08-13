@@ -1,0 +1,6 @@
+call activate arcgispro-py3-clone 
+python "D:\Users\rwhite\Documents\texas-wells\wells-service\python-scripts\get_wellbore.py"
+python "D:\Users\rwhite\Documents\texas-wells\wells-service\python-scripts\get_wells.py"
+python "D:\Users\rwhite\Documents\texas-wells\wells-service\python-scripts\get_drilling_permit_master.py"
+python "D:\Users\rwhite\Documents\texas-wells\wells-service\python-scripts\get_operator_data.py"
+python "D:\Users\rwhite\Documents\texas-wells\wells-service\python-scripts\get_api.py"

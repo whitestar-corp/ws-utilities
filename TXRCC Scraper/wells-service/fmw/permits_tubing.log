@@ -1,0 +1,840 @@
+2021-04-01 20:41:39|   0.0|  0.0|INFORM|FME 2020.2.0.0 (20201027 - Build 20787 - WIN64)
+2021-04-01 20:41:39|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2021-04-01 20:41:39|   0.0|  0.0|INFORM|FME ESRI Edition (node locked-crc)
+2021-04-01 20:41:39|   0.0|  0.0|INFORM|Serial Number: CY27-P78W-20C5
+2021-04-01 20:41:39|   0.0|  0.0|INFORM|Permanent License.
+2021-04-01 20:41:39|   0.0|  0.0|INFORM|Machine host name is: IP-C61386BF
+2021-04-01 20:41:39|   0.0|  0.0|INFORM|START - ProcessID: 10404, peak process memory usage: 37516 kB, current process memory usage: 37448 kB
+2021-04-01 20:41:39|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `D:/Users/rwhite/Documents/texas-wells/wells-service/fmw\wb-xlate-1617327696950_9236' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{760bcb93-0a0d-474f-8e87-e944d53d61bc}'
+2021-04-01 20:41:39|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'D:\Users\rwhite\AppData\Roaming\Safe Software\FME\'
+2021-04-01 20:41:40|   0.8|  0.7|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;D:\Users\rwhite\Documents\FME\Formats
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Shared folders for transformers are : D:\Users\rwhite\AppData\Roaming\Safe Software\FME\Packages\20787-win64\transformers;C:\Program Files\FME\transformers
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Shared folders for coordinate systems are : D:\Users\rwhite\Documents\FME\CoordinateSystems
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Shared folders for coordinate system exceptions are : D:\Users\rwhite\Documents\FME\CoordinateSystemExceptions
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Shared folders for coordinate system grid overrides are : D:\Users\rwhite\Documents\FME\CoordinateSystemGridOverrides
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : D:\Users\rwhite\Documents\FME\CsmapTransformationExceptions
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Shared folders for transformer categories are : D:\Users\rwhite\Documents\FME\TransformerCategories
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: Current working folder is `D:\Users\rwhite\Documents\texas-wells\wells-service\fmw'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: Temporary folder is `D:\Users\rwhite\AppData\Local\Temp\1\wbrun_1617327658462_9236\fmetmp_1617327698461_9236', set from environment variable `FME_TEMP'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'D:\Users\rwhite\Documents\texas-wells\wells-service\fmw/'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'permits_tubing.fmw'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2020.2.0.0'
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|System Status: 271.30 GB of disk space available in the FME temporary folder (D:\Users\rwhite\AppData\Local\Temp\1\wbrun_1617327658462_9236\fmetmp_1617327698461_9236)
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|System Status: 15.82 GB of physical memory available
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|System Status: 63.26 GB of virtual memory available
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Operating System: Microsoft Windows Server 10 Server 4.0 64-bit  (Build 14393)
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Platform: WIN64
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Locale: en_US
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|System Encoding: windows-1252
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 47.45 GB
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 35.59 GB
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Creating writer for format: 
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Creating reader for format: 
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2021-04-01 20:41:40|   0.8|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2021-04-01 20:41:40|   0.9|  0.0|INFORM|Loaded module 'QueryFactory' from file 'C:\Program Files\FME\plugins/QueryFactory.dll'
+2021-04-01 20:41:40|   0.9|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20200115)
+2021-04-01 20:41:40|   0.9|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2021-04-01 20:41:40|   0.9|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20200115)
+2021-04-01 20:41:40|   0.9|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20200115)
+2021-04-01 20:41:40|   0.9|  0.0|INFORM|Loaded module 'FeatureJoinerFactory' from file 'C:\Program Files\FME\plugins/FeatureJoinerFactory.dll'
+2021-04-01 20:41:40|   0.9|  0.0|INFORM|FME API version of module 'FeatureJoinerFactory' matches current internal version (3.8 20200115)
+2021-04-01 20:41:40|   0.9|  0.0|INFORM|Emptying factory pipeline
+2021-04-01 20:41:41|   1.0|  0.1|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for R_1
+2021-04-01 20:41:41|   1.0|  0.0|INFORM|Creating reader for format: PostgreSQL
+2021-04-01 20:41:41|   1.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `POSTGRES'
+2021-04-01 20:41:41|   1.0|  0.0|INFORM|Loaded module 'POSTGRES' from file 'C:\Program Files\FME\plugins/POSTGIS.dll'
+2021-04-01 20:41:41|   1.0|  0.0|INFORM|FME API version of module 'POSTGRES' matches current internal version (3.8 20200115)
+2021-04-01 20:41:41|   1.0|  0.0|INFORM|Performing query against POSTGRES dataset `pg.whitestar.com'
+2021-04-01 20:41:41|   1.1|  0.0|INFORM|Opening POSTGRES reader for dataset 'postgis20'
+2021-04-01 20:41:41|   1.1|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-04-01 20:41:41|   1.1|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-04-01 20:41:41|   1.1|  0.0|INFORM|POSTGRES reader: Building features into bulk mode features
+2021-04-01 20:41:41|   1.1|  0.0|INFORM|Executing custom data query: 'select distinct
+wb_api as api,
+wb_segment_counter as seg_cntr,
+wb_tubing_inches as tubng_inch,
+wb_tubing_numerator as tubng_numr,
+wb_tubing_denominator as tubng_denm,
+wb_depth_set as depth_set,
+wb_packer_set as packer_set
+from wb05_test'
+2021-04-01 20:41:46|   4.0|  3.0|INFORM|POSTGRES reader: Read 70000 features
+2021-04-01 20:41:51|   8.6|  4.6|INFORM|POSTGRES reader: Read 180000 features
+2021-04-01 20:41:56|  12.9|  4.3|INFORM|POSTGRES reader: Read 280000 features
+2021-04-01 20:42:01|  16.3|  3.4|INFORM|POSTGRES reader: Read 360000 features
+2021-04-01 20:42:06|  20.4|  4.1|INFORM|POSTGRES reader: Read 460000 features
+2021-04-01 20:42:11|  23.5|  3.1|INFORM|POSTGRES reader: Read 540000 features
+2021-04-01 20:42:11|  24.0|  0.5|STATS |SQLCreator_2_Creator (CreationFactory): Created 1 features
+2021-04-01 20:42:11|  24.0|  0.0|INFORM|Successfully closed POSTGRES database reader
+2021-04-01 20:42:11|  24.0|  0.0|INFORM|Successfully closed POSTGRES database reader
+2021-04-01 20:42:11|  24.0|  0.0|STATS |SQLCreator_2_RESULT Feature Counter -1 18 (TeeFactory): Cloned 552098 input feature(s) into 552098 output feature(s)
+2021-04-01 20:42:11|  24.0|  0.0|STATS |SQLCreator_2_RESULT Brancher -1 18 (BranchingFactory): Branched 552098 input features -- 6 features routed to the target factory, and 0 features routed to the fallback factory.
+2021-04-01 20:42:11|  24.0|  0.0|STATS |SQLCreator_2_<REJECTED> Feature Counter -1 2147614735 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:42:11|  24.1|  0.1|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for R_2
+2021-04-01 20:42:11|  24.1|  0.0|INFORM|Creating reader for format: PostGIS
+2021-04-01 20:42:11|  24.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `POSTGIS'
+2021-04-01 20:42:11|  24.2|  0.0|INFORM|FME Configuration: Source coordinate system for reader R_2[POSTGIS] set to `LL27'
+2021-04-01 20:42:11|  24.2|  0.0|INFORM|Coordinate System `LL27' parameters: CS_NAME=`LL27' DESC_NM=`NAD27 datum, Latitude-Longitude; Degrees' DT_NAME=`NAD27' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`85.16666666666667' MAX_LNG=`-45.733333333333334' MIN_LAT=`5.983333333333333' MIN_LNG=`-194.35' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2021-04-01 20:42:11|  24.2|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20200115)
+2021-04-01 20:42:11|  24.2|  0.0|INFORM|Performing query against POSTGIS dataset `pg.whitestar.com'
+2021-04-01 20:42:11|  24.2|  0.0|INFORM|Opening POSTGIS reader for dataset 'postgis20'
+2021-04-01 20:42:12|  24.2|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-04-01 20:42:12|  24.2|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-04-01 20:42:12|  24.2|  0.0|INFORM|2.5 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2021-04-01 20:42:12|  24.2|  0.0|INFORM|POSTGIS reader: Building features into bulk mode features
+2021-04-01 20:42:12|  24.2|  0.0|INFORM|Executing custom data query: 'select *
+from tx_header_pre_cum_test
+where length(api) = 8'
+2021-04-01 20:42:12|  24.4|  0.2|WARN  |NOT changing coordinate system of reader identified by keyword `R_2' from `LL27' to `EPSG:4267' -- mapping file setting of `LL27' overrides coordinate system `EPSG:4267' read from file
+2021-04-01 20:42:17|  28.4|  4.1|INFORM|POSTGIS reader: Read 10000 features
+2021-04-01 20:42:27|  36.5|  8.1|INFORM|POSTGIS reader: Read 30000 features
+2021-04-01 20:42:35|  44.0|  7.5|INFORM|POSTGIS reader: Read 50000 features
+2021-04-01 20:42:43|  51.7|  7.7|INFORM|POSTGIS reader: Read 70000 features
+2021-04-01 20:42:48|  55.4|  3.7|INFORM|POSTGIS reader: Read 80000 features
+2021-04-01 20:42:55|  62.5|  7.1|INFORM|POSTGIS reader: Read 100000 features
+2021-04-01 20:43:03|  69.9|  7.4|INFORM|POSTGIS reader: Read 120000 features
+2021-04-01 20:43:12|  76.9|  7.0|INFORM|POSTGIS reader: Read 140000 features
+2021-04-01 20:43:20|  83.8|  6.9|INFORM|POSTGIS reader: Read 160000 features
+2021-04-01 20:43:28|  91.3|  7.5|INFORM|POSTGIS reader: Read 180000 features
+2021-04-01 20:43:35|  98.6|  7.3|INFORM|POSTGIS reader: Read 200000 features
+2021-04-01 20:43:40| 102.3|  3.8|INFORM|POSTGIS reader: Read 210000 features
+2021-04-01 20:43:47| 109.5|  7.2|INFORM|POSTGIS reader: Read 230000 features
+2021-04-01 20:43:55| 117.0|  7.5|INFORM|POSTGIS reader: Read 250000 features
+2021-04-01 20:44:00| 120.7|  3.7|INFORM|POSTGIS reader: Read 260000 features
+2021-04-01 20:44:08| 127.8|  7.1|INFORM|POSTGIS reader: Read 280000 features
+2021-04-01 20:44:15| 135.3|  7.5|INFORM|POSTGIS reader: Read 300000 features
+2021-04-01 20:44:20| 139.0|  3.7|INFORM|POSTGIS reader: Read 310000 features
+2021-04-01 20:44:28| 146.0|  7.0|INFORM|POSTGIS reader: Read 330000 features
+2021-04-01 20:44:36| 153.3|  7.2|INFORM|POSTGIS reader: Read 350000 features
+2021-04-01 20:44:45| 159.8|  6.5|INFORM|POSTGIS reader: Read 370000 features
+2021-04-01 20:44:50| 163.3|  3.5|INFORM|POSTGIS reader: Read 380000 features
+2021-04-01 20:44:57| 169.8|  6.5|INFORM|POSTGIS reader: Read 400000 features
+2021-04-01 20:45:03| 173.2|  3.3|INFORM|POSTGIS reader: Read 410000 features
+2021-04-01 20:45:10| 179.8|  6.6|INFORM|POSTGIS reader: Read 430000 features
+2021-04-01 20:45:17| 186.3|  6.6|INFORM|POSTGIS reader: Read 450000 features
+2021-04-01 20:45:24| 193.2|  6.8|INFORM|POSTGIS reader: Read 470000 features
+2021-04-01 20:45:32| 199.9|  6.8|INFORM|POSTGIS reader: Read 490000 features
+2021-04-01 20:45:40| 206.8|  6.9|INFORM|POSTGIS reader: Read 510000 features
+2021-04-01 20:45:48| 214.1|  7.3|INFORM|POSTGIS reader: Read 530000 features
+2021-04-01 20:45:53| 217.6|  3.5|INFORM|POSTGIS reader: Read 540000 features
+2021-04-01 20:46:00| 224.5|  6.9|INFORM|POSTGIS reader: Read 560000 features
+2021-04-01 20:46:07| 231.7|  7.2|INFORM|POSTGIS reader: Read 580000 features
+2021-04-01 20:46:16| 239.0|  7.3|INFORM|POSTGIS reader: Read 600000 features
+2021-04-01 20:46:25| 245.9|  6.9|INFORM|POSTGIS reader: Read 620000 features
+2021-04-01 20:46:33| 253.1|  7.2|INFORM|POSTGIS reader: Read 640000 features
+2021-04-01 20:46:42| 260.3|  7.2|INFORM|POSTGIS reader: Read 660000 features
+2021-04-01 20:46:49| 263.8|  3.5|INFORM|POSTGIS reader: Read 670000 features
+2021-04-01 20:46:54| 267.7|  3.8|INFORM|POSTGIS reader: Read 680000 features
+2021-04-01 20:47:01| 271.1|  3.5|INFORM|POSTGIS reader: Read 690000 features
+2021-04-01 20:47:06| 274.9|  3.8|INFORM|POSTGIS reader: Read 700000 features
+2021-04-01 20:47:15| 282.9|  8.0|INFORM|POSTGIS reader: Read 720000 features
+2021-04-01 20:47:20| 286.6|  3.8|INFORM|POSTGIS reader: Read 730000 features
+2021-04-01 20:47:25| 290.4|  3.7|INFORM|POSTGIS reader: Read 740000 features
+2021-04-01 20:47:34| 297.5|  7.2|INFORM|POSTGIS reader: Read 760000 features
+2021-04-01 20:47:39| 301.5|  4.0|INFORM|POSTGIS reader: Read 770000 features
+2021-04-01 20:47:44| 305.3|  3.8|INFORM|POSTGIS reader: Read 780000 features
+2021-04-01 20:47:55| 312.6|  7.4|INFORM|POSTGIS reader: Read 800000 features
+2021-04-01 20:48:04| 319.6|  6.9|INFORM|POSTGIS reader: Read 820000 features
+2021-04-01 20:48:09| 323.6|  4.0|INFORM|POSTGIS reader: Read 830000 features
+2021-04-01 20:48:16| 327.2|  3.6|INFORM|POSTGIS reader: Read 840000 features
+2021-04-01 20:48:21| 331.1|  3.9|INFORM|POSTGIS reader: Read 850000 features
+2021-04-01 20:48:26| 334.2|  3.1|INFORM|POSTGIS reader: Read 860000 features
+2021-04-01 20:48:35| 341.1|  6.9|INFORM|POSTGIS reader: Read 880000 features
+2021-04-01 20:48:41| 344.9|  3.8|INFORM|POSTGIS reader: Read 890000 features
+2021-04-01 20:48:46| 348.6|  3.7|INFORM|POSTGIS reader: Read 900000 features
+2021-04-01 20:48:58| 352.1|  3.5|INFORM|POSTGIS reader: Read 910000 features
+2021-04-01 20:49:03| 354.9|  2.8|INFORM|POSTGIS reader: Read 920000 features
+2021-04-01 20:49:09| 357.8|  2.9|INFORM|POSTGIS reader: Read 930000 features
+2021-04-01 20:49:16| 363.5|  5.7|INFORM|POSTGIS reader: Read 950000 features
+2021-04-01 20:49:22| 366.3|  2.8|INFORM|POSTGIS reader: Read 960000 features
+2021-04-01 20:49:25| 369.5|  3.2|STATS |SQLCreator_4_Creator (CreationFactory): Created 1 features
+2021-04-01 20:49:25| 369.5|  0.0|INFORM|Successfully closed POSTGIS database reader
+2021-04-01 20:49:26| 369.6|  0.1|INFORM|Successfully closed POSTGIS database reader
+2021-04-01 20:49:26| 369.6|  0.0|STATS |SQLCreator_4_RESULT Feature Counter -1 19 (TeeFactory): Cloned 971071 input feature(s) into 971071 output feature(s)
+2021-04-01 20:49:26| 369.6|  0.0|STATS |SQLCreator_4_RESULT Brancher -1 19 (BranchingFactory): Branched 971071 input features -- 10 features routed to the target factory, and 0 features routed to the fallback factory.
+2021-04-01 20:49:26| 369.6|  0.0|STATS |SQLCreator_4_<REJECTED> Feature Counter -1 2147614732 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:49:26| 369.6|  0.0|STATS |_CREATOR_BRANCH_TARGET (TeeFactory): Cloned 1523169 input feature(s) into 1523169 output feature(s)
+2021-04-01 20:49:31| 371.0|  1.3|INFORM|FeatureJoiner (FeatureJoinerFactory): Indexing features: Processed 240000 / 552098
+2021-04-01 20:49:35| 372.6|  1.7|INFORM|FeatureJoiner (FeatureJoinerFactory): Indexing features: Processed 552098 / 552098
+2021-04-01 20:49:43| 375.0|  2.3|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 40000 / 971071
+2021-04-01 20:49:48| 376.7|  1.8|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 100000 / 971071
+2021-04-01 20:49:55| 378.1|  1.4|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 150000 / 971071
+2021-04-01 20:50:05| 385.1|  7.0|INFORM|StringLengthCalculator_3(@Tcl2): Processed 100000 features
+2021-04-01 20:50:06| 385.4|  0.3|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 200000 / 971071
+2021-04-01 20:50:11| 387.5|  2.1|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 260000 / 971071
+2021-04-01 20:50:17| 389.7|  2.2|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 320000 / 971071
+2021-04-01 20:50:22| 390.5|  0.8|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 350000 / 971071
+2021-04-01 20:50:30| 396.8|  6.3|INFORM|StringLengthCalculator_3(@Tcl2): Processed 100000 features
+2021-04-01 20:50:30| 397.0|  0.3|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 370000 / 971071
+2021-04-01 20:50:35| 398.1|  1.1|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 400000 / 971071
+2021-04-01 20:50:40| 399.6|  1.5|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 450000 / 971071
+2021-04-01 20:50:45| 401.5|  1.9|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 510000 / 971071
+2021-04-01 20:50:55| 408.0|  6.5|INFORM|StringLengthCalculator_3(@Tcl2): Processed 100000 features
+2021-04-01 20:50:55| 408.3|  0.3|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 540000 / 971071
+2021-04-01 20:51:00| 411.8|  3.5|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 640000 / 971071
+2021-04-01 20:51:08| 419.6|  7.8|INFORM|StringLengthCalculator_3(@Tcl2): Processed 100000 features
+2021-04-01 20:51:09| 419.9|  0.3|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 710000 / 971071
+2021-04-01 20:51:14| 422.6|  2.7|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 790000 / 971071
+2021-04-01 20:51:24| 430.9|  8.3|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-04-01 20:51:25| 431.5|  0.7|INFORM|Tester_2 (TestFactory): Processed 87115 of 100000 features
+2021-04-01 20:51:25| 431.9|  0.3|INFORM|Tester_2 (TestFactory): Processed 100000 of 100000 features
+2021-04-01 20:51:25| 432.0|  0.2|INFORM|StringLengthCalculator_3(@Tcl2): Processed 100000 features
+2021-04-01 20:51:25| 432.4|  0.4|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 880000 / 971071
+2021-04-01 20:51:29| 435.5|  3.1|INFORM|FeatureJoiner (FeatureJoinerFactory): Joining features: Processed 971071 / 971071
+2021-04-01 20:51:32| 438.9|  3.4|STATS |FeatureJoiner_JOINED Feature Counter -1 14 (TeeFactory): Cloned 551405 input feature(s) into 551405 output feature(s)
+2021-04-01 20:51:32| 438.9|  0.0|STATS |FeatureJoiner_<REJECTED> Feature Counter -1 2147811344 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:51:32| 438.9|  0.0|STATS |StringLengthCalculator_3 (TeeFactory): Cloned 551405 input feature(s) into 551405 output feature(s)
+2021-04-01 20:51:32| 438.9|  0.0|STATS |StringLengthCalculator_3_OUTPUT Feature Counter -1 20 (TeeFactory): Cloned 551405 input feature(s) into 551405 output feature(s)
+2021-04-01 20:51:32| 438.9|  0.0|STATS |Tester_2 (TestFactory): Tested 551405 input feature(s) -- 0 feature(s) passed and 551405 feature(s) failed
+2021-04-01 20:51:32| 438.9|  0.0|STATS |Tester_2_PASSED Feature Counter -1 21 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:51:32| 438.9|  0.0|STATS |Tester_2_FAILED Feature Counter -1 23 (TeeFactory): Cloned 551405 input feature(s) into 551405 output feature(s)
+2021-04-01 20:51:32| 438.9|  0.0|STATS |StringPadder_3_CheckWidth (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-04-01 20:51:32| 438.9|  0.0|STATS |StringPadder_3_StringPadder (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:51:32| 438.9|  0.0|STATS |StringPadder_3_<REJECTED> Feature Counter -1 24 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:51:32| 438.9|  0.0|STATS |AttributeCreator_4_OUTPUT Feature Counter -1 22 (TeeFactory): Cloned 551405 input feature(s) into 551405 output feature(s)
+2021-04-01 20:51:39| 444.9|  6.0|WARN  |Failed to free sufficient memory to reach the process usage limit. To improve stability and performance please increase the memory available to FME. Available memory can be increased by adding physical RAM, increasing swap space, or closing other applications
+2021-04-01 20:51:42| 447.1|  2.2|INFORM|Sorting: Loaded 150000 of 551405 features
+2021-04-01 20:51:48| 453.8|  6.7|INFORM|Sorting: Loaded 160000 of 551405 features
+2021-04-01 20:51:53| 456.8|  3.0|INFORM|Sorting: Loaded 300000 of 551405 features
+2021-04-01 20:52:00| 463.6|  6.8|INFORM|Sorting: Loaded 320000 of 551405 features
+2021-04-01 20:52:05| 467.3|  3.7|INFORM|Sorting: Loaded 460000 of 551405 features
+2021-04-01 20:52:12| 474.5|  7.3|INFORM|Sorting: Loaded 480000 of 551405 features
+2021-04-01 20:52:15| 476.4|  1.8|INFORM|Sorting: Loaded 551405 of 551405 features
+2021-04-01 20:52:20| 480.7|  4.3|INFORM|Sorting: 1.81% complete
+2021-04-01 20:52:26| 482.2|  1.6|INFORM|Sorting: 9.07% complete
+2021-04-01 20:52:32| 483.3|  1.0|INFORM|Sorting: 14.51% complete
+2021-04-01 20:52:38| 484.6|  1.3|INFORM|Sorting: 19.95% complete
+2021-04-01 20:52:43| 485.6|  1.0|INFORM|Sorting: 25.39% complete
+2021-04-01 20:52:48| 487.1|  1.5|INFORM|Sorting: 34.46% complete
+2021-04-01 20:52:53| 491.2|  4.1|INFORM|Sorting: 61.66% complete
+2021-04-01 20:52:58| 495.0|  3.8|INFORM|Sorting: 87.05% complete
+2021-04-01 20:53:04| 501.1|  6.1|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for POSTGIS_1
+2021-04-01 20:53:04| 501.2|  0.0|INFORM|Creating writer for format: PostGIS
+2021-04-01 20:53:04| 501.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `POSTGIS'
+2021-04-01 20:53:04| 501.2|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20200115)
+2021-04-01 20:53:04| 501.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-04-01 20:53:04| 501.2|  0.0|INFORM|POSTGIS writer: Splitting bulk mode features into features
+2021-04-01 20:53:05| 501.5|  0.3|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20200115)
+2021-04-01 20:53:05| 501.5|  0.0|INFORM|Writer `POSTGIS_1' of type `POSTGIS' using group definition keyword `POSTGIS_1_DEF'
+2021-04-01 20:53:05| 501.5|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20200115)
+2021-04-01 20:53:05| 501.5|  0.0|INFORM|Opening POSTGIS writer for dataset 'postgis20'...
+2021-04-01 20:53:05| 501.5|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-04-01 20:53:05| 501.5|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-04-01 20:53:05| 501.5|  0.0|INFORM|2.5 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2021-04-01 20:53:05| 501.5|  0.0|INFORM|Testing for the existence of table 'public.tx_tubing_latest_build_test'...
+2021-04-01 20:53:05| 501.5|  0.0|INFORM|Creating table 'public.tx_tubing_latest_build_test'...
+2021-04-01 20:53:06| 502.1|  0.6|INFORM|POSTGIS Writer: Creating 'unquoted WKB' geometry processor for feature type 'public.tx_tubing_latest_build_test'
+2021-04-01 20:53:06| 502.1|  0.0|INFORM|POSTGIS Writer: Creating 'streaming Bulk Copy' feature type processor for feature type 'public.tx_tubing_latest_build_test'
+2021-04-01 20:53:06| 502.2|  0.1|INFORM|Committed transaction at feature '1000'
+2021-04-01 20:53:06| 502.3|  0.1|INFORM|Committed transaction at feature '2000'
+2021-04-01 20:53:06| 502.4|  0.1|INFORM|Committed transaction at feature '3000'
+2021-04-01 20:53:06| 502.5|  0.1|INFORM|Committed transaction at feature '4000'
+2021-04-01 20:53:06| 502.6|  0.1|INFORM|Committed transaction at feature '5000'
+2021-04-01 20:53:06| 502.7|  0.1|INFORM|Committed transaction at feature '6000'
+2021-04-01 20:53:06| 502.8|  0.1|INFORM|Committed transaction at feature '7000'
+2021-04-01 20:53:06| 502.9|  0.1|INFORM|Committed transaction at feature '8000'
+2021-04-01 20:53:07| 503.0|  0.1|INFORM|Committed transaction at feature '9000'
+2021-04-01 20:53:07| 503.0|  0.1|INFORM|Committed transaction at feature '10000'
+2021-04-01 20:53:07| 503.3|  0.2|INFORM|Committed transaction at feature '11000'
+2021-04-01 20:53:07| 503.3|  0.1|INFORM|Committed transaction at feature '12000'
+2021-04-01 20:53:07| 503.4|  0.1|INFORM|Committed transaction at feature '13000'
+2021-04-01 20:53:07| 503.5|  0.1|INFORM|Committed transaction at feature '14000'
+2021-04-01 20:53:07| 503.6|  0.1|INFORM|Committed transaction at feature '15000'
+2021-04-01 20:53:07| 503.7|  0.1|INFORM|Committed transaction at feature '16000'
+2021-04-01 20:53:07| 503.8|  0.1|INFORM|Committed transaction at feature '17000'
+2021-04-01 20:53:08| 503.9|  0.1|INFORM|Committed transaction at feature '18000'
+2021-04-01 20:53:08| 504.0|  0.1|INFORM|Committed transaction at feature '19000'
+2021-04-01 20:53:08| 504.1|  0.1|INFORM|Committed transaction at feature '20000'
+2021-04-01 20:53:08| 504.3|  0.2|INFORM|Committed transaction at feature '21000'
+2021-04-01 20:53:08| 504.4|  0.1|INFORM|Committed transaction at feature '22000'
+2021-04-01 20:53:08| 504.5|  0.1|INFORM|Committed transaction at feature '23000'
+2021-04-01 20:53:08| 504.5|  0.1|INFORM|Committed transaction at feature '24000'
+2021-04-01 20:53:08| 504.6|  0.1|INFORM|Committed transaction at feature '25000'
+2021-04-01 20:53:08| 504.7|  0.1|INFORM|Committed transaction at feature '26000'
+2021-04-01 20:53:09| 504.7|  0.0|INFORM|POSTGIS writer: 26515 of 551405 features written
+2021-04-01 20:53:09| 504.8|  0.0|INFORM|Committed transaction at feature '27000'
+2021-04-01 20:53:09| 504.8|  0.1|INFORM|Committed transaction at feature '28000'
+2021-04-01 20:53:09| 504.9|  0.1|INFORM|Committed transaction at feature '29000'
+2021-04-01 20:53:09| 505.0|  0.1|INFORM|Committed transaction at feature '30000'
+2021-04-01 20:53:09| 505.2|  0.2|INFORM|Committed transaction at feature '31000'
+2021-04-01 20:53:09| 505.3|  0.1|INFORM|Committed transaction at feature '32000'
+2021-04-01 20:53:09| 505.4|  0.1|INFORM|Committed transaction at feature '33000'
+2021-04-01 20:53:09| 505.5|  0.1|INFORM|Committed transaction at feature '34000'
+2021-04-01 20:53:09| 505.6|  0.1|INFORM|Committed transaction at feature '35000'
+2021-04-01 20:53:10| 505.7|  0.1|INFORM|Committed transaction at feature '36000'
+2021-04-01 20:53:10| 505.8|  0.1|INFORM|Committed transaction at feature '37000'
+2021-04-01 20:53:10| 505.8|  0.1|INFORM|Committed transaction at feature '38000'
+2021-04-01 20:53:10| 505.9|  0.1|INFORM|Committed transaction at feature '39000'
+2021-04-01 20:53:10| 506.0|  0.1|INFORM|Committed transaction at feature '40000'
+2021-04-01 20:53:10| 506.2|  0.2|INFORM|Committed transaction at feature '41000'
+2021-04-01 20:53:10| 506.3|  0.1|INFORM|Committed transaction at feature '42000'
+2021-04-01 20:53:10| 506.4|  0.1|INFORM|Committed transaction at feature '43000'
+2021-04-01 20:53:10| 506.5|  0.1|INFORM|Committed transaction at feature '44000'
+2021-04-01 20:53:11| 506.6|  0.1|INFORM|Committed transaction at feature '45000'
+2021-04-01 20:53:11| 506.7|  0.1|INFORM|Committed transaction at feature '46000'
+2021-04-01 20:53:11| 506.8|  0.1|INFORM|Committed transaction at feature '47000'
+2021-04-01 20:53:11| 506.9|  0.1|INFORM|Committed transaction at feature '48000'
+2021-04-01 20:53:11| 506.9|  0.1|INFORM|Committed transaction at feature '49000'
+2021-04-01 20:53:11| 507.0|  0.1|INFORM|Committed transaction at feature '50000'
+2021-04-01 20:53:11| 507.2|  0.2|INFORM|Committed transaction at feature '51000'
+2021-04-01 20:53:11| 507.3|  0.1|INFORM|Committed transaction at feature '52000'
+2021-04-01 20:53:11| 507.4|  0.1|INFORM|Committed transaction at feature '53000'
+2021-04-01 20:53:12| 507.5|  0.1|INFORM|Committed transaction at feature '54000'
+2021-04-01 20:53:12| 507.6|  0.1|INFORM|Committed transaction at feature '55000'
+2021-04-01 20:53:12| 507.7|  0.1|INFORM|Committed transaction at feature '56000'
+2021-04-01 20:53:12| 507.8|  0.1|INFORM|Committed transaction at feature '57000'
+2021-04-01 20:53:12| 507.8|  0.1|INFORM|Committed transaction at feature '58000'
+2021-04-01 20:53:12| 507.9|  0.1|INFORM|Committed transaction at feature '59000'
+2021-04-01 20:53:12| 508.0|  0.1|INFORM|Committed transaction at feature '60000'
+2021-04-01 20:53:12| 508.2|  0.2|INFORM|Committed transaction at feature '61000'
+2021-04-01 20:53:12| 508.3|  0.1|INFORM|Committed transaction at feature '62000'
+2021-04-01 20:53:13| 508.3|  0.1|INFORM|Committed transaction at feature '63000'
+2021-04-01 20:53:13| 508.4|  0.1|INFORM|Committed transaction at feature '64000'
+2021-04-01 20:53:13| 508.5|  0.1|INFORM|Committed transaction at feature '65000'
+2021-04-01 20:53:13| 508.6|  0.1|INFORM|Committed transaction at feature '66000'
+2021-04-01 20:53:13| 508.7|  0.1|INFORM|Committed transaction at feature '67000'
+2021-04-01 20:53:13| 508.8|  0.1|INFORM|Committed transaction at feature '68000'
+2021-04-01 20:53:13| 508.8|  0.1|INFORM|Committed transaction at feature '69000'
+2021-04-01 20:53:13| 508.9|  0.1|INFORM|Committed transaction at feature '70000'
+2021-04-01 20:53:13| 509.2|  0.2|INFORM|Committed transaction at feature '71000'
+2021-04-01 20:53:14| 509.2|  0.0|INFORM|POSTGIS writer: 71000 of 551405 features written
+2021-04-01 20:53:14| 509.3|  0.1|INFORM|Committed transaction at feature '72000'
+2021-04-01 20:53:14| 509.3|  0.1|INFORM|Committed transaction at feature '73000'
+2021-04-01 20:53:14| 509.4|  0.1|INFORM|Committed transaction at feature '74000'
+2021-04-01 20:53:14| 509.5|  0.1|INFORM|Committed transaction at feature '75000'
+2021-04-01 20:53:14| 509.6|  0.1|INFORM|Committed transaction at feature '76000'
+2021-04-01 20:53:14| 509.7|  0.1|INFORM|Committed transaction at feature '77000'
+2021-04-01 20:53:14| 509.8|  0.1|INFORM|Committed transaction at feature '78000'
+2021-04-01 20:53:14| 509.8|  0.1|INFORM|Committed transaction at feature '79000'
+2021-04-01 20:53:14| 509.9|  0.1|INFORM|Committed transaction at feature '80000'
+2021-04-01 20:53:15| 510.1|  0.2|INFORM|Committed transaction at feature '81000'
+2021-04-01 20:53:15| 510.2|  0.1|INFORM|Committed transaction at feature '82000'
+2021-04-01 20:53:15| 510.3|  0.1|INFORM|Committed transaction at feature '83000'
+2021-04-01 20:53:15| 510.3|  0.1|INFORM|Committed transaction at feature '84000'
+2021-04-01 20:53:15| 510.4|  0.1|INFORM|Committed transaction at feature '85000'
+2021-04-01 20:53:15| 510.5|  0.1|INFORM|Committed transaction at feature '86000'
+2021-04-01 20:53:15| 510.6|  0.1|INFORM|Committed transaction at feature '87000'
+2021-04-01 20:53:15| 510.7|  0.1|INFORM|Committed transaction at feature '88000'
+2021-04-01 20:53:15| 510.8|  0.1|INFORM|Committed transaction at feature '89000'
+2021-04-01 20:53:15| 510.9|  0.1|INFORM|Committed transaction at feature '90000'
+2021-04-01 20:53:16| 511.2|  0.3|INFORM|Committed transaction at feature '91000'
+2021-04-01 20:53:16| 511.3|  0.1|INFORM|Committed transaction at feature '92000'
+2021-04-01 20:53:16| 511.4|  0.1|INFORM|Committed transaction at feature '93000'
+2021-04-01 20:53:16| 511.5|  0.1|INFORM|Committed transaction at feature '94000'
+2021-04-01 20:53:16| 511.5|  0.1|INFORM|Committed transaction at feature '95000'
+2021-04-01 20:53:16| 511.6|  0.1|INFORM|Committed transaction at feature '96000'
+2021-04-01 20:53:16| 511.7|  0.1|INFORM|Committed transaction at feature '97000'
+2021-04-01 20:53:16| 511.8|  0.1|INFORM|Committed transaction at feature '98000'
+2021-04-01 20:53:17| 511.9|  0.1|INFORM|Committed transaction at feature '99000'
+2021-04-01 20:53:17| 512.0|  0.1|INFORM|Committed transaction at feature '100000'
+2021-04-01 20:53:17| 512.2|  0.2|INFORM|Committed transaction at feature '101000'
+2021-04-01 20:53:17| 512.3|  0.1|INFORM|Committed transaction at feature '102000'
+2021-04-01 20:53:17| 512.4|  0.1|INFORM|Committed transaction at feature '103000'
+2021-04-01 20:53:17| 512.5|  0.1|INFORM|Committed transaction at feature '104000'
+2021-04-01 20:53:17| 512.6|  0.1|INFORM|Committed transaction at feature '105000'
+2021-04-01 20:53:17| 512.7|  0.1|INFORM|Committed transaction at feature '106000'
+2021-04-01 20:53:18| 512.8|  0.1|INFORM|Committed transaction at feature '107000'
+2021-04-01 20:53:18| 512.9|  0.1|INFORM|Committed transaction at feature '108000'
+2021-04-01 20:53:18| 513.0|  0.1|INFORM|Committed transaction at feature '109000'
+2021-04-01 20:53:18| 513.0|  0.1|INFORM|Committed transaction at feature '110000'
+2021-04-01 20:53:18| 513.3|  0.2|INFORM|Committed transaction at feature '111000'
+2021-04-01 20:53:18| 513.3|  0.1|INFORM|Committed transaction at feature '112000'
+2021-04-01 20:53:18| 513.4|  0.1|INFORM|Committed transaction at feature '113000'
+2021-04-01 20:53:18| 513.5|  0.1|INFORM|Committed transaction at feature '114000'
+2021-04-01 20:53:18| 513.6|  0.1|INFORM|Committed transaction at feature '115000'
+2021-04-01 20:53:19| 513.7|  0.0|INFORM|POSTGIS writer: 115436 of 551405 features written
+2021-04-01 20:53:19| 513.7|  0.0|INFORM|Committed transaction at feature '116000'
+2021-04-01 20:53:19| 513.8|  0.1|INFORM|Committed transaction at feature '117000'
+2021-04-01 20:53:19| 513.9|  0.1|INFORM|Committed transaction at feature '118000'
+2021-04-01 20:53:19| 514.0|  0.1|INFORM|Committed transaction at feature '119000'
+2021-04-01 20:53:19| 514.1|  0.1|INFORM|Committed transaction at feature '120000'
+2021-04-01 20:53:19| 514.4|  0.3|INFORM|Committed transaction at feature '121000'
+2021-04-01 20:53:19| 514.5|  0.1|INFORM|Committed transaction at feature '122000'
+2021-04-01 20:53:19| 514.5|  0.1|INFORM|Committed transaction at feature '123000'
+2021-04-01 20:53:20| 514.6|  0.1|INFORM|Committed transaction at feature '124000'
+2021-04-01 20:53:20| 514.7|  0.1|INFORM|Committed transaction at feature '125000'
+2021-04-01 20:53:20| 514.8|  0.1|INFORM|Committed transaction at feature '126000'
+2021-04-01 20:53:20| 514.9|  0.1|INFORM|Committed transaction at feature '127000'
+2021-04-01 20:53:20| 515.1|  0.1|INFORM|Committed transaction at feature '128000'
+2021-04-01 20:53:20| 515.2|  0.1|INFORM|Committed transaction at feature '129000'
+2021-04-01 20:53:20| 515.3|  0.1|INFORM|Committed transaction at feature '130000'
+2021-04-01 20:53:21| 515.5|  0.3|INFORM|Committed transaction at feature '131000'
+2021-04-01 20:53:21| 515.7|  0.1|INFORM|Committed transaction at feature '132000'
+2021-04-01 20:53:21| 515.8|  0.1|INFORM|Committed transaction at feature '133000'
+2021-04-01 20:53:21| 515.9|  0.1|INFORM|Committed transaction at feature '134000'
+2021-04-01 20:53:21| 516.0|  0.1|INFORM|Committed transaction at feature '135000'
+2021-04-01 20:53:21| 516.1|  0.1|INFORM|Committed transaction at feature '136000'
+2021-04-01 20:53:21| 516.3|  0.1|INFORM|Committed transaction at feature '137000'
+2021-04-01 20:53:22| 516.4|  0.1|INFORM|Committed transaction at feature '138000'
+2021-04-01 20:53:22| 516.5|  0.1|INFORM|Committed transaction at feature '139000'
+2021-04-01 20:53:22| 516.6|  0.1|INFORM|Committed transaction at feature '140000'
+2021-04-01 20:53:22| 516.9|  0.3|INFORM|Committed transaction at feature '141000'
+2021-04-01 20:53:22| 516.9|  0.1|INFORM|Committed transaction at feature '142000'
+2021-04-01 20:53:22| 517.0|  0.1|INFORM|Committed transaction at feature '143000'
+2021-04-01 20:53:22| 517.1|  0.1|INFORM|Committed transaction at feature '144000'
+2021-04-01 20:53:23| 517.2|  0.1|INFORM|Committed transaction at feature '145000'
+2021-04-01 20:53:23| 517.3|  0.1|INFORM|Committed transaction at feature '146000'
+2021-04-01 20:53:23| 517.4|  0.1|INFORM|Committed transaction at feature '147000'
+2021-04-01 20:53:23| 517.5|  0.1|INFORM|Committed transaction at feature '148000'
+2021-04-01 20:53:23| 517.6|  0.1|INFORM|Committed transaction at feature '149000'
+2021-04-01 20:53:23| 517.7|  0.1|INFORM|Committed transaction at feature '150000'
+2021-04-01 20:53:23| 518.0|  0.2|INFORM|Committed transaction at feature '151000'
+2021-04-01 20:53:23| 518.1|  0.1|INFORM|Committed transaction at feature '152000'
+2021-04-01 20:53:24| 518.1|  0.0|INFORM|POSTGIS writer: 152380 of 551405 features written
+2021-04-01 20:53:24| 518.2|  0.1|INFORM|Committed transaction at feature '153000'
+2021-04-01 20:53:24| 518.3|  0.1|INFORM|Committed transaction at feature '154000'
+2021-04-01 20:53:24| 518.4|  0.1|INFORM|Committed transaction at feature '155000'
+2021-04-01 20:53:24| 518.5|  0.1|INFORM|Committed transaction at feature '156000'
+2021-04-01 20:53:24| 518.6|  0.1|INFORM|Committed transaction at feature '157000'
+2021-04-01 20:53:24| 518.7|  0.1|INFORM|Committed transaction at feature '158000'
+2021-04-01 20:53:24| 518.8|  0.1|INFORM|Committed transaction at feature '159000'
+2021-04-01 20:53:24| 518.9|  0.1|INFORM|Committed transaction at feature '160000'
+2021-04-01 20:53:25| 519.1|  0.3|INFORM|Committed transaction at feature '161000'
+2021-04-01 20:53:25| 519.2|  0.1|INFORM|Committed transaction at feature '162000'
+2021-04-01 20:53:25| 519.3|  0.1|INFORM|Committed transaction at feature '163000'
+2021-04-01 20:53:25| 519.4|  0.1|INFORM|Committed transaction at feature '164000'
+2021-04-01 20:53:25| 519.5|  0.1|INFORM|Committed transaction at feature '165000'
+2021-04-01 20:53:25| 519.6|  0.1|INFORM|Committed transaction at feature '166000'
+2021-04-01 20:53:25| 519.7|  0.1|INFORM|Committed transaction at feature '167000'
+2021-04-01 20:53:25| 519.9|  0.1|INFORM|Committed transaction at feature '168000'
+2021-04-01 20:53:26| 520.0|  0.1|INFORM|Committed transaction at feature '169000'
+2021-04-01 20:53:26| 520.1|  0.1|INFORM|Committed transaction at feature '170000'
+2021-04-01 20:53:26| 520.3|  0.3|INFORM|Committed transaction at feature '171000'
+2021-04-01 20:53:26| 520.5|  0.1|INFORM|Committed transaction at feature '172000'
+2021-04-01 20:53:26| 520.6|  0.1|INFORM|Committed transaction at feature '173000'
+2021-04-01 20:53:26| 520.7|  0.1|INFORM|Committed transaction at feature '174000'
+2021-04-01 20:53:26| 520.8|  0.1|INFORM|Committed transaction at feature '175000'
+2021-04-01 20:53:27| 520.9|  0.1|INFORM|Committed transaction at feature '176000'
+2021-04-01 20:53:27| 521.0|  0.1|INFORM|Committed transaction at feature '177000'
+2021-04-01 20:53:27| 521.1|  0.1|INFORM|Committed transaction at feature '178000'
+2021-04-01 20:53:27| 521.2|  0.1|INFORM|Committed transaction at feature '179000'
+2021-04-01 20:53:27| 521.3|  0.1|INFORM|Committed transaction at feature '180000'
+2021-04-01 20:53:27| 521.5|  0.2|INFORM|Committed transaction at feature '181000'
+2021-04-01 20:53:27| 521.6|  0.1|INFORM|Committed transaction at feature '182000'
+2021-04-01 20:53:28| 521.7|  0.1|INFORM|Committed transaction at feature '183000'
+2021-04-01 20:53:28| 521.8|  0.1|INFORM|Committed transaction at feature '184000'
+2021-04-01 20:53:28| 522.0|  0.1|INFORM|Committed transaction at feature '185000'
+2021-04-01 20:53:28| 522.1|  0.1|INFORM|Committed transaction at feature '186000'
+2021-04-01 20:53:28| 522.2|  0.1|INFORM|Committed transaction at feature '187000'
+2021-04-01 20:53:28| 522.3|  0.1|INFORM|Committed transaction at feature '188000'
+2021-04-01 20:53:28| 522.4|  0.1|INFORM|Committed transaction at feature '189000'
+2021-04-01 20:53:28| 522.5|  0.1|INFORM|Committed transaction at feature '190000'
+2021-04-01 20:53:29| 522.6|  0.2|INFORM|POSTGIS writer: 190402 of 551405 features written
+2021-04-01 20:53:29| 522.7|  0.1|INFORM|Committed transaction at feature '191000'
+2021-04-01 20:53:29| 522.8|  0.1|INFORM|Committed transaction at feature '192000'
+2021-04-01 20:53:29| 522.9|  0.1|INFORM|Committed transaction at feature '193000'
+2021-04-01 20:53:29| 523.0|  0.1|INFORM|Committed transaction at feature '194000'
+2021-04-01 20:53:29| 523.1|  0.1|INFORM|Committed transaction at feature '195000'
+2021-04-01 20:53:29| 523.2|  0.1|INFORM|Committed transaction at feature '196000'
+2021-04-01 20:53:29| 523.3|  0.1|INFORM|Committed transaction at feature '197000'
+2021-04-01 20:53:29| 523.4|  0.1|INFORM|Committed transaction at feature '198000'
+2021-04-01 20:53:29| 523.5|  0.1|INFORM|Committed transaction at feature '199000'
+2021-04-01 20:53:30| 523.6|  0.1|INFORM|Committed transaction at feature '200000'
+2021-04-01 20:53:30| 523.9|  0.2|INFORM|Committed transaction at feature '201000'
+2021-04-01 20:53:30| 524.0|  0.1|INFORM|Committed transaction at feature '202000'
+2021-04-01 20:53:30| 524.1|  0.1|INFORM|Committed transaction at feature '203000'
+2021-04-01 20:53:30| 524.2|  0.1|INFORM|Committed transaction at feature '204000'
+2021-04-01 20:53:30| 524.3|  0.1|INFORM|Committed transaction at feature '205000'
+2021-04-01 20:53:30| 524.5|  0.1|INFORM|Committed transaction at feature '206000'
+2021-04-01 20:53:31| 524.6|  0.1|INFORM|Committed transaction at feature '207000'
+2021-04-01 20:53:31| 524.7|  0.1|INFORM|Committed transaction at feature '208000'
+2021-04-01 20:53:31| 524.8|  0.1|INFORM|Committed transaction at feature '209000'
+2021-04-01 20:53:31| 524.9|  0.1|INFORM|Committed transaction at feature '210000'
+2021-04-01 20:53:31| 525.1|  0.2|INFORM|Committed transaction at feature '211000'
+2021-04-01 20:53:31| 525.2|  0.1|INFORM|Committed transaction at feature '212000'
+2021-04-01 20:53:31| 525.3|  0.1|INFORM|Committed transaction at feature '213000'
+2021-04-01 20:53:32| 525.4|  0.1|INFORM|Committed transaction at feature '214000'
+2021-04-01 20:53:32| 525.5|  0.1|INFORM|Committed transaction at feature '215000'
+2021-04-01 20:53:32| 525.6|  0.1|INFORM|Committed transaction at feature '216000'
+2021-04-01 20:53:32| 525.7|  0.1|INFORM|Committed transaction at feature '217000'
+2021-04-01 20:53:32| 525.8|  0.1|INFORM|Committed transaction at feature '218000'
+2021-04-01 20:53:32| 525.9|  0.1|INFORM|Committed transaction at feature '219000'
+2021-04-01 20:53:32| 526.0|  0.1|INFORM|Committed transaction at feature '220000'
+2021-04-01 20:53:32| 526.3|  0.3|INFORM|Committed transaction at feature '221000'
+2021-04-01 20:53:33| 526.4|  0.1|INFORM|Committed transaction at feature '222000'
+2021-04-01 20:53:33| 526.5|  0.1|INFORM|Committed transaction at feature '223000'
+2021-04-01 20:53:33| 526.6|  0.1|INFORM|Committed transaction at feature '224000'
+2021-04-01 20:53:33| 526.7|  0.1|INFORM|Committed transaction at feature '225000'
+2021-04-01 20:53:33| 526.8|  0.1|INFORM|Committed transaction at feature '226000'
+2021-04-01 20:53:33| 527.0|  0.1|INFORM|Committed transaction at feature '227000'
+2021-04-01 20:53:33| 527.1|  0.1|INFORM|Committed transaction at feature '228000'
+2021-04-01 20:53:33| 527.2|  0.1|INFORM|Committed transaction at feature '229000'
+2021-04-01 20:53:34| 527.2|  0.0|INFORM|POSTGIS writer: 229053 of 551405 features written
+2021-04-01 20:53:34| 527.3|  0.1|INFORM|Committed transaction at feature '230000'
+2021-04-01 20:53:34| 527.6|  0.3|INFORM|Committed transaction at feature '231000'
+2021-04-01 20:53:34| 527.7|  0.1|INFORM|Committed transaction at feature '232000'
+2021-04-01 20:53:34| 527.8|  0.1|INFORM|Committed transaction at feature '233000'
+2021-04-01 20:53:34| 527.9|  0.1|INFORM|Committed transaction at feature '234000'
+2021-04-01 20:53:34| 528.0|  0.1|INFORM|Committed transaction at feature '235000'
+2021-04-01 20:53:35| 528.2|  0.1|INFORM|Committed transaction at feature '236000'
+2021-04-01 20:53:35| 528.3|  0.1|INFORM|Committed transaction at feature '237000'
+2021-04-01 20:53:35| 528.4|  0.1|INFORM|Committed transaction at feature '238000'
+2021-04-01 20:53:35| 528.5|  0.1|INFORM|Committed transaction at feature '239000'
+2021-04-01 20:53:35| 528.6|  0.1|INFORM|Committed transaction at feature '240000'
+2021-04-01 20:53:35| 528.9|  0.3|INFORM|Committed transaction at feature '241000'
+2021-04-01 20:53:35| 529.0|  0.1|INFORM|Committed transaction at feature '242000'
+2021-04-01 20:53:36| 529.1|  0.1|INFORM|Committed transaction at feature '243000'
+2021-04-01 20:53:36| 529.2|  0.1|INFORM|Committed transaction at feature '244000'
+2021-04-01 20:53:36| 529.3|  0.1|INFORM|Committed transaction at feature '245000'
+2021-04-01 20:53:36| 529.4|  0.1|INFORM|Committed transaction at feature '246000'
+2021-04-01 20:53:36| 529.5|  0.1|INFORM|Committed transaction at feature '247000'
+2021-04-01 20:53:36| 529.7|  0.1|INFORM|Committed transaction at feature '248000'
+2021-04-01 20:53:36| 529.8|  0.1|INFORM|Committed transaction at feature '249000'
+2021-04-01 20:53:36| 529.9|  0.1|INFORM|Committed transaction at feature '250000'
+2021-04-01 20:53:37| 530.2|  0.3|INFORM|Committed transaction at feature '251000'
+2021-04-01 20:53:37| 530.3|  0.1|INFORM|Committed transaction at feature '252000'
+2021-04-01 20:53:37| 530.4|  0.1|INFORM|Committed transaction at feature '253000'
+2021-04-01 20:53:37| 530.5|  0.1|INFORM|Committed transaction at feature '254000'
+2021-04-01 20:53:37| 530.6|  0.1|INFORM|Committed transaction at feature '255000'
+2021-04-01 20:53:37| 530.8|  0.1|INFORM|Committed transaction at feature '256000'
+2021-04-01 20:53:38| 530.9|  0.1|INFORM|Committed transaction at feature '257000'
+2021-04-01 20:53:38| 531.0|  0.1|INFORM|Committed transaction at feature '258000'
+2021-04-01 20:53:38| 531.1|  0.1|INFORM|Committed transaction at feature '259000'
+2021-04-01 20:53:38| 531.3|  0.1|INFORM|Committed transaction at feature '260000'
+2021-04-01 20:53:38| 531.5|  0.3|INFORM|Committed transaction at feature '261000'
+2021-04-01 20:53:38| 531.6|  0.1|INFORM|Committed transaction at feature '262000'
+2021-04-01 20:53:38| 531.8|  0.1|INFORM|Committed transaction at feature '263000'
+2021-04-01 20:53:39| 531.8|  0.0|INFORM|POSTGIS writer: 263002 of 551405 features written
+2021-04-01 20:53:39| 531.9|  0.1|INFORM|Committed transaction at feature '264000'
+2021-04-01 20:53:39| 532.0|  0.1|INFORM|Committed transaction at feature '265000'
+2021-04-01 20:53:39| 532.1|  0.1|INFORM|Committed transaction at feature '266000'
+2021-04-01 20:53:39| 532.2|  0.1|INFORM|Committed transaction at feature '267000'
+2021-04-01 20:53:39| 532.3|  0.1|INFORM|Committed transaction at feature '268000'
+2021-04-01 20:53:39| 532.4|  0.1|INFORM|Committed transaction at feature '269000'
+2021-04-01 20:53:39| 532.5|  0.1|INFORM|Committed transaction at feature '270000'
+2021-04-01 20:53:40| 532.9|  0.3|INFORM|Committed transaction at feature '271000'
+2021-04-01 20:53:40| 533.0|  0.1|INFORM|Committed transaction at feature '272000'
+2021-04-01 20:53:40| 533.1|  0.1|INFORM|Committed transaction at feature '273000'
+2021-04-01 20:53:40| 533.2|  0.1|INFORM|Committed transaction at feature '274000'
+2021-04-01 20:53:40| 533.3|  0.1|INFORM|Committed transaction at feature '275000'
+2021-04-01 20:53:40| 533.4|  0.1|INFORM|Committed transaction at feature '276000'
+2021-04-01 20:53:41| 533.5|  0.1|INFORM|Committed transaction at feature '277000'
+2021-04-01 20:53:41| 533.7|  0.1|INFORM|Committed transaction at feature '278000'
+2021-04-01 20:53:41| 533.8|  0.1|INFORM|Committed transaction at feature '279000'
+2021-04-01 20:53:41| 533.9|  0.1|INFORM|Committed transaction at feature '280000'
+2021-04-01 20:53:41| 534.2|  0.3|INFORM|Committed transaction at feature '281000'
+2021-04-01 20:53:41| 534.3|  0.1|INFORM|Committed transaction at feature '282000'
+2021-04-01 20:53:41| 534.4|  0.1|INFORM|Committed transaction at feature '283000'
+2021-04-01 20:53:42| 534.5|  0.1|INFORM|Committed transaction at feature '284000'
+2021-04-01 20:53:42| 534.7|  0.1|INFORM|Committed transaction at feature '285000'
+2021-04-01 20:53:42| 534.8|  0.1|INFORM|Committed transaction at feature '286000'
+2021-04-01 20:53:42| 534.9|  0.1|INFORM|Committed transaction at feature '287000'
+2021-04-01 20:53:42| 535.0|  0.1|INFORM|Committed transaction at feature '288000'
+2021-04-01 20:53:42| 535.1|  0.1|INFORM|Committed transaction at feature '289000'
+2021-04-01 20:53:42| 535.2|  0.1|INFORM|Committed transaction at feature '290000'
+2021-04-01 20:53:43| 535.5|  0.3|INFORM|Committed transaction at feature '291000'
+2021-04-01 20:53:43| 535.6|  0.1|INFORM|Committed transaction at feature '292000'
+2021-04-01 20:53:43| 535.7|  0.1|INFORM|Committed transaction at feature '293000'
+2021-04-01 20:53:43| 535.8|  0.1|INFORM|Committed transaction at feature '294000'
+2021-04-01 20:53:43| 536.0|  0.1|INFORM|Committed transaction at feature '295000'
+2021-04-01 20:53:43| 536.1|  0.1|INFORM|Committed transaction at feature '296000'
+2021-04-01 20:53:43| 536.2|  0.1|INFORM|Committed transaction at feature '297000'
+2021-04-01 20:53:44| 536.2|  0.0|INFORM|POSTGIS writer: 297292 of 551405 features written
+2021-04-01 20:53:44| 536.3|  0.1|INFORM|Committed transaction at feature '298000'
+2021-04-01 20:53:44| 536.4|  0.1|INFORM|Committed transaction at feature '299000'
+2021-04-01 20:53:44| 536.5|  0.1|INFORM|Committed transaction at feature '300000'
+2021-04-01 20:53:44| 536.8|  0.3|INFORM|Committed transaction at feature '301000'
+2021-04-01 20:53:44| 536.9|  0.1|INFORM|Committed transaction at feature '302000'
+2021-04-01 20:53:44| 537.0|  0.1|INFORM|Committed transaction at feature '303000'
+2021-04-01 20:53:45| 537.1|  0.1|INFORM|Committed transaction at feature '304000'
+2021-04-01 20:53:45| 537.3|  0.1|INFORM|Committed transaction at feature '305000'
+2021-04-01 20:53:45| 537.4|  0.1|INFORM|Committed transaction at feature '306000'
+2021-04-01 20:53:45| 537.5|  0.1|INFORM|Committed transaction at feature '307000'
+2021-04-01 20:53:45| 537.6|  0.1|INFORM|Committed transaction at feature '308000'
+2021-04-01 20:53:45| 537.7|  0.1|INFORM|Committed transaction at feature '309000'
+2021-04-01 20:53:45| 537.8|  0.1|INFORM|Committed transaction at feature '310000'
+2021-04-01 20:53:46| 538.1|  0.3|INFORM|Committed transaction at feature '311000'
+2021-04-01 20:53:46| 538.2|  0.1|INFORM|Committed transaction at feature '312000'
+2021-04-01 20:53:46| 538.3|  0.1|INFORM|Committed transaction at feature '313000'
+2021-04-01 20:53:46| 538.5|  0.1|INFORM|Committed transaction at feature '314000'
+2021-04-01 20:53:46| 538.6|  0.1|INFORM|Committed transaction at feature '315000'
+2021-04-01 20:53:46| 538.7|  0.1|INFORM|Committed transaction at feature '316000'
+2021-04-01 20:53:46| 538.8|  0.1|INFORM|Committed transaction at feature '317000'
+2021-04-01 20:53:47| 538.9|  0.1|INFORM|Committed transaction at feature '318000'
+2021-04-01 20:53:47| 539.0|  0.1|INFORM|Committed transaction at feature '319000'
+2021-04-01 20:53:47| 539.2|  0.1|INFORM|Committed transaction at feature '320000'
+2021-04-01 20:53:47| 539.5|  0.3|INFORM|Committed transaction at feature '321000'
+2021-04-01 20:53:47| 539.6|  0.1|INFORM|Committed transaction at feature '322000'
+2021-04-01 20:53:47| 539.7|  0.1|INFORM|Committed transaction at feature '323000'
+2021-04-01 20:53:47| 539.8|  0.1|INFORM|Committed transaction at feature '324000'
+2021-04-01 20:53:48| 539.9|  0.1|INFORM|Committed transaction at feature '325000'
+2021-04-01 20:53:48| 540.0|  0.1|INFORM|Committed transaction at feature '326000'
+2021-04-01 20:53:48| 540.1|  0.1|INFORM|Committed transaction at feature '327000'
+2021-04-01 20:53:48| 540.3|  0.1|INFORM|Committed transaction at feature '328000'
+2021-04-01 20:53:48| 540.4|  0.1|INFORM|Committed transaction at feature '329000'
+2021-04-01 20:53:48| 540.5|  0.1|INFORM|Committed transaction at feature '330000'
+2021-04-01 20:53:49| 540.7|  0.2|INFORM|POSTGIS writer: 330691 of 551405 features written
+2021-04-01 20:53:49| 540.8|  0.0|INFORM|Committed transaction at feature '331000'
+2021-04-01 20:53:49| 540.9|  0.1|INFORM|Committed transaction at feature '332000'
+2021-04-01 20:53:49| 541.0|  0.1|INFORM|Committed transaction at feature '333000'
+2021-04-01 20:53:49| 541.1|  0.1|INFORM|Committed transaction at feature '334000'
+2021-04-01 20:53:49| 541.3|  0.1|INFORM|Committed transaction at feature '335000'
+2021-04-01 20:53:49| 541.4|  0.1|INFORM|Committed transaction at feature '336000'
+2021-04-01 20:53:49| 541.5|  0.1|INFORM|Committed transaction at feature '337000'
+2021-04-01 20:53:49| 541.6|  0.1|INFORM|Committed transaction at feature '338000'
+2021-04-01 20:53:50| 541.7|  0.1|INFORM|Committed transaction at feature '339000'
+2021-04-01 20:53:50| 541.8|  0.1|INFORM|Committed transaction at feature '340000'
+2021-04-01 20:53:50| 542.1|  0.2|INFORM|Committed transaction at feature '341000'
+2021-04-01 20:53:50| 542.2|  0.1|INFORM|Committed transaction at feature '342000'
+2021-04-01 20:53:50| 542.3|  0.1|INFORM|Committed transaction at feature '343000'
+2021-04-01 20:53:50| 542.4|  0.1|INFORM|Committed transaction at feature '344000'
+2021-04-01 20:53:51| 542.5|  0.1|INFORM|Committed transaction at feature '345000'
+2021-04-01 20:53:51| 542.6|  0.1|INFORM|Committed transaction at feature '346000'
+2021-04-01 20:53:51| 542.8|  0.1|INFORM|Committed transaction at feature '347000'
+2021-04-01 20:53:51| 542.9|  0.1|INFORM|Committed transaction at feature '348000'
+2021-04-01 20:53:51| 543.0|  0.1|INFORM|Committed transaction at feature '349000'
+2021-04-01 20:53:51| 543.1|  0.1|INFORM|Committed transaction at feature '350000'
+2021-04-01 20:53:52| 543.4|  0.3|INFORM|Committed transaction at feature '351000'
+2021-04-01 20:53:52| 543.6|  0.1|INFORM|Committed transaction at feature '352000'
+2021-04-01 20:53:52| 543.7|  0.1|INFORM|Committed transaction at feature '353000'
+2021-04-01 20:53:52| 543.8|  0.1|INFORM|Committed transaction at feature '354000'
+2021-04-01 20:53:52| 543.9|  0.1|INFORM|Committed transaction at feature '355000'
+2021-04-01 20:53:52| 544.0|  0.1|INFORM|Committed transaction at feature '356000'
+2021-04-01 20:53:52| 544.2|  0.1|INFORM|Committed transaction at feature '357000'
+2021-04-01 20:53:52| 544.3|  0.1|INFORM|Committed transaction at feature '358000'
+2021-04-01 20:53:53| 544.4|  0.1|INFORM|Committed transaction at feature '359000'
+2021-04-01 20:53:53| 544.5|  0.1|INFORM|Committed transaction at feature '360000'
+2021-04-01 20:53:53| 544.8|  0.3|INFORM|Committed transaction at feature '361000'
+2021-04-01 20:53:53| 544.9|  0.1|INFORM|Committed transaction at feature '362000'
+2021-04-01 20:53:53| 545.0|  0.1|INFORM|Committed transaction at feature '363000'
+2021-04-01 20:53:53| 545.1|  0.1|INFORM|Committed transaction at feature '364000'
+2021-04-01 20:53:54| 545.2|  0.1|INFORM|POSTGIS writer: 364656 of 551405 features written
+2021-04-01 20:53:54| 545.2|  0.0|INFORM|Committed transaction at feature '365000'
+2021-04-01 20:53:54| 545.3|  0.1|INFORM|Committed transaction at feature '366000'
+2021-04-01 20:53:54| 545.4|  0.1|INFORM|Committed transaction at feature '367000'
+2021-04-01 20:53:54| 545.6|  0.1|INFORM|Committed transaction at feature '368000'
+2021-04-01 20:53:54| 545.7|  0.1|INFORM|Committed transaction at feature '369000'
+2021-04-01 20:53:54| 545.8|  0.1|INFORM|Committed transaction at feature '370000'
+2021-04-01 20:53:54| 546.1|  0.3|INFORM|Committed transaction at feature '371000'
+2021-04-01 20:53:55| 546.2|  0.1|INFORM|Committed transaction at feature '372000'
+2021-04-01 20:53:55| 546.3|  0.1|INFORM|Committed transaction at feature '373000'
+2021-04-01 20:53:55| 546.4|  0.1|INFORM|Committed transaction at feature '374000'
+2021-04-01 20:53:55| 546.6|  0.1|INFORM|Committed transaction at feature '375000'
+2021-04-01 20:53:55| 546.7|  0.1|INFORM|Committed transaction at feature '376000'
+2021-04-01 20:53:55| 546.8|  0.1|INFORM|Committed transaction at feature '377000'
+2021-04-01 20:53:55| 546.9|  0.1|INFORM|Committed transaction at feature '378000'
+2021-04-01 20:53:56| 547.0|  0.1|INFORM|Committed transaction at feature '379000'
+2021-04-01 20:53:56| 547.1|  0.1|INFORM|Committed transaction at feature '380000'
+2021-04-01 20:53:56| 547.4|  0.3|INFORM|Committed transaction at feature '381000'
+2021-04-01 20:53:56| 547.5|  0.1|INFORM|Committed transaction at feature '382000'
+2021-04-01 20:53:56| 547.6|  0.1|INFORM|Committed transaction at feature '383000'
+2021-04-01 20:53:56| 547.8|  0.1|INFORM|Committed transaction at feature '384000'
+2021-04-01 20:53:56| 547.9|  0.1|INFORM|Committed transaction at feature '385000'
+2021-04-01 20:53:57| 548.0|  0.1|INFORM|Committed transaction at feature '386000'
+2021-04-01 20:53:57| 548.1|  0.1|INFORM|Committed transaction at feature '387000'
+2021-04-01 20:53:57| 548.2|  0.1|INFORM|Committed transaction at feature '388000'
+2021-04-01 20:53:57| 548.3|  0.1|INFORM|Committed transaction at feature '389000'
+2021-04-01 20:53:57| 548.5|  0.1|INFORM|Committed transaction at feature '390000'
+2021-04-01 20:53:57| 548.7|  0.3|INFORM|Committed transaction at feature '391000'
+2021-04-01 20:53:57| 548.8|  0.1|INFORM|Committed transaction at feature '392000'
+2021-04-01 20:53:58| 549.0|  0.1|INFORM|Committed transaction at feature '393000'
+2021-04-01 20:53:58| 549.1|  0.1|INFORM|Committed transaction at feature '394000'
+2021-04-01 20:53:58| 549.2|  0.1|INFORM|Committed transaction at feature '395000'
+2021-04-01 20:53:58| 549.3|  0.1|INFORM|Committed transaction at feature '396000'
+2021-04-01 20:53:58| 549.4|  0.1|INFORM|Committed transaction at feature '397000'
+2021-04-01 20:53:58| 549.5|  0.1|INFORM|Committed transaction at feature '398000'
+2021-04-01 20:53:58| 549.6|  0.1|INFORM|Committed transaction at feature '399000'
+2021-04-01 20:53:58| 549.7|  0.1|INFORM|Committed transaction at feature '400000'
+2021-04-01 20:53:59| 549.9|  0.2|INFORM|POSTGIS writer: 400001 of 551405 features written
+2021-04-01 20:53:59| 550.0|  0.1|INFORM|Committed transaction at feature '401000'
+2021-04-01 20:53:59| 550.1|  0.1|INFORM|Committed transaction at feature '402000'
+2021-04-01 20:53:59| 550.3|  0.1|INFORM|Committed transaction at feature '403000'
+2021-04-01 20:53:59| 550.4|  0.1|INFORM|Committed transaction at feature '404000'
+2021-04-01 20:53:59| 550.5|  0.1|INFORM|Committed transaction at feature '405000'
+2021-04-01 20:53:59| 550.6|  0.1|INFORM|Committed transaction at feature '406000'
+2021-04-01 20:53:59| 550.7|  0.1|INFORM|Committed transaction at feature '407000'
+2021-04-01 20:54:00| 550.8|  0.1|INFORM|Committed transaction at feature '408000'
+2021-04-01 20:54:00| 550.9|  0.1|INFORM|Committed transaction at feature '409000'
+2021-04-01 20:54:00| 551.1|  0.1|INFORM|Committed transaction at feature '410000'
+2021-04-01 20:54:00| 551.4|  0.3|INFORM|Committed transaction at feature '411000'
+2021-04-01 20:54:00| 551.5|  0.1|INFORM|Committed transaction at feature '412000'
+2021-04-01 20:54:00| 551.6|  0.1|INFORM|Committed transaction at feature '413000'
+2021-04-01 20:54:01| 551.8|  0.1|INFORM|Committed transaction at feature '414000'
+2021-04-01 20:54:01| 551.9|  0.1|INFORM|Committed transaction at feature '415000'
+2021-04-01 20:54:01| 552.0|  0.1|INFORM|Committed transaction at feature '416000'
+2021-04-01 20:54:01| 552.1|  0.1|INFORM|Committed transaction at feature '417000'
+2021-04-01 20:54:01| 552.3|  0.1|INFORM|Committed transaction at feature '418000'
+2021-04-01 20:54:01| 552.4|  0.1|INFORM|Committed transaction at feature '419000'
+2021-04-01 20:54:01| 552.5|  0.1|INFORM|Committed transaction at feature '420000'
+2021-04-01 20:54:02| 552.7|  0.2|INFORM|Committed transaction at feature '421000'
+2021-04-01 20:54:02| 552.8|  0.1|INFORM|Committed transaction at feature '422000'
+2021-04-01 20:54:02| 552.9|  0.1|INFORM|Committed transaction at feature '423000'
+2021-04-01 20:54:02| 553.0|  0.1|INFORM|Committed transaction at feature '424000'
+2021-04-01 20:54:02| 553.2|  0.1|INFORM|Committed transaction at feature '425000'
+2021-04-01 20:54:02| 553.3|  0.1|INFORM|Committed transaction at feature '426000'
+2021-04-01 20:54:02| 553.4|  0.1|INFORM|Committed transaction at feature '427000'
+2021-04-01 20:54:03| 553.5|  0.1|INFORM|Committed transaction at feature '428000'
+2021-04-01 20:54:03| 553.7|  0.1|INFORM|Committed transaction at feature '429000'
+2021-04-01 20:54:03| 553.8|  0.1|INFORM|Committed transaction at feature '430000'
+2021-04-01 20:54:03| 554.1|  0.3|INFORM|Committed transaction at feature '431000'
+2021-04-01 20:54:03| 554.2|  0.1|INFORM|Committed transaction at feature '432000'
+2021-04-01 20:54:03| 554.3|  0.1|INFORM|Committed transaction at feature '433000'
+2021-04-01 20:54:04| 554.4|  0.1|INFORM|POSTGIS writer: 433739 of 551405 features written
+2021-04-01 20:54:04| 554.4|  0.0|INFORM|Committed transaction at feature '434000'
+2021-04-01 20:54:04| 554.6|  0.1|INFORM|Committed transaction at feature '435000'
+2021-04-01 20:54:04| 554.7|  0.1|INFORM|Committed transaction at feature '436000'
+2021-04-01 20:54:04| 554.8|  0.1|INFORM|Committed transaction at feature '437000'
+2021-04-01 20:54:04| 554.9|  0.1|INFORM|Committed transaction at feature '438000'
+2021-04-01 20:54:04| 555.1|  0.1|INFORM|Committed transaction at feature '439000'
+2021-04-01 20:54:04| 555.2|  0.1|INFORM|Committed transaction at feature '440000'
+2021-04-01 20:54:05| 555.5|  0.3|INFORM|Committed transaction at feature '441000'
+2021-04-01 20:54:05| 555.6|  0.1|INFORM|Committed transaction at feature '442000'
+2021-04-01 20:54:05| 555.7|  0.1|INFORM|Committed transaction at feature '443000'
+2021-04-01 20:54:05| 555.8|  0.1|INFORM|Committed transaction at feature '444000'
+2021-04-01 20:54:05| 555.9|  0.1|INFORM|Committed transaction at feature '445000'
+2021-04-01 20:54:05| 556.0|  0.1|INFORM|Committed transaction at feature '446000'
+2021-04-01 20:54:05| 556.2|  0.1|INFORM|Committed transaction at feature '447000'
+2021-04-01 20:54:06| 556.3|  0.1|INFORM|Committed transaction at feature '448000'
+2021-04-01 20:54:06| 556.4|  0.1|INFORM|Committed transaction at feature '449000'
+2021-04-01 20:54:06| 556.5|  0.1|INFORM|Committed transaction at feature '450000'
+2021-04-01 20:54:06| 556.8|  0.3|INFORM|Committed transaction at feature '451000'
+2021-04-01 20:54:06| 556.9|  0.1|INFORM|Committed transaction at feature '452000'
+2021-04-01 20:54:06| 557.0|  0.1|INFORM|Committed transaction at feature '453000'
+2021-04-01 20:54:06| 557.1|  0.1|INFORM|Committed transaction at feature '454000'
+2021-04-01 20:54:07| 557.3|  0.1|INFORM|Committed transaction at feature '455000'
+2021-04-01 20:54:07| 557.4|  0.1|INFORM|Committed transaction at feature '456000'
+2021-04-01 20:54:07| 557.5|  0.1|INFORM|Committed transaction at feature '457000'
+2021-04-01 20:54:07| 557.6|  0.1|INFORM|Committed transaction at feature '458000'
+2021-04-01 20:54:07| 557.7|  0.1|INFORM|Committed transaction at feature '459000'
+2021-04-01 20:54:07| 557.8|  0.1|INFORM|Committed transaction at feature '460000'
+2021-04-01 20:54:08| 558.1|  0.3|INFORM|Committed transaction at feature '461000'
+2021-04-01 20:54:08| 558.3|  0.1|INFORM|Committed transaction at feature '462000'
+2021-04-01 20:54:08| 558.4|  0.1|INFORM|Committed transaction at feature '463000'
+2021-04-01 20:54:08| 558.5|  0.1|INFORM|Committed transaction at feature '464000'
+2021-04-01 20:54:08| 558.6|  0.1|INFORM|Committed transaction at feature '465000'
+2021-04-01 20:54:08| 558.7|  0.1|INFORM|Committed transaction at feature '466000'
+2021-04-01 20:54:08| 558.8|  0.1|INFORM|Committed transaction at feature '467000'
+2021-04-01 20:54:08| 559.0|  0.1|INFORM|Committed transaction at feature '468000'
+2021-04-01 20:54:09| 559.0|  0.0|INFORM|POSTGIS writer: 468149 of 551405 features written
+2021-04-01 20:54:09| 559.0|  0.1|INFORM|Committed transaction at feature '469000'
+2021-04-01 20:54:09| 559.2|  0.1|INFORM|Committed transaction at feature '470000'
+2021-04-01 20:54:09| 559.4|  0.3|INFORM|Committed transaction at feature '471000'
+2021-04-01 20:54:09| 559.6|  0.1|INFORM|Committed transaction at feature '472000'
+2021-04-01 20:54:09| 559.7|  0.1|INFORM|Committed transaction at feature '473000'
+2021-04-01 20:54:09| 559.8|  0.1|INFORM|Committed transaction at feature '474000'
+2021-04-01 20:54:10| 559.9|  0.1|INFORM|Committed transaction at feature '475000'
+2021-04-01 20:54:10| 560.0|  0.1|INFORM|Committed transaction at feature '476000'
+2021-04-01 20:54:10| 560.2|  0.1|INFORM|Committed transaction at feature '477000'
+2021-04-01 20:54:10| 560.3|  0.1|INFORM|Committed transaction at feature '478000'
+2021-04-01 20:54:10| 560.4|  0.1|INFORM|Committed transaction at feature '479000'
+2021-04-01 20:54:10| 560.5|  0.1|INFORM|Committed transaction at feature '480000'
+2021-04-01 20:54:11| 560.8|  0.3|INFORM|Committed transaction at feature '481000'
+2021-04-01 20:54:11| 561.0|  0.1|INFORM|Committed transaction at feature '482000'
+2021-04-01 20:54:11| 561.1|  0.1|INFORM|Committed transaction at feature '483000'
+2021-04-01 20:54:11| 561.2|  0.1|INFORM|Committed transaction at feature '484000'
+2021-04-01 20:54:11| 561.3|  0.1|INFORM|Committed transaction at feature '485000'
+2021-04-01 20:54:11| 561.4|  0.1|INFORM|Committed transaction at feature '486000'
+2021-04-01 20:54:11| 561.5|  0.1|INFORM|Committed transaction at feature '487000'
+2021-04-01 20:54:11| 561.7|  0.1|INFORM|Committed transaction at feature '488000'
+2021-04-01 20:54:12| 561.8|  0.1|INFORM|Committed transaction at feature '489000'
+2021-04-01 20:54:12| 562.0|  0.1|INFORM|Committed transaction at feature '490000'
+2021-04-01 20:54:12| 562.3|  0.3|INFORM|Committed transaction at feature '491000'
+2021-04-01 20:54:12| 562.4|  0.1|INFORM|Committed transaction at feature '492000'
+2021-04-01 20:54:12| 562.5|  0.1|INFORM|Committed transaction at feature '493000'
+2021-04-01 20:54:12| 562.6|  0.1|INFORM|Committed transaction at feature '494000'
+2021-04-01 20:54:13| 562.8|  0.1|INFORM|Committed transaction at feature '495000'
+2021-04-01 20:54:13| 562.9|  0.1|INFORM|Committed transaction at feature '496000'
+2021-04-01 20:54:13| 563.0|  0.1|INFORM|Committed transaction at feature '497000'
+2021-04-01 20:54:13| 563.1|  0.1|INFORM|Committed transaction at feature '498000'
+2021-04-01 20:54:13| 563.3|  0.1|INFORM|Committed transaction at feature '499000'
+2021-04-01 20:54:13| 563.4|  0.1|INFORM|Committed transaction at feature '500000'
+2021-04-01 20:54:14| 563.6|  0.2|INFORM|POSTGIS writer: 500257 of 551405 features written
+2021-04-01 20:54:14| 563.7|  0.1|INFORM|Committed transaction at feature '501000'
+2021-04-01 20:54:14| 563.8|  0.1|INFORM|Committed transaction at feature '502000'
+2021-04-01 20:54:14| 564.0|  0.1|INFORM|Committed transaction at feature '503000'
+2021-04-01 20:54:14| 564.1|  0.1|INFORM|Committed transaction at feature '504000'
+2021-04-01 20:54:14| 564.3|  0.1|INFORM|Committed transaction at feature '505000'
+2021-04-01 20:54:14| 564.4|  0.1|INFORM|Committed transaction at feature '506000'
+2021-04-01 20:54:14| 564.5|  0.1|INFORM|Committed transaction at feature '507000'
+2021-04-01 20:54:15| 564.7|  0.1|INFORM|Committed transaction at feature '508000'
+2021-04-01 20:54:15| 564.8|  0.1|INFORM|Committed transaction at feature '509000'
+2021-04-01 20:54:15| 564.9|  0.1|INFORM|Committed transaction at feature '510000'
+2021-04-01 20:54:15| 565.2|  0.3|INFORM|Committed transaction at feature '511000'
+2021-04-01 20:54:15| 565.3|  0.1|INFORM|Committed transaction at feature '512000'
+2021-04-01 20:54:15| 565.4|  0.1|INFORM|Committed transaction at feature '513000'
+2021-04-01 20:54:16| 565.5|  0.1|INFORM|Committed transaction at feature '514000'
+2021-04-01 20:54:16| 565.6|  0.1|INFORM|Committed transaction at feature '515000'
+2021-04-01 20:54:16| 565.8|  0.1|INFORM|Committed transaction at feature '516000'
+2021-04-01 20:54:16| 565.9|  0.1|INFORM|Committed transaction at feature '517000'
+2021-04-01 20:54:16| 566.0|  0.1|INFORM|Committed transaction at feature '518000'
+2021-04-01 20:54:16| 566.1|  0.1|INFORM|Committed transaction at feature '519000'
+2021-04-01 20:54:16| 566.3|  0.1|INFORM|Committed transaction at feature '520000'
+2021-04-01 20:54:17| 566.6|  0.3|INFORM|Committed transaction at feature '521000'
+2021-04-01 20:54:17| 566.7|  0.1|INFORM|Committed transaction at feature '522000'
+2021-04-01 20:54:17| 566.8|  0.1|INFORM|Committed transaction at feature '523000'
+2021-04-01 20:54:17| 566.9|  0.1|INFORM|Committed transaction at feature '524000'
+2021-04-01 20:54:17| 567.0|  0.1|INFORM|Committed transaction at feature '525000'
+2021-04-01 20:54:17| 567.1|  0.1|INFORM|Committed transaction at feature '526000'
+2021-04-01 20:54:17| 567.3|  0.1|INFORM|Committed transaction at feature '527000'
+2021-04-01 20:54:18| 567.4|  0.1|INFORM|Committed transaction at feature '528000'
+2021-04-01 20:54:18| 567.5|  0.1|INFORM|Committed transaction at feature '529000'
+2021-04-01 20:54:18| 567.7|  0.2|INFORM|Committed transaction at feature '530000'
+2021-04-01 20:54:18| 568.0|  0.3|INFORM|Committed transaction at feature '531000'
+2021-04-01 20:54:18| 568.1|  0.1|INFORM|Committed transaction at feature '532000'
+2021-04-01 20:54:18| 568.2|  0.1|INFORM|Committed transaction at feature '533000'
+2021-04-01 20:54:19| 568.3|  0.1|INFORM|POSTGIS writer: 533801 of 551405 features written
+2021-04-01 20:54:19| 568.3|  0.0|INFORM|Committed transaction at feature '534000'
+2021-04-01 20:54:19| 568.4|  0.1|INFORM|Committed transaction at feature '535000'
+2021-04-01 20:54:19| 568.5|  0.1|INFORM|Committed transaction at feature '536000'
+2021-04-01 20:54:19| 568.7|  0.1|INFORM|Committed transaction at feature '537000'
+2021-04-01 20:54:19| 568.8|  0.1|INFORM|Committed transaction at feature '538000'
+2021-04-01 20:54:19| 568.9|  0.1|INFORM|Committed transaction at feature '539000'
+2021-04-01 20:54:19| 569.0|  0.1|INFORM|Committed transaction at feature '540000'
+2021-04-01 20:54:20| 569.3|  0.3|INFORM|Committed transaction at feature '541000'
+2021-04-01 20:54:20| 569.5|  0.1|INFORM|Committed transaction at feature '542000'
+2021-04-01 20:54:20| 569.6|  0.1|INFORM|Committed transaction at feature '543000'
+2021-04-01 20:54:20| 569.7|  0.1|INFORM|Committed transaction at feature '544000'
+2021-04-01 20:54:20| 569.8|  0.1|INFORM|Committed transaction at feature '545000'
+2021-04-01 20:54:20| 570.0|  0.1|INFORM|Committed transaction at feature '546000'
+2021-04-01 20:54:20| 570.1|  0.1|INFORM|Committed transaction at feature '547000'
+2021-04-01 20:54:21| 570.2|  0.1|INFORM|Committed transaction at feature '548000'
+2021-04-01 20:54:21| 570.3|  0.1|INFORM|Committed transaction at feature '549000'
+2021-04-01 20:54:21| 570.5|  0.1|INFORM|Committed transaction at feature '550000'
+2021-04-01 20:54:21| 570.6|  0.2|INFORM|Committed transaction at feature '551000'
+2021-04-01 20:54:21| 570.7|  0.0|INFORM|POSTGIS writer: 551405 of 551405 features written
+2021-04-01 20:54:22| 571.1|  0.5|STATS |Sorter (SortFactory): Finished sorting a total of 551405 features.
+2021-04-01 20:54:22| 571.1|  0.0|STATS |Sorter_SORTED Feature Counter -1 26 (TeeFactory): Cloned 551405 input feature(s) into 551405 output feature(s)
+2021-04-01 20:54:22| 571.1|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 551405 input feature(s), wrote 551405 output feature(s): 0 matched merge filters, 551405 were routed to output, 0 could not be routed.
+2021-04-01 20:54:22| 571.1|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-04-01 20:54:22| 571.1|  0.0|INFORM|Creating 'BTree' index on column "wstar_id" of table 'public.tx_tubing_latest_build_test'...
+2021-04-01 20:54:22| 571.1|  0.0|INFORM|Creating 'BTree' index on column "api" of table 'public.tx_tubing_latest_build_test'...
+2021-04-01 20:54:23| 571.1|  0.0|INFORM|Creating 'BTree' index on column "api_cnty" of table 'public.tx_tubing_latest_build_test'...
+2021-04-01 20:54:23| 571.1|  0.0|INFORM|Creating 'BTree' index on column "county" of table 'public.tx_tubing_latest_build_test'...
+2021-04-01 20:54:23| 571.1|  0.0|INFORM|Creating 'GIST' index on column "geom" of table 'public.tx_tubing_latest_build_test'...
+2021-04-01 20:54:29| 571.1|  0.0|INFORM|Successfully closed POSTGIS database writer
+2021-04-01 20:54:29| 571.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.1|  0.0|INFORM|Feature output statistics for `POSTGIS' writer using keyword `POSTGIS_1':
+2021-04-01 20:54:29| 571.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.1|  0.0|STATS |                               Features Written
+2021-04-01 20:54:29| 571.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.1|  0.0|STATS |public.tx_tubing_latest_build_test                                      551405
+2021-04-01 20:54:29| 571.1|  0.0|STATS |==============================================================================
+2021-04-01 20:54:29| 571.1|  0.0|STATS |Total Features Written                                                  551405
+2021-04-01 20:54:29| 571.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.1|  0.0|STATS |                            Features Read Summary
+2021-04-01 20:54:29| 571.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.1|  0.0|STATS |==============================================================================
+2021-04-01 20:54:29| 571.1|  0.0|STATS |Total Features Read                                                          0
+2021-04-01 20:54:29| 571.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.1|  0.0|STATS |                           Features Written Summary
+2021-04-01 20:54:29| 571.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.1|  0.0|STATS |public.tx_tubing_latest_build_test                                      551405
+2021-04-01 20:54:29| 571.2|  0.0|STATS |==============================================================================
+2021-04-01 20:54:29| 571.2|  0.0|STATS |Total Features Written                                                  551405
+2021-04-01 20:54:29| 571.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-01 20:54:29| 571.2|  0.0|INFORM|Translation was SUCCESSFUL with 2 warning(s) (551405 feature(s) output)
+2021-04-01 20:54:29| 571.2|  0.0|INFORM|FME Session Duration: 12 minutes 49.9 seconds. (CPU: 543.8s user, 26.6s system)
+2021-04-01 20:54:29| 571.2|  0.0|INFORM|END - ProcessID: 10404, peak process memory usage: 3191848 kB, current process memory usage: 173816 kB

@@ -1,0 +1,4 @@
+psql -h pg.whitestar.com -U postgres -d postgis20 -p 7457 < D:\Users\rwhite\Documents\texas-wells\wells-service\sql-scripts\calculate_nwells_for_texas.sql
+
+
+

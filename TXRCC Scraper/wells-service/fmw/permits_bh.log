@@ -1,0 +1,1025 @@
+2021-08-11 12:58:22|   0.0|  0.0|INFORM|FME 2021.0.3.0 (20210528 - Build 21326 - WIN64)
+2021-08-11 12:58:22|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\2021.0.3\'
+2021-08-11 12:58:22|   0.0|  0.0|INFORM|FME ESRI Edition (node locked-crc)
+2021-08-11 12:58:22|   0.0|  0.0|INFORM|Serial Number: CY27-P78W-20C5
+2021-08-11 12:58:22|   0.0|  0.0|INFORM|Permanent License.
+2021-08-11 12:58:22|   0.0|  0.0|INFORM|Machine host name is: IP-C61386BF
+2021-08-11 12:58:22|   0.0|  0.0|INFORM|START - ProcessID: 13392, peak process memory usage: 44228 kB, current process memory usage: 44164 kB
+2021-08-11 12:58:22|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\2021.0.3\fme.exe' `D:/Users/rwhite/Documents/texas-wells/wells-service/fmw\wb-xlate-1628708296642_11508' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{8146b105-2a8a-4ee1-be19-481873d8d9d3}'
+2021-08-11 12:58:22|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'D:\Users\rwhite\AppData\Roaming\Safe Software\FME\'
+2021-08-11 12:58:22|   0.1|  0.1|INFORM|Shared folders for formats are : C:\Program Files\FME\2021.0.3\datasources;D:\Users\rwhite\Documents\FME\Formats
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|Shared folders for transformers are : D:\Users\rwhite\AppData\Roaming\Safe Software\FME\Packages\21326-win64\transformers;C:\Program Files\FME\2021.0.3\transformers;D:\Users\rwhite\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|Shared folders for coordinate systems are : D:\Users\rwhite\Documents\FME\CoordinateSystems
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|Shared folders for coordinate system exceptions are : D:\Users\rwhite\Documents\FME\CoordinateSystemExceptions
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|Shared folders for coordinate system grid overrides are : D:\Users\rwhite\Documents\FME\CoordinateSystemGridOverrides
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : D:\Users\rwhite\Documents\FME\CsmapTransformationExceptions
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|Shared folders for transformer categories are : D:\Users\rwhite\Documents\FME\TransformerCategories
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Current working folder is `D:\Users\rwhite\Documents\texas-wells\wells-service\fmw'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Temporary folder is `D:\Users\rwhite\AppData\Local\Temp\1\wbrun_1628705440984_11508\fmetmp_1', set from environment variable `FME_TEMP'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Cache folder is 'D:\Users\rwhite\AppData\Local\Temp\1'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\2021.0.3\'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'D:\Users\rwhite\Documents\texas-wells\wells-service\fmw/'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'permits_bh.fmw'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2021.0.3.0'
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|System Status: 222.81 GB of disk space available in the FME temporary folder (D:\Users\rwhite\AppData\Local\Temp\1\wbrun_1628705440984_11508\fmetmp_1)
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|System Status: 15.82 GB of physical memory available
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|System Status: 63.26 GB of virtual memory available
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|Operating System: Microsoft Windows Server 10 Server 4.0 64-bit  (Build 14393)
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Platform: WIN64
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|Locale: en_US
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|System Encoding: windows-1252
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 47.45 GB
+2021-08-11 12:58:22|   0.1|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 35.59 GB
+2021-08-11 12:58:23|   0.2|  0.1|INFORM|Creating writer for format: 
+2021-08-11 12:58:23|   0.2|  0.0|INFORM|Creating reader for format: 
+2021-08-11 12:58:23|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2021-08-11 12:58:23|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding POSTGIS Reader with keyword POSTGIS_1
+2021-08-11 12:58:23|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding POSTGIS Reader with keyword POSTGIS_2
+2021-08-11 12:58:23|   0.2|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2021-08-11 12:58:23|   0.3|  0.1|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for POSTGIS_1
+2021-08-11 12:58:23|   0.3|  0.0|INFORM|Creating reader for format: PostGIS
+2021-08-11 12:58:23|   0.4|  0.1|INFORM|Trying to find a DYNAMIC plugin for reader named `POSTGIS'
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|Loaded module 'POSTGIS' from file 'C:\Program Files\FME\2021.0.3\plugins/POSTGIS.dll'
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20210203)
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|Opening POSTGIS reader for dataset 'postgis20'
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|2.5 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|POSTGIS reader: Creating bulk features from individual features
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\2021.0.3\plugins/LogCount_func.dll'
+2021-08-11 12:58:23|   0.4|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20210203)
+2021-08-11 12:58:24|   0.5|  0.1|INFORM|Loaded module 'QueryFactory' from file 'C:\Program Files\FME\2021.0.3\plugins/QueryFactory.dll'
+2021-08-11 12:58:24|   0.5|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20210203)
+2021-08-11 12:58:24|   0.5|  0.0|INFORM|Loaded module 'VertexCreatorFactory' from file 'C:\Program Files\FME\2021.0.3\plugins/VertexCreatorFactory.dll'
+2021-08-11 12:58:24|   0.5|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20210203)
+2021-08-11 12:58:24|   0.5|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2021-08-11 12:58:24|   0.5|  0.0|INFORM|Executing data query: 'declare "public_TX_ABSTRACT_crsr" cursor for select "objectid","POSTAL","COUNTY","CTY_API","DISTRICT","BLOCKNA","BLOCKNO","BLOOVNA","BLOOVNO","SURVNA","SURVNO","SUROVNA","SUROVNO","ABSNA","ABSNO","ABSOVNA","ABSOVNO","SUBDNA","SUBDNO","LOTNA","LOTNO","TRACTNA","TRACTNO","AMODDATE","GMODDATE","DATUM","SOURCE", ST_AsEWKB("geom") as "geom" from "public"."TX_ABSTRACT"'
+2021-08-11 12:58:24|   0.5|  0.0|INFORM|Reading POSTGIS table: 'public.TX_ABSTRACT'...
+2021-08-11 12:58:24|   0.8|  0.3|INFORM|FME Configuration: Source coordinate system for reader POSTGIS_1[POSTGIS] set to `EPSG:4267' as read from input data
+2021-08-11 12:58:25|   1.1|  0.3|INFORM|Coordinate System `EPSG:4267' parameters: CS_NAME=`LL27' DESC_NM=`NAD27 datum, Latitude-Longitude; Degrees' DT_NAME=`NAD27' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`85.16666666666667' MAX_LNG=`-45.733333333333334' MIN_LAT=`5.983333333333333' MIN_LNG=`-194.35' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2021-08-11 12:58:29|   4.8|  3.7|INFORM|POSTGIS reader: Read 40000 features
+2021-08-11 12:58:34|  10.2|  5.4|INFORM|POSTGIS reader: Read 100000 features
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for R_1
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|Creating reader for format: PostGIS
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `POSTGIS'
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20210203)
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|Performing query against POSTGIS dataset `pg.whitestar.com'
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|Opening POSTGIS reader for dataset 'postgis20'
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|2.5 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|POSTGIS reader: Creating bulk features from individual features
+2021-08-11 12:58:34|  10.2|  0.0|INFORM|Executing custom data query: 'select 
+api,
+apinum,
+bottom_id,
+cwellnum as well_num,
+lat27,
+lat83,
+long27,
+long83,
+out_fips,
+radioact as radioactv,
+reliab,
+stcode,
+surface_id,
+symnum,
+wellid
+from well_b
+order by surface_id'
+2021-08-11 12:58:40|  13.0|  2.8|INFORM|POSTGIS reader: Read 90000 features
+2021-08-11 12:58:45|  18.2|  5.2|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 67736 of 100000 features
+2021-08-11 12:58:52|  25.3|  7.1|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 12:58:54|  27.6|  2.3|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 12:58:54|  27.7|  0.1|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 12:58:55|  28.0|  0.3|INFORM|POSTGIS reader: Read 110000 features
+2021-08-11 12:59:03|  35.7|  7.7|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 71912 of 100000 features
+2021-08-11 12:59:09|  42.5|  6.8|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 12:59:11|  44.8|  2.3|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 12:59:11|  44.8|  0.0|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 12:59:12|  45.2|  0.4|INFORM|POSTGIS reader: Read 210000 features
+2021-08-11 12:59:20|  53.0|  7.8|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 80660 of 100000 features
+2021-08-11 12:59:25|  58.6|  5.6|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 12:59:27|  60.7|  2.1|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 12:59:27|  60.7|  0.0|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 12:59:28|  61.0|  0.3|INFORM|POSTGIS reader: Read 310000 features
+2021-08-11 12:59:35|  68.7|  7.7|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 80729 of 100000 features
+2021-08-11 12:59:41|  74.3|  5.6|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 12:59:43|  76.3|  2.0|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 12:59:43|  76.4|  0.1|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 12:59:43|  76.7|  0.3|INFORM|POSTGIS reader: Read 410000 features
+2021-08-11 12:59:51|  84.3|  7.6|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 80267 of 100000 features
+2021-08-11 12:59:56|  90.0|  5.7|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 12:59:59|  92.1|  2.1|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 12:59:59|  92.1|  0.0|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 12:59:59|  92.5|  0.4|INFORM|POSTGIS reader: Read 510000 features
+2021-08-11 13:00:07| 100.1|  7.6|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 70757 of 100000 features
+2021-08-11 13:00:13| 106.4|  6.3|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 13:00:15| 108.4|  2.0|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:00:16| 109.2|  0.8|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 13:00:16| 109.3|  0.1|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 13:00:16| 109.7|  0.4|INFORM|POSTGIS reader: Read 610000 features
+2021-08-11 13:00:24| 117.6|  7.9|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 67629 of 100000 features
+2021-08-11 13:00:31| 123.9|  6.3|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 13:00:33| 125.9|  2.0|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 13:00:33| 125.9|  0.0|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 13:00:33| 126.3|  0.4|INFORM|POSTGIS reader: Read 710000 features
+2021-08-11 13:00:41| 133.9|  7.6|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 82004 of 100000 features
+2021-08-11 13:00:46| 139.3|  5.4|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 13:00:48| 141.5|  2.2|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 13:00:48| 141.6|  0.1|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 13:00:49| 141.9|  0.3|INFORM|POSTGIS reader: Read 810000 features
+2021-08-11 13:00:56| 149.5|  7.6|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 81364 of 100000 features
+2021-08-11 13:01:02| 154.9|  5.4|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 13:01:03| 156.5|  1.6|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:01:05| 157.9|  1.4|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 13:01:05| 157.9|  0.0|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 13:01:05| 158.3|  0.4|INFORM|POSTGIS reader: Read 910000 features
+2021-08-11 13:01:13| 166.4|  8.1|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 73280 of 100000 features
+2021-08-11 13:01:19| 172.3|  5.9|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 13:01:21| 174.4|  2.1|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 13:01:21| 174.4|  0.0|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 13:01:22| 174.8|  0.4|INFORM|POSTGIS reader: Read 1010000 features
+2021-08-11 13:01:29| 182.4|  7.6|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 82227 of 100000 features
+2021-08-11 13:01:35| 188.0|  5.6|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 13:01:37| 190.2|  2.2|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 13:01:37| 190.3|  0.1|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 13:01:37| 190.5|  0.2|INFORM|POSTGIS reader: Read 1110000 features
+2021-08-11 13:01:45| 198.4|  7.9|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 81002 of 100000 features
+2021-08-11 13:01:51| 203.8|  5.4|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 13:01:51| 204.7|  0.9|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:01:54| 207.3|  2.6|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 13:01:54| 207.3|  0.0|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 13:01:54| 207.7|  0.4|INFORM|POSTGIS reader: Read 1210000 features
+2021-08-11 13:02:03| 215.9|  8.2|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 74085 of 100000 features
+2021-08-11 13:02:09| 221.8|  5.9|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 13:02:11| 224.0|  2.2|INFORM|SubstringExtractor: Processed 100000 features
+2021-08-11 13:02:11| 224.0|  0.0|INFORM|AttributeCreator_2 (AttrSetFactory): Processed 100000 of 100000 features
+2021-08-11 13:02:11| 224.4|  0.4|INFORM|POSTGIS reader: Read 1310000 features
+2021-08-11 13:02:18| 231.3|  6.9|INFORM|VertexCreator (VertexCreatorFactory): Splitting bulk features into individual features
+2021-08-11 13:02:19| 232.5|  1.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): Splitting bulk features into individual features
+2021-08-11 13:02:22| 235.3|  2.8|INFORM|POSTGIS reader: Read 110000 features
+2021-08-11 13:02:28| 240.9|  5.6|INFORM|POSTGIS reader: Read 170000 features
+2021-08-11 13:02:31| 244.0|  3.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): Splitting bulk features into individual features
+2021-08-11 13:02:34| 246.8|  2.8|INFORM|POSTGIS reader: Read 210000 features
+2021-08-11 13:02:39| 251.8|  5.0|INFORM|POSTGIS reader: Read 270000 features
+2021-08-11 13:02:42| 254.2|  2.4|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): Splitting bulk features into individual features
+2021-08-11 13:02:43| 255.9|  1.7|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:02:46| 258.1|  2.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): Splitting bulk features into individual features
+2021-08-11 13:02:46| 258.4|  0.3|INFORM|Successfully closed POSTGIS database reader
+2021-08-11 13:02:46| 258.4|  0.0|INFORM|Successfully closed POSTGIS database reader
+2021-08-11 13:02:46| 258.4|  0.0|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for POSTGIS_2
+2021-08-11 13:02:46| 258.4|  0.0|INFORM|Creating reader for format: PostGIS
+2021-08-11 13:02:46| 258.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `POSTGIS'
+2021-08-11 13:02:46| 258.4|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20210203)
+2021-08-11 13:02:46| 258.4|  0.0|INFORM|Opening POSTGIS reader for dataset 'postgis20'
+2021-08-11 13:02:46| 258.4|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-08-11 13:02:46| 258.4|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-08-11 13:02:46| 258.5|  0.1|INFORM|2.5 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2021-08-11 13:02:46| 258.5|  0.0|INFORM|POSTGIS reader: Creating bulk features from individual features
+2021-08-11 13:02:46| 258.5|  0.0|INFORM|Executing data query: 'declare "public_tx_county_district_crsr" cursor for select "state","postal","st_api","st_census","cty_api","cty_census","stcty_api","stcty_census","county","amoddate","gmoddate","datum","source","rrdist", ST_AsEWKB("geom") as "geom" from "public"."tx_county_district"'
+2021-08-11 13:02:46| 258.5|  0.0|INFORM|Reading POSTGIS table: 'public.tx_county_district'...
+2021-08-11 13:02:46| 258.7|  0.2|INFORM|FME Configuration: Source coordinate system for reader POSTGIS_2[POSTGIS] set to `EPSG:4267' as read from input data
+2021-08-11 13:02:46| 258.7|  0.0|INFORM|Coordinate System `EPSG:4267' parameters: CS_NAME=`LL27' DESC_NM=`NAD27 datum, Latitude-Longitude; Degrees' DT_NAME=`NAD27' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`85.16666666666667' MAX_LNG=`-45.733333333333334' MIN_LAT=`5.983333333333333' MIN_LNG=`-194.35' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2021-08-11 13:02:47| 259.0|  0.3|INFORM|PointOnAreaOverlayer (OverlayFactory): Splitting bulk features into individual features
+2021-08-11 13:02:47| 259.1|  0.1|INFORM|Successfully closed POSTGIS database reader
+2021-08-11 13:02:47| 259.1|  0.0|INFORM|Successfully closed POSTGIS database reader
+2021-08-11 13:02:47| 259.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 309566 features from 2 readers
+2021-08-11 13:02:47| 259.2|  0.1|INFORM|Emptying factory pipeline
+2021-08-11 13:02:47| 259.2|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 309566 input feature(s), wrote 309566 output feature(s): 309566 matched merge filters, 309566 were routed to output, 0 could not be routed.
+2021-08-11 13:02:47| 259.2|  0.0|STATS |Unexpected Input Remover Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |public.TX_ABSTRACT_POSTGIS_1 Splitter (TeeFactory): Cloned 309312 input feature(s) into 309312 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |public.TX_ABSTRACT_POSTGIS_1 Feature Counter -1 85 (TeeFactory): Cloned 309312 input feature(s) into 309312 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |public.tx_county_district_POSTGIS_2 Splitter (TeeFactory): Cloned 254 input feature(s) into 254 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |public.tx_county_district_POSTGIS_2 Feature Counter -1 91 (TeeFactory): Cloned 254 input feature(s) into 254 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |SQLCreator_Creator (CreationFactory): Created 1 features
+2021-08-11 13:02:47| 259.2|  0.0|INFORM|Successfully closed POSTGIS database reader
+2021-08-11 13:02:47| 259.2|  0.0|INFORM|Successfully closed POSTGIS database reader
+2021-08-11 13:02:47| 259.2|  0.0|STATS |SQLCreator_RESULT Feature Counter -1 131 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |SQLCreator_RESULT Brancher -1 131 (BranchingFactory): Branched 1354890 input features -- 14 features routed to the target factory, and 0 features routed to the fallback factory.
+2021-08-11 13:02:47| 259.2|  0.0|STATS |SQLCreator_<REJECTED> Feature Counter -1 2147614853 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |_CREATOR_BRANCH_TARGET (TeeFactory): Cloned 1664456 input feature(s) into 1664456 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |Counter_Rejector (ExecuteFunctionFactory): Executed FME Functions on 1354890 input feature(s) -- 1354890 feature(s) completed and 0 feature(s) rejected
+2021-08-11 13:02:47| 259.2|  0.0|STATS |Counter_OUTPUT Feature Counter -1 139 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |AttributeCreator_2_OUTPUT Feature Counter -1 102 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |SubstringExtractor (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |SubstringExtractor_OUTPUT Feature Counter -1 97 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |CoordinateSystemSetter (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |CoordinateSystemSetter_OUTPUT Feature Counter -1 159 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |VertexCreator_OUTPUT Feature Counter -1 163 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:02:47| 259.2|  0.0|STATS |VertexCreator_<REJECTED> Feature Counter -1 2147680333 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:02:47| 259.3|  0.1|INFORM|PointOnAreaOverlayer (OverlayFactory): Computing relationships between 254 input areas and 1354890 input points
+2021-08-11 13:02:47| 259.4|  0.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 0.03% done overlaying points on areas
+2021-08-11 13:02:52| 264.5|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 1.58% done overlaying points on areas
+2021-08-11 13:02:57| 269.6|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 3.35% done overlaying points on areas
+2021-08-11 13:03:02| 274.7|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 5.09% done overlaying points on areas
+2021-08-11 13:03:07| 279.7|  5.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 6.9% done overlaying points on areas
+2021-08-11 13:03:12| 284.9|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 8.63% done overlaying points on areas
+2021-08-11 13:03:17| 289.9|  5.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 10.36% done overlaying points on areas
+2021-08-11 13:03:22| 295.1|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 12.1% done overlaying points on areas
+2021-08-11 13:03:27| 300.2|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 13.8% done overlaying points on areas
+2021-08-11 13:03:33| 305.3|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 15.61% done overlaying points on areas
+2021-08-11 13:03:38| 310.4|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 17.04% done overlaying points on areas
+2021-08-11 13:03:43| 315.5|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 18.59% done overlaying points on areas
+2021-08-11 13:03:48| 320.7|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 20.51% done overlaying points on areas
+2021-08-11 13:03:53| 325.9|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 22.21% done overlaying points on areas
+2021-08-11 13:03:58| 330.8|  4.9|INFORM|PointOnAreaOverlayer (OverlayFactory): 24.02% done overlaying points on areas
+2021-08-11 13:04:03| 335.9|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 25.79% done overlaying points on areas
+2021-08-11 13:04:08| 341.1|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 27.64% done overlaying points on areas
+2021-08-11 13:04:13| 346.3|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 29.48% done overlaying points on areas
+2021-08-11 13:04:18| 351.4|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 31.36% done overlaying points on areas
+2021-08-11 13:04:23| 356.6|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 33.13% done overlaying points on areas
+2021-08-11 13:04:28| 361.7|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 34.83% done overlaying points on areas
+2021-08-11 13:04:31| 364.5|  2.8|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:04:33| 366.8|  2.3|INFORM|PointOnAreaOverlayer (OverlayFactory): 36.23% done overlaying points on areas
+2021-08-11 13:04:38| 371.8|  5.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 37.86% done overlaying points on areas
+2021-08-11 13:04:43| 376.9|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 39.48% done overlaying points on areas
+2021-08-11 13:04:48| 381.9|  5.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 41.03% done overlaying points on areas
+2021-08-11 13:04:53| 385.8|  3.9|INFORM|PointOnAreaOverlayer (OverlayFactory): 42.29% done overlaying points on areas
+2021-08-11 13:04:59| 389.6|  3.8|INFORM|PointOnAreaOverlayer (OverlayFactory): 43.47% done overlaying points on areas
+2021-08-11 13:05:04| 394.7|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 45.16% done overlaying points on areas
+2021-08-11 13:05:09| 399.8|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 46.86% done overlaying points on areas
+2021-08-11 13:05:14| 404.9|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 48.56% done overlaying points on areas
+2021-08-11 13:05:19| 410.1|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 50.26% done overlaying points on areas
+2021-08-11 13:05:24| 415.3|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 51.92% done overlaying points on areas
+2021-08-11 13:05:25| 416.3|  1.0|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:05:29| 420.3|  4.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 53.1% done overlaying points on areas
+2021-08-11 13:05:34| 425.5|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 54.54% done overlaying points on areas
+2021-08-11 13:05:39| 430.7|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 56.24% done overlaying points on areas
+2021-08-11 13:05:44| 435.8|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 58.01% done overlaying points on areas
+2021-08-11 13:05:49| 441.0|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 59.67% done overlaying points on areas
+2021-08-11 13:05:54| 445.9|  4.9|INFORM|PointOnAreaOverlayer (OverlayFactory): 61.22% done overlaying points on areas
+2021-08-11 13:05:59| 450.1|  4.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 62.4% done overlaying points on areas
+2021-08-11 13:06:05| 454.1|  4.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 63.51% done overlaying points on areas
+2021-08-11 13:06:10| 458.3|  4.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 64.58% done overlaying points on areas
+2021-08-11 13:06:15| 463.5|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 66.09% done overlaying points on areas
+2021-08-11 13:06:20| 468.5|  5.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 67.68% done overlaying points on areas
+2021-08-11 13:06:25| 473.8|  5.3|INFORM|PointOnAreaOverlayer (OverlayFactory): 68.97% done overlaying points on areas
+2021-08-11 13:06:30| 478.8|  5.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 70.48% done overlaying points on areas
+2021-08-11 13:06:35| 483.8|  5.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 72.07% done overlaying points on areas
+2021-08-11 13:06:40| 489.0|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 73.73% done overlaying points on areas
+2021-08-11 13:06:45| 494.1|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 75.5% done overlaying points on areas
+2021-08-11 13:06:50| 499.3|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 77.2% done overlaying points on areas
+2021-08-11 13:06:55| 504.3|  5.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 78.86% done overlaying points on areas
+2021-08-11 13:07:00| 508.8|  4.5|INFORM|PointOnAreaOverlayer (OverlayFactory): 80.26% done overlaying points on areas
+2021-08-11 13:07:05| 512.8|  4.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 81.4% done overlaying points on areas
+2021-08-11 13:07:07| 514.3|  1.5|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:07:10| 517.0|  2.7|INFORM|PointOnAreaOverlayer (OverlayFactory): 82.33% done overlaying points on areas
+2021-08-11 13:07:15| 520.8|  3.8|INFORM|PointOnAreaOverlayer (OverlayFactory): 83.51% done overlaying points on areas
+2021-08-11 13:07:20| 525.3|  4.5|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:07:22| 526.6|  1.3|INFORM|PointOnAreaOverlayer (OverlayFactory): 85.06% done overlaying points on areas
+2021-08-11 13:07:27| 531.8|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 86.42% done overlaying points on areas
+2021-08-11 13:07:32| 536.9|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 88.12% done overlaying points on areas
+2021-08-11 13:07:37| 542.0|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 89.82% done overlaying points on areas
+2021-08-11 13:07:42| 547.1|  5.1|INFORM|PointOnAreaOverlayer (OverlayFactory): 91.55% done overlaying points on areas
+2021-08-11 13:07:47| 552.4|  5.3|INFORM|PointOnAreaOverlayer (OverlayFactory): 93.32% done overlaying points on areas
+2021-08-11 13:07:52| 557.6|  5.2|INFORM|PointOnAreaOverlayer (OverlayFactory): 95.06% done overlaying points on areas
+2021-08-11 13:07:57| 562.6|  5.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 96.79% done overlaying points on areas
+2021-08-11 13:08:02| 567.1|  4.5|INFORM|PointOnAreaOverlayer (OverlayFactory): 98.08% done overlaying points on areas
+2021-08-11 13:08:07| 571.0|  3.9|INFORM|PointOnAreaOverlayer (OverlayFactory): 99.23% done overlaying points on areas
+2021-08-11 13:08:11| 573.6|  2.6|INFORM|PointOnAreaOverlayer (OverlayFactory): 100% done overlaying points on areas
+2021-08-11 13:08:11| 573.6|  0.0|STATS |PointOnAreaOverlayer (OverlayFactory): Input Summary:  254 area(s), 1354890 point(s), and 0 line(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |PointOnAreaOverlayer (OverlayFactory): Output Summary: 0 area(s), 1354890 point(s), and 0 line(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |PointOnAreaOverlayer_POINT Feature Counter -1 98 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |PointOnAreaOverlayer_<REJECTED> Feature Counter -1 2147745806 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |Tester_4 (TestFactory): Tested 1354890 input feature(s) -- 1345755 feature(s) passed and 9135 feature(s) failed
+2021-08-11 13:08:11| 573.6|  0.0|STATS |Tester_4_PASSED Feature Counter -1 99 (TeeFactory): Cloned 1345755 input feature(s) into 1345755 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |Tester_4_FAILED Feature Counter -1 168 (TeeFactory): Cloned 9135 input feature(s) into 9135 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |AttributeCreator_OUTPUT Feature Counter -1 101 (TeeFactory): Cloned 9135 input feature(s) into 9135 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |AttributeCopier_2_OUTPUT Feature Counter -1 103 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |BulkAttributeRemover (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |BulkAttributeRemover_OUTPUT Feature Counter -1 104 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |AttributeRemover (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |AttributeRemover_OUTPUT Feature Counter -1 100 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |StringConcatenator_5 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |StringConcatenator_5_OUTPUT Feature Counter -1 157 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |StringLengthCalculator_2 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |StringLengthCalculator_2_OUTPUT Feature Counter -1 156 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |TestFilter_3 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |TestFilter_3_Condition_1 (TestFactory): Tested 1354890 input feature(s) -- 990064 feature(s) passed and 364826 feature(s) failed
+2021-08-11 13:08:11| 573.6|  0.0|STATS |TestFilter_3_Condition_2 (TestFactory): Tested 364826 input feature(s) -- 364822 feature(s) passed and 4 feature(s) failed
+2021-08-11 13:08:11| 573.6|  0.0|STATS |TestFilter_3_<lt>UNFILTERED<gt> (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |TestFilter_3_8 Feature Counter -1 158 (TeeFactory): Cloned 990064 input feature(s) into 990064 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |TestFilter_3_3 Feature Counter -1 161 (TeeFactory): Cloned 364822 input feature(s) into 364822 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |TestFilter_3_<lt>UNFILTERED<gt> Feature Counter -1 162 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |StringFormatter_2 (TeeFactory): Cloned 364822 input feature(s) into 364822 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |StringFormatter_2_OUTPUT Feature Counter -1 154 (TeeFactory): Cloned 364822 input feature(s) into 364822 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |StringConcatenator_4 (TeeFactory): Cloned 364822 input feature(s) into 364822 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |StringConcatenator_4_OUTPUT Feature Counter -1 155 (TeeFactory): Cloned 364822 input feature(s) into 364822 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |AttributeCreator_3_OUTPUT Feature Counter -1 160 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |Junction_8 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |Junction_8_Output Feature Counter -1 166 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |AttributeValueMapper (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 573.6|  0.0|STATS |AttributeValueMapper_OUTPUT Feature Counter -1 134 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:08:11| 574.0|  0.4|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): Computing relationships between 309339 input areas and 1354890 input points
+2021-08-11 13:08:11| 574.0|  0.0|WARN  |EsriReprojector: Ignoring input feature coordinate system `EPSG:4267'. This warning will not be repeated.
+2021-08-11 13:08:11| 574.0|  0.0|INFORM|The OGC definition of the FME coordinate system '_LL27_0' is 'GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]'
+2021-08-11 13:08:11| 574.1|  0.1|INFORM|The OGC definition of the FME coordinate system '_TX-C_0' is 'PROJCS["NAD_1927_StatePlane_Texas_Central_FIPS_4203",GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["False_Easting",2000000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-100.3333333333333],PARAMETER["Standard_Parallel_1",30.11666666666667],PARAMETER["Standard_Parallel_2",31.88333333333333],PARAMETER["Latitude_Of_Origin",29.66666666666667],UNIT["Foot_US",0.3048006096012192]]'
+2021-08-11 13:08:11| 574.1|  0.0|WARN  |Esri Reprojector: Specified geotransformation `' (forward) may be inappropriate for reprojection from `_LL27_0' (GCS: `GCS_North_American_1927') to `_TX-C_0' (GCS: `GCS_North_American_1927') using the ESRI reprojection engine
+2021-08-11 13:08:11| 574.1|  0.0|INFORM|Reprojector: No geotransformation is required between GCS `GCS_North_American_1927' and itself
+2021-08-11 13:08:11| 574.1|  0.0|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 0.03% done overlaying points on areas
+2021-08-11 13:08:16| 579.2|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 2.21% done overlaying points on areas
+2021-08-11 13:08:21| 584.4|  5.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 4.02% done overlaying points on areas
+2021-08-11 13:08:26| 589.5|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 6.19% done overlaying points on areas
+2021-08-11 13:08:31| 594.6|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 8.48% done overlaying points on areas
+2021-08-11 13:08:36| 599.8|  5.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 10.73% done overlaying points on areas
+2021-08-11 13:08:41| 604.9|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 13.1% done overlaying points on areas
+2021-08-11 13:08:42| 605.5|  0.6|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:08:46| 609.9|  4.4|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 14.57% done overlaying points on areas
+2021-08-11 13:08:52| 614.9|  5.0|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 16.79% done overlaying points on areas
+2021-08-11 13:08:57| 619.8|  4.9|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 19.22% done overlaying points on areas
+2021-08-11 13:09:02| 625.0|  5.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 21.58% done overlaying points on areas
+2021-08-11 13:09:07| 630.0|  5.0|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 23.87% done overlaying points on areas
+2021-08-11 13:09:12| 635.1|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 26.2% done overlaying points on areas
+2021-08-11 13:09:14| 637.3|  2.2|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:09:17| 640.2|  2.9|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 27.67% done overlaying points on areas
+2021-08-11 13:09:22| 645.2|  5.0|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 29.7% done overlaying points on areas
+2021-08-11 13:09:27| 650.2|  5.0|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 31.95% done overlaying points on areas
+2021-08-11 13:09:32| 653.4|  3.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 33.43% done overlaying points on areas
+2021-08-11 13:09:37| 657.0|  3.6|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 34.87% done overlaying points on areas
+2021-08-11 13:09:42| 661.0|  4.0|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 36.68% done overlaying points on areas
+2021-08-11 13:09:47| 666.2|  5.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 38.89% done overlaying points on areas
+2021-08-11 13:09:52| 671.3|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 41.14% done overlaying points on areas
+2021-08-11 13:09:57| 676.4|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 43.47% done overlaying points on areas
+2021-08-11 13:09:59| 677.9|  1.5|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:10:02| 681.4|  3.5|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 44.76% done overlaying points on areas
+2021-08-11 13:10:07| 686.5|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 47.08% done overlaying points on areas
+2021-08-11 13:10:12| 690.8|  4.3|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 48.82% done overlaying points on areas
+2021-08-11 13:10:17| 694.6|  3.8|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 50.22% done overlaying points on areas
+2021-08-11 13:10:22| 698.5|  3.9|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 51.59% done overlaying points on areas
+2021-08-11 13:10:27| 703.0|  4.5|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 53.43% done overlaying points on areas
+2021-08-11 13:10:32| 708.1|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 55.72% done overlaying points on areas
+2021-08-11 13:10:38| 713.4|  5.3|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 58.01% done overlaying points on areas
+2021-08-11 13:10:39| 715.3|  1.9|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:10:43| 718.4|  3.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 59.45% done overlaying points on areas
+2021-08-11 13:10:48| 723.5|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 61.73% done overlaying points on areas
+2021-08-11 13:10:53| 728.6|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 64.06% done overlaying points on areas
+2021-08-11 13:10:58| 733.7|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 66.42% done overlaying points on areas
+2021-08-11 13:11:03| 738.9|  5.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 68.71% done overlaying points on areas
+2021-08-11 13:11:08| 744.1|  5.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 70.92% done overlaying points on areas
+2021-08-11 13:11:13| 749.2|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 73.17% done overlaying points on areas
+2021-08-11 13:11:15| 751.7|  2.5|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:11:18| 754.1|  2.4|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 74.69% done overlaying points on areas
+2021-08-11 13:11:23| 758.0|  3.9|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 76.35% done overlaying points on areas
+2021-08-11 13:11:28| 761.6|  3.6|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 77.75% done overlaying points on areas
+2021-08-11 13:11:33| 765.2|  3.6|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 79.08% done overlaying points on areas
+2021-08-11 13:11:38| 768.8|  3.6|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 80.33% done overlaying points on areas
+2021-08-11 13:11:43| 772.6|  3.8|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 81.59% done overlaying points on areas
+2021-08-11 13:11:48| 776.3|  3.7|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 82.81% done overlaying points on areas
+2021-08-11 13:11:53| 780.2|  3.9|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 84.06% done overlaying points on areas
+2021-08-11 13:11:58| 784.3|  4.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 85.46% done overlaying points on areas
+2021-08-11 13:12:02| 787.9|  3.6|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:12:05| 790.8|  2.9|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 86.9% done overlaying points on areas
+2021-08-11 13:12:10| 795.9|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 88.86% done overlaying points on areas
+2021-08-11 13:12:15| 801.1|  5.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 90.89% done overlaying points on areas
+2021-08-11 13:12:20| 806.2|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 92.99% done overlaying points on areas
+2021-08-11 13:12:25| 811.3|  5.1|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 95.09% done overlaying points on areas
+2021-08-11 13:12:30| 816.5|  5.2|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 97.2% done overlaying points on areas
+2021-08-11 13:12:35| 821.5|  5.0|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 99.38% done overlaying points on areas
+2021-08-11 13:12:37| 823.0|  1.5|INFORM|PointOnAreaOverlayer_2 (OverlayFactory): 100% done overlaying points on areas
+2021-08-11 13:12:37| 823.0|  0.0|WARN  |EsriReprojector_2: Ignoring input feature coordinate system `EPSG:4267'. This warning will not be repeated.
+2021-08-11 13:12:45| 831.8|  8.8|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:14:59| 950.5|118.7|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:14:59| 950.5|  0.0|STATS |PointOnAreaOverlayer_2 (OverlayFactory): Input Summary:  309339 area(s), 1354890 point(s), and 0 line(s)
+2021-08-11 13:14:59| 950.5|  0.0|STATS |PointOnAreaOverlayer_2 (OverlayFactory): Output Summary: 309339 area(s), 1354890 point(s), and 0 line(s)
+2021-08-11 13:14:59| 950.6|  0.1|STATS |PointOnAreaOverlayer_2_POINT Feature Counter -1 107 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|STATS |PointOnAreaOverlayer_2_AREA Feature Counter -1 130 (TeeFactory): Cloned 309339 input feature(s) into 309339 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|STATS |PointOnAreaOverlayer_2_<REJECTED> Feature Counter -1 2147745814 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|STATS |AttributeRenamer_OUTPUT Feature Counter -1 129 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|STATS |EsriReprojector (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|STATS |EsriReprojector_REPROJECTED Feature Counter -1 136 (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|STATS |EsriReprojector_2 (TeeFactory): Cloned 309339 input feature(s) into 309339 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|STATS |EsriReprojector_2_REPROJECTED Feature Counter -1 135 (TeeFactory): Cloned 309339 input feature(s) into 309339 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|STATS |NeighborPairFinder_2_CandidateSplitter (TeeFactory): Cloned 309339 input feature(s) into 618678 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|STATS |NeighborPairFinder_2_BaseKeyAttrRenamer (TeeFactory): Cloned 1354890 input feature(s) into 1354890 output feature(s)
+2021-08-11 13:14:59| 950.6|  0.0|INFORM|Processing base feature(s)...
+2021-08-11 13:15:04| 954.6|  4.0|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 3.32% complete
+2021-08-11 13:15:09| 958.2|  3.6|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 6.11% complete
+2021-08-11 13:15:14| 962.2|  4.0|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 9.09% complete
+2021-08-11 13:15:19| 964.7|  2.5|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 10.98% complete
+2021-08-11 13:15:24| 968.8|  4.1|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 11.36% complete
+2021-08-11 13:15:29| 972.7|  3.9|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 11.87% complete
+2021-08-11 13:15:34| 976.0|  3.3|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 12.67% complete
+2021-08-11 13:15:39| 979.3|  3.3|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 13.62% complete
+2021-08-11 13:15:44| 983.4|  4.1|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 16.51% complete
+2021-08-11 13:15:49| 987.0|  3.6|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 20.72% complete
+2021-08-11 13:15:54| 991.8|  4.8|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 21.76% complete
+2021-08-11 13:15:59| 996.5|  4.7|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 23.39% complete
+2021-08-11 13:16:04| 999.1|  2.6|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 24.71% complete
+2021-08-11 13:16:05| 999.6|  0.5|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:16:21|1015.2| 15.6|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 24.88% complete
+2021-08-11 13:16:26|1017.3|  2.1|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 26% complete
+2021-08-11 13:16:31|1019.0|  1.7|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 27.33% complete
+2021-08-11 13:16:36|1023.0|  4.0|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 32.15% complete
+2021-08-11 13:16:41|1026.2|  3.2|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 34.54% complete
+2021-08-11 13:16:46|1029.9|  3.7|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 38.74% complete
+2021-08-11 13:16:51|1032.3|  2.4|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 41.24% complete
+2021-08-11 13:16:56|1034.6|  2.3|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 42.37% complete
+2021-08-11 13:17:01|1037.4|  2.8|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 43.54% complete
+2021-08-11 13:17:06|1040.5|  3.1|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 46.29% complete
+2021-08-11 13:17:11|1044.7|  4.2|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 48.33% complete
+2021-08-11 13:17:16|1048.8|  4.1|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 51.37% complete
+2021-08-11 13:17:21|1052.2|  3.4|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 55.53% complete
+2021-08-11 13:17:26|1054.7|  2.5|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 56.62% complete
+2021-08-11 13:17:31|1057.1|  2.4|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 57.86% complete
+2021-08-11 13:17:36|1059.6|  2.5|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 59.05% complete
+2021-08-11 13:17:41|1063.6|  4.0|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 64.21% complete
+2021-08-11 13:17:46|1068.2|  4.6|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 70.21% complete
+2021-08-11 13:17:51|1071.1|  2.9|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 71.74% complete
+2021-08-11 13:17:52|1071.6|  0.5|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:18:00|1079.5|  7.9|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 71.97% complete
+2021-08-11 13:18:05|1081.9|  2.4|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 73.31% complete
+2021-08-11 13:18:10|1083.9|  2.0|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 75.03% complete
+2021-08-11 13:18:15|1087.3|  3.4|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 77.65% complete
+2021-08-11 13:18:20|1090.1|  2.8|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 79.08% complete
+2021-08-11 13:18:25|1093.2|  3.1|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 80.49% complete
+2021-08-11 13:18:30|1096.2|  3.0|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 81.37% complete
+2021-08-11 13:18:35|1099.1|  2.9|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 82.28% complete
+2021-08-11 13:18:40|1101.8|  2.7|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 83.2% complete
+2021-08-11 13:18:45|1104.9|  3.1|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 84.11% complete
+2021-08-11 13:18:50|1107.8|  2.9|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 84.99% complete
+2021-08-11 13:18:56|1110.5|  2.7|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 85.93% complete
+2021-08-11 13:19:01|1113.1|  2.6|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 86.87% complete
+2021-08-11 13:19:06|1116.6|  3.5|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 89.57% complete
+2021-08-11 13:19:11|1120.4|  3.8|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 92.69% complete
+2021-08-11 13:19:11|1120.5|  0.1|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:19:21|1130.5| 10.0|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 92.71% complete
+2021-08-11 13:19:26|1133.0|  2.5|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 93.87% complete
+2021-08-11 13:19:31|1135.3|  2.3|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 95.09% complete
+2021-08-11 13:19:36|1137.4|  2.1|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 96.29% complete
+2021-08-11 13:19:41|1139.3|  1.9|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 97.52% complete
+2021-08-11 13:19:46|1141.5|  2.2|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 98.76% complete
+2021-08-11 13:19:51|1143.5|  2.0|INFORM|NeighborPairFinder_2_FirstProx (ProximityFactory): Processing 100% complete
+2021-08-11 13:19:51|1144.0|  0.5|STATS |NeighborPairFinder_2_FirstProx (ProximityFactory): Input Summary:  1354890 base feature(s), 309339 candidate feature(s)
+2021-08-11 13:19:51|1144.0|  0.0|STATS |NeighborPairFinder_2_FirstProx (ProximityFactory): Output Summary: 1353270 matched feature(s), 1620 unmatched base feature(s)
+2021-08-11 13:19:51|1144.0|  0.0|INFORM|Processing base feature(s)...
+2021-08-11 13:19:56|1148.6|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 0.35% complete
+2021-08-11 13:20:01|1153.3|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 0.82% complete
+2021-08-11 13:20:06|1158.2|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 1.29% complete
+2021-08-11 13:20:11|1162.2|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 1.52% complete
+2021-08-11 13:20:16|1167.1|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 1.87% complete
+2021-08-11 13:20:21|1172.0|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 2.3% complete
+2021-08-11 13:20:26|1176.9|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 2.66% complete
+2021-08-11 13:20:31|1181.5|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 2.97% complete
+2021-08-11 13:20:36|1186.5|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 3.37% complete
+2021-08-11 13:20:41|1191.4|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 3.77% complete
+2021-08-11 13:20:44|1193.6|  2.2|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:20:48|1197.7|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 3.99% complete
+2021-08-11 13:20:53|1202.5|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 4.42% complete
+2021-08-11 13:20:58|1207.3|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 4.85% complete
+2021-08-11 13:21:03|1212.4|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 5.26% complete
+2021-08-11 13:21:08|1217.0|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 5.65% complete
+2021-08-11 13:21:13|1221.5|  4.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 6.04% complete
+2021-08-11 13:21:18|1226.5|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 6.46% complete
+2021-08-11 13:21:23|1231.3|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 6.91% complete
+2021-08-11 13:21:28|1236.4|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 7.31% complete
+2021-08-11 13:21:34|1241.5|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 7.76% complete
+2021-08-11 13:21:39|1246.5|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 8.19% complete
+2021-08-11 13:21:44|1251.6|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 8.6% complete
+2021-08-11 13:21:49|1256.6|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 9.03% complete
+2021-08-11 13:21:54|1261.3|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 9.45% complete
+2021-08-11 13:21:59|1265.4|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 9.79% complete
+2021-08-11 13:22:04|1269.7|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 10.16% complete
+2021-08-11 13:22:09|1273.3|  3.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 10.46% complete
+2021-08-11 13:22:14|1277.5|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 10.76% complete
+2021-08-11 13:22:19|1281.5|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 10.99% complete
+2021-08-11 13:22:25|1286.4|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 11.21% complete
+2021-08-11 13:22:30|1291.1|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 11.32% complete
+2021-08-11 13:22:35|1295.8|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 11.5% complete
+2021-08-11 13:22:40|1300.1|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 11.75% complete
+2021-08-11 13:22:45|1304.9|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 12.01% complete
+2021-08-11 13:22:50|1309.4|  4.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 12.26% complete
+2021-08-11 13:22:55|1314.1|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 12.52% complete
+2021-08-11 13:23:00|1318.5|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 12.76% complete
+2021-08-11 13:23:05|1322.8|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 13.04% complete
+2021-08-11 13:23:10|1327.3|  4.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 13.33% complete
+2021-08-11 13:23:15|1332.0|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 13.51% complete
+2021-08-11 13:23:19|1335.7|  3.7|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:23:25|1341.4|  5.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 13.61% complete
+2021-08-11 13:23:30|1345.8|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 13.84% complete
+2021-08-11 13:23:35|1350.0|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 14.15% complete
+2021-08-11 13:23:40|1354.1|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 14.45% complete
+2021-08-11 13:23:45|1358.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 14.78% complete
+2021-08-11 13:23:51|1362.8|  4.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 15.12% complete
+2021-08-11 13:23:56|1366.9|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 15.45% complete
+2021-08-11 13:24:01|1371.1|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 15.78% complete
+2021-08-11 13:24:06|1375.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 16.13% complete
+2021-08-11 13:24:11|1379.5|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 16.49% complete
+2021-08-11 13:24:16|1383.8|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 16.81% complete
+2021-08-11 13:24:21|1388.0|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 17.18% complete
+2021-08-11 13:24:26|1392.2|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 17.53% complete
+2021-08-11 13:24:31|1396.6|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 17.83% complete
+2021-08-11 13:24:36|1400.7|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 18.14% complete
+2021-08-11 13:24:41|1405.0|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 18.41% complete
+2021-08-11 13:24:46|1408.7|  3.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 18.68% complete
+2021-08-11 13:24:51|1412.6|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 18.96% complete
+2021-08-11 13:24:57|1416.5|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 19.21% complete
+2021-08-11 13:25:02|1421.0|  4.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 19.48% complete
+2021-08-11 13:25:07|1425.3|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 19.75% complete
+2021-08-11 13:25:12|1429.5|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 20.06% complete
+2021-08-11 13:25:17|1433.9|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 20.36% complete
+2021-08-11 13:25:22|1438.4|  4.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 20.63% complete
+2021-08-11 13:25:27|1443.2|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 20.77% complete
+2021-08-11 13:25:33|1447.8|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 20.93% complete
+2021-08-11 13:25:38|1452.4|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 21.11% complete
+2021-08-11 13:25:43|1457.0|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 21.32% complete
+2021-08-11 13:25:44|1457.8|  0.8|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:25:49|1463.5|  5.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 21.37% complete
+2021-08-11 13:25:55|1467.9|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 21.67% complete
+2021-08-11 13:26:00|1472.3|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 21.97% complete
+2021-08-11 13:26:05|1476.6|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 22.16% complete
+2021-08-11 13:26:10|1481.6|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 22.28% complete
+2021-08-11 13:26:15|1485.6|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 22.55% complete
+2021-08-11 13:26:20|1489.4|  3.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 22.87% complete
+2021-08-11 13:26:25|1493.7|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 23.24% complete
+2021-08-11 13:26:30|1498.0|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 23.6% complete
+2021-08-11 13:26:35|1502.6|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 23.9% complete
+2021-08-11 13:26:40|1506.7|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 24.23% complete
+2021-08-11 13:26:46|1510.5|  3.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 24.51% complete
+2021-08-11 13:26:51|1514.4|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 24.85% complete
+2021-08-11 13:26:56|1518.2|  3.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 25.2% complete
+2021-08-11 13:27:01|1522.9|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 25.69% complete
+2021-08-11 13:27:06|1527.6|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 26.18% complete
+2021-08-11 13:27:11|1532.4|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 26.66% complete
+2021-08-11 13:27:16|1537.0|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 27.11% complete
+2021-08-11 13:27:21|1541.9|  4.9|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:27:28|1548.6|  6.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 27.57% complete
+2021-08-11 13:27:33|1553.6|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 28.04% complete
+2021-08-11 13:27:38|1558.6|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 28.5% complete
+2021-08-11 13:27:43|1563.5|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 28.99% complete
+2021-08-11 13:27:48|1568.4|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 29.48% complete
+2021-08-11 13:27:53|1573.3|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 29.98% complete
+2021-08-11 13:27:58|1578.3|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 30.5% complete
+2021-08-11 13:28:03|1583.2|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 30.96% complete
+2021-08-11 13:28:08|1588.2|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 31.42% complete
+2021-08-11 13:28:13|1593.1|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 31.9% complete
+2021-08-11 13:28:18|1597.1|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 32.2% complete
+2021-08-11 13:28:23|1601.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 32.51% complete
+2021-08-11 13:28:28|1605.9|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 32.88% complete
+2021-08-11 13:28:33|1610.2|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 33.22% complete
+2021-08-11 13:28:38|1614.9|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 33.6% complete
+2021-08-11 13:28:43|1618.8|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 33.93% complete
+2021-08-11 13:28:48|1623.3|  4.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 34.36% complete
+2021-08-11 13:28:53|1628.2|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 34.84% complete
+2021-08-11 13:28:58|1633.4|  5.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 35.32% complete
+2021-08-11 13:29:03|1638.3|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 35.8% complete
+2021-08-11 13:29:08|1643.0|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 36.26% complete
+2021-08-11 13:29:13|1647.8|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 36.75% complete
+2021-08-11 13:29:18|1652.6|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 37.21% complete
+2021-08-11 13:29:23|1657.6|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 37.73% complete
+2021-08-11 13:29:28|1661.9|  4.3|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:29:33|1667.4|  5.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 38.18% complete
+2021-08-11 13:29:38|1672.1|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 38.63% complete
+2021-08-11 13:29:43|1676.7|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 39.14% complete
+2021-08-11 13:29:48|1681.6|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 39.67% complete
+2021-08-11 13:29:53|1686.5|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 40.19% complete
+2021-08-11 13:29:58|1691.4|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 40.7% complete
+2021-08-11 13:30:04|1696.3|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 41.21% complete
+2021-08-11 13:30:09|1701.4|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 41.69% complete
+2021-08-11 13:30:14|1706.1|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 42.15% complete
+2021-08-11 13:30:19|1711.2|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 42.57% complete
+2021-08-11 13:30:24|1716.3|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 43% complete
+2021-08-11 13:30:29|1721.3|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 43.46% complete
+2021-08-11 13:30:34|1726.4|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 43.92% complete
+2021-08-11 13:30:39|1731.5|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 44.34% complete
+2021-08-11 13:30:44|1736.4|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 44.78% complete
+2021-08-11 13:30:49|1741.5|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 45.23% complete
+2021-08-11 13:30:54|1746.4|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 45.66% complete
+2021-08-11 13:30:59|1751.3|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 46.11% complete
+2021-08-11 13:31:04|1756.3|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 46.36% complete
+2021-08-11 13:31:09|1761.3|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 46.64% complete
+2021-08-11 13:31:14|1766.3|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 47.1% complete
+2021-08-11 13:31:19|1771.0|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 47.52% complete
+2021-08-11 13:31:24|1775.5|  4.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 47.91% complete
+2021-08-11 13:31:30|1780.5|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 48.37% complete
+2021-08-11 13:31:35|1785.4|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 48.83% complete
+2021-08-11 13:31:40|1790.4|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 49.31% complete
+2021-08-11 13:31:45|1795.4|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 49.76% complete
+2021-08-11 13:31:50|1800.3|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 50.17% complete
+2021-08-11 13:31:55|1805.3|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 50.61% complete
+2021-08-11 13:32:00|1810.2|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 51.09% complete
+2021-08-11 13:32:05|1815.2|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 51.58% complete
+2021-08-11 13:32:10|1820.3|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 52.08% complete
+2021-08-11 13:32:15|1825.2|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 52.57% complete
+2021-08-11 13:32:20|1830.2|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 53.07% complete
+2021-08-11 13:32:25|1835.2|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 53.57% complete
+2021-08-11 13:32:30|1840.2|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 54.09% complete
+2021-08-11 13:32:35|1845.3|  5.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 54.63% complete
+2021-08-11 13:32:40|1850.3|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 55.14% complete
+2021-08-11 13:32:45|1855.2|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 55.64% complete
+2021-08-11 13:32:50|1859.8|  4.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 56.12% complete
+2021-08-11 13:32:55|1864.6|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 56.6% complete
+2021-08-11 13:32:56|1865.2|  0.6|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:33:00|1869.6|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 56.84% complete
+2021-08-11 13:33:05|1874.0|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 57.24% complete
+2021-08-11 13:33:10|1878.1|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 57.63% complete
+2021-08-11 13:33:15|1882.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 58.02% complete
+2021-08-11 13:33:20|1886.3|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 58.39% complete
+2021-08-11 13:33:26|1890.3|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 58.71% complete
+2021-08-11 13:33:31|1894.4|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 59.07% complete
+2021-08-11 13:33:36|1898.6|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 59.41% complete
+2021-08-11 13:33:41|1902.9|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 59.76% complete
+2021-08-11 13:33:46|1907.2|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 60.12% complete
+2021-08-11 13:33:51|1911.5|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 60.49% complete
+2021-08-11 13:33:56|1915.8|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 60.87% complete
+2021-08-11 13:34:01|1920.0|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 61.24% complete
+2021-08-11 13:34:06|1924.1|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 61.6% complete
+2021-08-11 13:34:11|1928.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 61.97% complete
+2021-08-11 13:34:16|1932.5|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 62.33% complete
+2021-08-11 13:34:21|1936.7|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 62.7% complete
+2021-08-11 13:34:26|1940.8|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 63.04% complete
+2021-08-11 13:34:31|1944.9|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 63.38% complete
+2021-08-11 13:34:36|1949.1|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 63.77% complete
+2021-08-11 13:34:41|1953.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 64.15% complete
+2021-08-11 13:34:44|1955.5|  2.2|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:34:51|1962.2|  6.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 64.37% complete
+2021-08-11 13:34:56|1966.3|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 64.75% complete
+2021-08-11 13:35:01|1970.4|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 65.13% complete
+2021-08-11 13:35:06|1974.5|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 65.47% complete
+2021-08-11 13:35:11|1978.7|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 65.85% complete
+2021-08-11 13:35:16|1982.9|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 66.23% complete
+2021-08-11 13:35:21|1987.0|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 66.58% complete
+2021-08-11 13:35:26|1990.9|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 66.95% complete
+2021-08-11 13:35:32|1995.0|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 67.34% complete
+2021-08-11 13:35:37|1999.1|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 67.69% complete
+2021-08-11 13:35:42|2003.2|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 68.04% complete
+2021-08-11 13:35:47|2007.4|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 68.41% complete
+2021-08-11 13:35:52|2011.4|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 68.76% complete
+2021-08-11 13:35:57|2015.8|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 69.09% complete
+2021-08-11 13:36:02|2019.8|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 69.45% complete
+2021-08-11 13:36:07|2023.9|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 69.77% complete
+2021-08-11 13:36:12|2027.8|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 70.09% complete
+2021-08-11 13:36:17|2031.7|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 70.44% complete
+2021-08-11 13:36:22|2035.3|  3.6|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 70.76% complete
+2021-08-11 13:36:27|2038.7|  3.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 71.05% complete
+2021-08-11 13:36:28|2039.2|  0.5|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:36:34|2045.1|  5.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 71.1% complete
+2021-08-11 13:36:39|2049.4|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 71.44% complete
+2021-08-11 13:36:44|2053.5|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 71.82% complete
+2021-08-11 13:36:49|2058.3|  4.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 72.28% complete
+2021-08-11 13:36:54|2063.3|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 72.82% complete
+2021-08-11 13:36:59|2068.2|  4.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 73.33% complete
+2021-08-11 13:37:04|2072.3|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 73.76% complete
+2021-08-11 13:37:09|2077.0|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 74.24% complete
+2021-08-11 13:37:14|2081.0|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 74.61% complete
+2021-08-11 13:37:19|2084.8|  3.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 74.92% complete
+2021-08-11 13:37:24|2088.8|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 75.29% complete
+2021-08-11 13:37:29|2092.9|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 75.68% complete
+2021-08-11 13:37:34|2096.9|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 76.06% complete
+2021-08-11 13:37:39|2101.1|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 76.43% complete
+2021-08-11 13:37:44|2104.9|  3.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 76.76% complete
+2021-08-11 13:37:49|2108.7|  3.8|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 77.1% complete
+2021-08-11 13:37:55|2112.4|  3.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 77.44% complete
+2021-08-11 13:38:00|2116.3|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 77.77% complete
+2021-08-11 13:38:05|2120.6|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 78.12% complete
+2021-08-11 13:38:09|2124.3|  3.7|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:38:13|2128.5|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 78.43% complete
+2021-08-11 13:38:18|2132.7|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 78.77% complete
+2021-08-11 13:38:24|2136.9|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 79.12% complete
+2021-08-11 13:38:29|2141.1|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 79.47% complete
+2021-08-11 13:38:34|2145.4|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 79.82% complete
+2021-08-11 13:38:39|2149.4|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 80.16% complete
+2021-08-11 13:38:44|2153.5|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 80.5% complete
+2021-08-11 13:38:49|2157.8|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 80.83% complete
+2021-08-11 13:38:54|2161.9|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 81.18% complete
+2021-08-11 13:38:59|2166.2|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 81.52% complete
+2021-08-11 13:39:04|2170.3|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 81.86% complete
+2021-08-11 13:39:09|2174.4|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 82.21% complete
+2021-08-11 13:39:14|2178.4|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 82.55% complete
+2021-08-11 13:39:19|2182.1|  3.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 82.86% complete
+2021-08-11 13:39:24|2186.2|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 83.21% complete
+2021-08-11 13:39:29|2190.3|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 83.54% complete
+2021-08-11 13:39:34|2194.4|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 83.88% complete
+2021-08-11 13:39:39|2198.5|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 84.23% complete
+2021-08-11 13:39:44|2202.6|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 84.58% complete
+2021-08-11 13:39:49|2206.7|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 84.92% complete
+2021-08-11 13:39:50|2207.5|  0.8|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:39:55|2212.5|  5.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 84.98% complete
+2021-08-11 13:40:01|2216.6|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 85.32% complete
+2021-08-11 13:40:06|2221.0|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 85.67% complete
+2021-08-11 13:40:11|2225.1|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 86.02% complete
+2021-08-11 13:40:16|2229.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 86.36% complete
+2021-08-11 13:40:21|2233.3|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 86.71% complete
+2021-08-11 13:40:26|2237.6|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 87.06% complete
+2021-08-11 13:40:31|2241.8|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 87.41% complete
+2021-08-11 13:40:36|2246.0|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 87.76% complete
+2021-08-11 13:40:41|2249.9|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 88.11% complete
+2021-08-11 13:40:46|2253.9|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 88.47% complete
+2021-08-11 13:40:51|2257.9|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 88.82% complete
+2021-08-11 13:40:56|2262.1|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 89.17% complete
+2021-08-11 13:41:01|2266.1|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 89.53% complete
+2021-08-11 13:41:06|2270.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 89.89% complete
+2021-08-11 13:41:11|2274.5|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 90.25% complete
+2021-08-11 13:41:16|2278.8|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 90.61% complete
+2021-08-11 13:41:21|2282.7|  3.9|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 90.97% complete
+2021-08-11 13:41:27|2287.1|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 91.33% complete
+2021-08-11 13:41:32|2291.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 91.68% complete
+2021-08-11 13:41:37|2295.7|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 92.03% complete
+2021-08-11 13:41:42|2299.8|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 92.39% complete
+2021-08-11 13:41:47|2304.1|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 92.76% complete
+2021-08-11 13:41:52|2308.3|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 93.12% complete
+2021-08-11 13:41:57|2312.5|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 93.48% complete
+2021-08-11 13:42:02|2316.7|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 93.84% complete
+2021-08-11 13:42:07|2321.0|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 94.17% complete
+2021-08-11 13:42:12|2325.4|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 94.48% complete
+2021-08-11 13:42:17|2329.5|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 94.8% complete
+2021-08-11 13:42:22|2333.8|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 95.12% complete
+2021-08-11 13:42:27|2338.1|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 95.44% complete
+2021-08-11 13:42:31|2341.2|  3.1|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:42:36|2345.9|  4.7|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 95.68% complete
+2021-08-11 13:42:41|2350.1|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 96.03% complete
+2021-08-11 13:42:46|2354.4|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 96.39% complete
+2021-08-11 13:42:51|2358.6|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 96.75% complete
+2021-08-11 13:42:56|2362.9|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 97.12% complete
+2021-08-11 13:42:59|2364.9|  2.0|INFORM|ResourceManager: Optimizing Memory Usage.  Please wait...
+2021-08-11 13:43:03|2368.9|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 97.29% complete
+2021-08-11 13:43:08|2372.9|  4.0|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 97.65% complete
+2021-08-11 13:43:13|2377.1|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 98.02% complete
+2021-08-11 13:43:18|2381.2|  4.1|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 98.38% complete
+2021-08-11 13:43:23|2385.6|  4.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 98.74% complete
+2021-08-11 13:43:28|2389.9|  4.3|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 99.11% complete
+2021-08-11 13:43:33|2394.4|  4.5|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 99.49% complete
+2021-08-11 13:43:38|2398.6|  4.2|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 99.86% complete
+2021-08-11 13:43:40|2400.0|  1.4|INFORM|NeighborPairFinder_2_SecondProx (ProximityFactory): Processing 100% complete
+2021-08-11 13:43:48|2408.3|  8.3|STATS |NeighborPairFinder_2_SecondProx (ProximityFactory): Input Summary:  1353270 base feature(s), 309339 candidate feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |NeighborPairFinder_2_SecondProx (ProximityFactory): Output Summary: 1349920 matched feature(s), 3350 unmatched base feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |NeighborPairFinder_2_MatchedOutputter (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |NeighborPairFinder_2_MATCHED Feature Counter -1 132 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |NeighborPairFinder_2_<REJECTED> Feature Counter -1 2147876992 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_Condition_1 (TestFactory): Tested 1349920 input feature(s) -- 279616 feature(s) passed and 1070304 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_Condition_2 (TestFactory): Tested 1070304 input feature(s) -- 48083 feature(s) passed and 1022221 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_Condition_3 (TestFactory): Tested 1022221 input feature(s) -- 287415 feature(s) passed and 734806 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_Condition_4 (TestFactory): Tested 734806 input feature(s) -- 60228 feature(s) passed and 674578 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_Condition_5 (TestFactory): Tested 674578 input feature(s) -- 286535 feature(s) passed and 388043 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_Condition_6 (TestFactory): Tested 388043 input feature(s) -- 46831 feature(s) passed and 341212 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_Condition_7 (TestFactory): Tested 341212 input feature(s) -- 282427 feature(s) passed and 58785 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_Condition_8 (TestFactory): Tested 58785 input feature(s) -- 58785 feature(s) passed and 0 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_<lt>UNFILTERED<gt> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_FEL Feature Counter -1 125 (TeeFactory): Cloned 279616 input feature(s) into 279616 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_FNEL Feature Counter -1 171 (TeeFactory): Cloned 48083 input feature(s) into 48083 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_FNL Feature Counter -1 183 (TeeFactory): Cloned 287415 input feature(s) into 287415 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_FNWL Feature Counter -1 186 (TeeFactory): Cloned 60228 input feature(s) into 60228 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_FWL Feature Counter -1 189 (TeeFactory): Cloned 286535 input feature(s) into 286535 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_FSWL Feature Counter -1 191 (TeeFactory): Cloned 46831 input feature(s) into 46831 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_FSL Feature Counter -1 193 (TeeFactory): Cloned 282427 input feature(s) into 282427 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_FSEL Feature Counter -1 195 (TeeFactory): Cloned 58785 input feature(s) into 58785 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_<lt>UNFILTERED<gt> Feature Counter -1 197 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_22_OUTPUT Feature Counter -1 114 (TeeFactory): Cloned 279616 input feature(s) into 279616 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_34_OUTPUT Feature Counter -1 113 (TeeFactory): Cloned 48083 input feature(s) into 48083 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_24_OUTPUT Feature Counter -1 126 (TeeFactory): Cloned 287415 input feature(s) into 287415 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_33_OUTPUT Feature Counter -1 112 (TeeFactory): Cloned 60228 input feature(s) into 60228 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_25_OUTPUT Feature Counter -1 111 (TeeFactory): Cloned 286535 input feature(s) into 286535 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_32_OUTPUT Feature Counter -1 110 (TeeFactory): Cloned 46831 input feature(s) into 46831 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_26_OUTPUT Feature Counter -1 109 (TeeFactory): Cloned 282427 input feature(s) into 282427 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_31_OUTPUT Feature Counter -1 108 (TeeFactory): Cloned 58785 input feature(s) into 58785 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_Condition_1 (TestFactory): Tested 1349920 input feature(s) -- 294031 feature(s) passed and 1055889 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_Condition_2 (TestFactory): Tested 1055889 input feature(s) -- 54768 feature(s) passed and 1001121 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_Condition_3 (TestFactory): Tested 1001121 input feature(s) -- 277090 feature(s) passed and 724031 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_Condition_4 (TestFactory): Tested 724031 input feature(s) -- 57353 feature(s) passed and 666678 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_Condition_5 (TestFactory): Tested 666678 input feature(s) -- 289559 feature(s) passed and 377119 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_Condition_6 (TestFactory): Tested 377119 input feature(s) -- 52043 feature(s) passed and 325076 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_Condition_7 (TestFactory): Tested 325076 input feature(s) -- 268586 feature(s) passed and 56490 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_Condition_8 (TestFactory): Tested 56490 input feature(s) -- 56490 feature(s) passed and 0 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_<lt>UNFILTERED<gt> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_FEL Feature Counter -1 124 (TeeFactory): Cloned 294031 input feature(s) into 294031 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_FNEL Feature Counter -1 170 (TeeFactory): Cloned 54768 input feature(s) into 54768 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_FNL Feature Counter -1 182 (TeeFactory): Cloned 277090 input feature(s) into 277090 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_FNWL Feature Counter -1 185 (TeeFactory): Cloned 57353 input feature(s) into 57353 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_FWL Feature Counter -1 188 (TeeFactory): Cloned 289559 input feature(s) into 289559 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_FSWL Feature Counter -1 190 (TeeFactory): Cloned 52043 input feature(s) into 52043 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_FSL Feature Counter -1 192 (TeeFactory): Cloned 268586 input feature(s) into 268586 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_FSEL Feature Counter -1 194 (TeeFactory): Cloned 56490 input feature(s) into 56490 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |TestFilter_2_<lt>UNFILTERED<gt> Feature Counter -1 196 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_38_OUTPUT Feature Counter -1 122 (TeeFactory): Cloned 294031 input feature(s) into 294031 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_37_OUTPUT Feature Counter -1 121 (TeeFactory): Cloned 54768 input feature(s) into 54768 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_36_OUTPUT Feature Counter -1 120 (TeeFactory): Cloned 277090 input feature(s) into 277090 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_35_OUTPUT Feature Counter -1 119 (TeeFactory): Cloned 57353 input feature(s) into 57353 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_30_OUTPUT Feature Counter -1 118 (TeeFactory): Cloned 289559 input feature(s) into 289559 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_29_OUTPUT Feature Counter -1 117 (TeeFactory): Cloned 52043 input feature(s) into 52043 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_28_OUTPUT Feature Counter -1 116 (TeeFactory): Cloned 268586 input feature(s) into 268586 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_27_OUTPUT Feature Counter -1 115 (TeeFactory): Cloned 56490 input feature(s) into 56490 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_23_OUTPUT Feature Counter -1 123 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeRounder (TestFactory): Tested 1349920 input feature(s) -- 1349920 feature(s) passed and 0 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeRounder_AttributeRounder (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeRounder_OUTPUT Feature Counter -1 127 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeRenamer_5_OUTPUT Feature Counter -1 140 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |StringPadder_11_CheckWidth (TestFactory): Tested 1349920 input feature(s) -- 1349920 feature(s) passed and 0 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |StringPadder_11_StringPadder (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |StringPadder_11_OUTPUT Feature Counter -1 177 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |StringLengthCalculator_3 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |StringLengthCalculator_3_OUTPUT Feature Counter -1 167 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |Tester_2 (TestFactory): Tested 1349920 input feature(s) -- 0 feature(s) passed and 1349920 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |Tester_2_PASSED Feature Counter -1 169 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |Tester_2_FAILED Feature Counter -1 174 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |StringPadder_3_CheckWidth (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-08-11 13:43:48|2408.3|  0.0|STATS |StringPadder_3_StringPadder (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|STATS |AttributeCreator_4_OUTPUT Feature Counter -1 172 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:43:48|2408.3|  0.0|INFORM|Sorter (SortFactory): Starting sorting 1349920 feature(s)
+2021-08-11 13:43:51|2411.3|  3.0|INFORM|Sorter (SortFactory): Done sorting 1349920 feature(s)
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|FME Configuration: Using connection values from 'pg.whitestar.com' for POSTGIS_3
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|Creating writer for format: PostGIS
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `POSTGIS'
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20210203)
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|FME Configuration: Destination coordinate system set to `EPSG:4267'
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|Coordinate System `EPSG:4267' parameters: CS_NAME=`LL27' DESC_NM=`NAD27 datum, Latitude-Longitude; Degrees' DT_NAME=`NAD27' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`85.16666666666667' MAX_LNG=`-45.733333333333334' MIN_LAT=`5.983333333333333' MIN_LNG=`-194.35' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20210203)
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|Writer `POSTGIS_3' of type `POSTGIS' using group definition keyword `POSTGIS_3_DEF'
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (3.8 20210203)
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|Opening POSTGIS writer for dataset 'postgis20'...
+2021-08-11 13:43:51|2411.3|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2021-08-11 13:43:52|2411.3|  0.0|INFORM|PostgreSQL 11.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-11), 64-bit
+2021-08-11 13:43:52|2411.3|  0.0|INFORM|2.5 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2021-08-11 13:43:52|2411.3|  0.0|INFORM|Testing for the existence of table 'public.tx_bottom_hole_latest_build'...
+2021-08-11 13:43:52|2411.3|  0.0|INFORM|Creating table 'public.tx_bottom_hole_latest_build'...
+2021-08-11 13:43:52|2411.3|  0.0|INFORM|POSTGIS Writer: Creating 'unquoted WKB' geometry processor for feature type 'public.tx_bottom_hole_latest_build'
+2021-08-11 13:43:52|2411.3|  0.0|INFORM|POSTGIS Writer: Creating 'streaming Bulk Copy' feature type processor for feature type 'public.tx_bottom_hole_latest_build'
+2021-08-11 13:43:55|2413.2|  1.9|INFORM|Committed transaction at feature '10000'
+2021-08-11 13:43:57|2415.7|  2.5|INFORM|Committed transaction at feature '20000'
+2021-08-11 13:43:59|2417.5|  1.8|INFORM|Committed transaction at feature '30000'
+2021-08-11 13:44:05|2419.5|  2.0|INFORM|Committed transaction at feature '40000'
+2021-08-11 13:44:09|2421.3|  1.8|INFORM|Committed transaction at feature '50000'
+2021-08-11 13:44:11|2422.8|  1.5|INFORM|Committed transaction at feature '60000'
+2021-08-11 13:44:14|2424.5|  1.7|INFORM|Committed transaction at feature '70000'
+2021-08-11 13:44:17|2426.1|  1.6|INFORM|Committed transaction at feature '80000'
+2021-08-11 13:44:20|2427.9|  1.8|INFORM|Committed transaction at feature '90000'
+2021-08-11 13:44:23|2429.7|  1.8|INFORM|Committed transaction at feature '100000'
+2021-08-11 13:44:26|2431.4|  1.7|INFORM|Committed transaction at feature '110000'
+2021-08-11 13:44:29|2433.1|  1.7|INFORM|Committed transaction at feature '120000'
+2021-08-11 13:44:33|2434.5|  1.4|INFORM|Committed transaction at feature '130000'
+2021-08-11 13:44:37|2436.7|  2.2|INFORM|Committed transaction at feature '140000'
+2021-08-11 13:44:40|2438.5|  1.8|INFORM|Committed transaction at feature '150000'
+2021-08-11 13:44:44|2440.8|  2.3|INFORM|Committed transaction at feature '160000'
+2021-08-11 13:44:48|2442.8|  2.0|INFORM|Committed transaction at feature '170000'
+2021-08-11 13:44:51|2444.7|  1.9|INFORM|Committed transaction at feature '180000'
+2021-08-11 13:44:55|2446.8|  2.1|INFORM|Committed transaction at feature '190000'
+2021-08-11 13:44:59|2448.9|  2.1|INFORM|Committed transaction at feature '200000'
+2021-08-11 13:45:03|2450.8|  1.9|INFORM|Committed transaction at feature '210000'
+2021-08-11 13:45:07|2452.9|  2.1|INFORM|Committed transaction at feature '220000'
+2021-08-11 13:45:10|2454.7|  1.8|INFORM|Committed transaction at feature '230000'
+2021-08-11 13:45:14|2456.8|  2.1|INFORM|Committed transaction at feature '240000'
+2021-08-11 13:45:18|2458.9|  2.1|INFORM|Committed transaction at feature '250000'
+2021-08-11 13:45:20|2460.7|  1.8|INFORM|Committed transaction at feature '260000'
+2021-08-11 13:45:24|2463.0|  2.3|INFORM|Committed transaction at feature '270000'
+2021-08-11 13:45:28|2465.3|  2.3|INFORM|Committed transaction at feature '280000'
+2021-08-11 13:45:30|2467.3|  2.0|INFORM|Committed transaction at feature '290000'
+2021-08-11 13:45:34|2469.4|  2.1|INFORM|Committed transaction at feature '300000'
+2021-08-11 13:45:37|2471.5|  2.1|INFORM|Committed transaction at feature '310000'
+2021-08-11 13:45:41|2473.8|  2.3|INFORM|Committed transaction at feature '320000'
+2021-08-11 13:45:44|2475.7|  1.9|INFORM|Committed transaction at feature '330000'
+2021-08-11 13:45:48|2477.6|  1.9|INFORM|Committed transaction at feature '340000'
+2021-08-11 13:45:51|2479.4|  1.8|INFORM|Committed transaction at feature '350000'
+2021-08-11 13:45:53|2481.2|  1.8|INFORM|Committed transaction at feature '360000'
+2021-08-11 13:45:56|2483.5|  2.3|INFORM|Committed transaction at feature '370000'
+2021-08-11 13:46:00|2485.6|  2.1|INFORM|Committed transaction at feature '380000'
+2021-08-11 13:46:04|2487.5|  1.9|INFORM|Committed transaction at feature '390000'
+2021-08-11 13:46:07|2489.7|  2.2|INFORM|Committed transaction at feature '400000'
+2021-08-11 13:46:10|2491.5|  1.8|INFORM|Committed transaction at feature '410000'
+2021-08-11 13:46:13|2493.6|  2.1|INFORM|Committed transaction at feature '420000'
+2021-08-11 13:46:16|2495.5|  1.9|INFORM|Committed transaction at feature '430000'
+2021-08-11 13:46:19|2497.5|  2.0|INFORM|Committed transaction at feature '440000'
+2021-08-11 13:46:22|2499.8|  2.3|INFORM|Committed transaction at feature '450000'
+2021-08-11 13:46:26|2501.9|  2.1|INFORM|Committed transaction at feature '460000'
+2021-08-11 13:46:28|2504.0|  2.1|INFORM|Committed transaction at feature '470000'
+2021-08-11 13:46:31|2506.1|  2.1|INFORM|Committed transaction at feature '480000'
+2021-08-11 13:46:34|2508.1|  2.0|INFORM|Committed transaction at feature '490000'
+2021-08-11 13:46:38|2510.2|  2.1|INFORM|Committed transaction at feature '500000'
+2021-08-11 13:46:41|2512.1|  1.9|INFORM|Committed transaction at feature '510000'
+2021-08-11 13:46:44|2514.1|  2.0|INFORM|Committed transaction at feature '520000'
+2021-08-11 13:46:48|2516.3|  2.2|INFORM|Committed transaction at feature '530000'
+2021-08-11 13:46:52|2518.6|  2.3|INFORM|Committed transaction at feature '540000'
+2021-08-11 13:46:56|2520.8|  2.2|INFORM|Committed transaction at feature '550000'
+2021-08-11 13:46:59|2522.6|  1.8|INFORM|Committed transaction at feature '560000'
+2021-08-11 13:47:01|2524.6|  2.0|INFORM|Committed transaction at feature '570000'
+2021-08-11 13:47:05|2526.6|  2.0|INFORM|Committed transaction at feature '580000'
+2021-08-11 13:47:08|2528.7|  2.1|INFORM|Committed transaction at feature '590000'
+2021-08-11 13:47:12|2530.8|  2.1|INFORM|Committed transaction at feature '600000'
+2021-08-11 13:47:15|2532.7|  1.9|INFORM|Committed transaction at feature '610000'
+2021-08-11 13:47:19|2534.9|  2.2|INFORM|Committed transaction at feature '620000'
+2021-08-11 13:47:22|2536.9|  2.0|INFORM|Committed transaction at feature '630000'
+2021-08-11 13:47:25|2538.9|  2.0|INFORM|Committed transaction at feature '640000'
+2021-08-11 13:47:29|2540.7|  1.8|INFORM|Committed transaction at feature '650000'
+2021-08-11 13:47:31|2542.6|  1.9|INFORM|Committed transaction at feature '660000'
+2021-08-11 13:47:35|2544.7|  2.1|INFORM|Committed transaction at feature '670000'
+2021-08-11 13:47:38|2546.6|  1.9|INFORM|Committed transaction at feature '680000'
+2021-08-11 13:47:41|2548.6|  2.0|INFORM|Committed transaction at feature '690000'
+2021-08-11 13:47:45|2550.5|  1.9|INFORM|Committed transaction at feature '700000'
+2021-08-11 13:47:48|2552.5|  2.0|INFORM|Committed transaction at feature '710000'
+2021-08-11 13:47:51|2554.6|  2.1|INFORM|Committed transaction at feature '720000'
+2021-08-11 13:47:54|2556.4|  1.8|INFORM|Committed transaction at feature '730000'
+2021-08-11 13:47:57|2558.4|  2.0|INFORM|Committed transaction at feature '740000'
+2021-08-11 13:47:59|2560.2|  1.8|INFORM|Committed transaction at feature '750000'
+2021-08-11 13:48:02|2562.1|  1.9|INFORM|Committed transaction at feature '760000'
+2021-08-11 13:48:05|2564.2|  2.1|INFORM|Committed transaction at feature '770000'
+2021-08-11 13:48:08|2566.3|  2.1|INFORM|Committed transaction at feature '780000'
+2021-08-11 13:48:10|2568.1|  1.8|INFORM|Committed transaction at feature '790000'
+2021-08-11 13:48:13|2570.4|  2.3|INFORM|Committed transaction at feature '800000'
+2021-08-11 13:48:17|2572.5|  2.1|INFORM|Committed transaction at feature '810000'
+2021-08-11 13:48:20|2574.5|  2.0|INFORM|Committed transaction at feature '820000'
+2021-08-11 13:48:23|2576.5|  2.0|INFORM|Committed transaction at feature '830000'
+2021-08-11 13:48:26|2578.6|  2.1|INFORM|Committed transaction at feature '840000'
+2021-08-11 13:48:30|2580.6|  2.0|INFORM|Committed transaction at feature '850000'
+2021-08-11 13:48:33|2582.7|  2.1|INFORM|Committed transaction at feature '860000'
+2021-08-11 13:48:36|2584.5|  1.8|INFORM|Committed transaction at feature '870000'
+2021-08-11 13:48:39|2586.4|  1.9|INFORM|Committed transaction at feature '880000'
+2021-08-11 13:48:41|2588.5|  2.1|INFORM|Committed transaction at feature '890000'
+2021-08-11 13:48:45|2590.4|  1.9|INFORM|Committed transaction at feature '900000'
+2021-08-11 13:48:47|2592.4|  2.0|INFORM|Committed transaction at feature '910000'
+2021-08-11 13:48:51|2594.7|  2.3|INFORM|Committed transaction at feature '920000'
+2021-08-11 13:48:53|2596.7|  2.0|INFORM|Committed transaction at feature '930000'
+2021-08-11 13:48:56|2598.7|  2.0|INFORM|Committed transaction at feature '940000'
+2021-08-11 13:48:59|2600.8|  2.1|INFORM|Committed transaction at feature '950000'
+2021-08-11 13:49:03|2602.8|  2.0|INFORM|Committed transaction at feature '960000'
+2021-08-11 13:49:05|2604.7|  1.9|INFORM|Committed transaction at feature '970000'
+2021-08-11 13:49:07|2606.6|  1.9|INFORM|Committed transaction at feature '980000'
+2021-08-11 13:49:10|2608.5|  1.9|INFORM|Committed transaction at feature '990000'
+2021-08-11 13:49:13|2610.5|  2.0|INFORM|Committed transaction at feature '1000000'
+2021-08-11 13:49:17|2612.7|  2.2|INFORM|Committed transaction at feature '1010000'
+2021-08-11 13:49:20|2614.6|  1.9|INFORM|Committed transaction at feature '1020000'
+2021-08-11 13:49:23|2616.4|  1.8|INFORM|Committed transaction at feature '1030000'
+2021-08-11 13:49:26|2618.4|  2.0|INFORM|Committed transaction at feature '1040000'
+2021-08-11 13:49:30|2620.5|  2.1|INFORM|Committed transaction at feature '1050000'
+2021-08-11 13:49:33|2622.5|  2.0|INFORM|Committed transaction at feature '1060000'
+2021-08-11 13:49:36|2624.6|  2.1|INFORM|Committed transaction at feature '1070000'
+2021-08-11 13:49:39|2626.7|  2.1|INFORM|Committed transaction at feature '1080000'
+2021-08-11 13:49:42|2628.8|  2.1|INFORM|Committed transaction at feature '1090000'
+2021-08-11 13:49:45|2630.7|  1.9|INFORM|Committed transaction at feature '1100000'
+2021-08-11 13:49:49|2632.5|  1.8|INFORM|Committed transaction at feature '1110000'
+2021-08-11 13:49:52|2634.5|  2.0|INFORM|Committed transaction at feature '1120000'
+2021-08-11 13:49:55|2636.5|  2.0|INFORM|Committed transaction at feature '1130000'
+2021-08-11 13:49:58|2638.6|  2.1|INFORM|Committed transaction at feature '1140000'
+2021-08-11 13:50:01|2640.9|  2.3|INFORM|Committed transaction at feature '1150000'
+2021-08-11 13:50:03|2642.5|  1.6|INFORM|Committed transaction at feature '1160000'
+2021-08-11 13:50:06|2644.9|  2.4|INFORM|Committed transaction at feature '1170000'
+2021-08-11 13:50:10|2647.0|  2.1|INFORM|Committed transaction at feature '1180000'
+2021-08-11 13:50:13|2649.0|  2.0|INFORM|Committed transaction at feature '1190000'
+2021-08-11 13:50:16|2651.2|  2.2|INFORM|Committed transaction at feature '1200000'
+2021-08-11 13:50:21|2653.5|  2.3|INFORM|Committed transaction at feature '1210000'
+2021-08-11 13:50:25|2655.8|  2.3|INFORM|Committed transaction at feature '1220000'
+2021-08-11 13:50:28|2658.0|  2.2|INFORM|Committed transaction at feature '1230000'
+2021-08-11 13:50:31|2660.1|  2.1|INFORM|Committed transaction at feature '1240000'
+2021-08-11 13:50:33|2662.0|  1.9|INFORM|Committed transaction at feature '1250000'
+2021-08-11 13:50:37|2664.2|  2.2|INFORM|Committed transaction at feature '1260000'
+2021-08-11 13:50:41|2666.0|  1.8|INFORM|Committed transaction at feature '1270000'
+2021-08-11 13:50:44|2668.2|  2.2|INFORM|Committed transaction at feature '1280000'
+2021-08-11 13:50:47|2670.2|  2.0|INFORM|Committed transaction at feature '1290000'
+2021-08-11 13:50:50|2672.4|  2.2|INFORM|Committed transaction at feature '1300000'
+2021-08-11 13:50:54|2674.4|  2.0|INFORM|Committed transaction at feature '1310000'
+2021-08-11 13:50:58|2676.5|  2.1|INFORM|Committed transaction at feature '1320000'
+2021-08-11 13:51:01|2678.4|  1.9|INFORM|Committed transaction at feature '1330000'
+2021-08-11 13:51:04|2680.4|  2.0|INFORM|Committed transaction at feature '1340000'
+2021-08-11 13:51:08|2683.0|  2.6|STATS |Sorter (SortFactory): Finished sorting a total of 1349920 features.
+2021-08-11 13:51:08|2683.0|  0.0|STATS |Sorter_SORTED Feature Counter -1 178 (TeeFactory): Cloned 1349920 input feature(s) into 1349920 output feature(s)
+2021-08-11 13:51:08|2683.0|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 1349920 input feature(s), wrote 1349920 output feature(s): 0 matched merge filters, 1349920 were routed to output, 0 could not be routed.
+2021-08-11 13:51:08|2683.0|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-08-11 13:51:08|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:08|2683.0|  0.0|STATS |                            `Count' Domain Summary
+2021-08-11 13:51:08|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:08|2683.0|  0.0|STATS |counter                                                                1354890
+2021-08-11 13:51:08|2683.0|  0.0|STATS |==============================================================================
+2021-08-11 13:51:08|2683.0|  0.0|STATS |Total `@Count' Invocations:                                            1354890
+2021-08-11 13:51:08|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:08|2683.0|  0.0|INFORM|Creating 'BTree' index on column "wstar_id" of table 'public.tx_bottom_hole_latest_build'...
+2021-08-11 13:51:11|2683.0|  0.0|INFORM|Creating 'BTree' index on column "api" of table 'public.tx_bottom_hole_latest_build'...
+2021-08-11 13:51:14|2683.0|  0.0|INFORM|Creating 'BTree' index on column "api_cnty" of table 'public.tx_bottom_hole_latest_build'...
+2021-08-11 13:51:16|2683.0|  0.0|INFORM|Creating 'BTree' index on column "county" of table 'public.tx_bottom_hole_latest_build'...
+2021-08-11 13:51:16|2683.0|  0.0|INFORM|Creating 'BTree' index on column "surface_id" of table 'public.tx_bottom_hole_latest_build'...
+2021-08-11 13:51:17|2683.0|  0.0|INFORM|Creating 'GIST' index on column "geom" of table 'public.tx_bottom_hole_latest_build'...
+2021-08-11 13:51:32|2683.0|  0.0|INFORM|Successfully closed POSTGIS database writer
+2021-08-11 13:51:32|2683.0|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.0|  0.0|INFORM|Feature output statistics for `POSTGIS' writer using keyword `POSTGIS_3':
+2021-08-11 13:51:32|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.0|  0.0|STATS |                               Features Written
+2021-08-11 13:51:32|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.0|  0.0|STATS |public.tx_bottom_hole_latest_build                                     1349920
+2021-08-11 13:51:32|2683.0|  0.0|STATS |==============================================================================
+2021-08-11 13:51:32|2683.0|  0.0|STATS |Total Features Written                                                 1349920
+2021-08-11 13:51:32|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.0|  0.0|STATS |                            Features Read Summary
+2021-08-11 13:51:32|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.0|  0.0|STATS |public.TX_ABSTRACT                                                      309312
+2021-08-11 13:51:32|2683.0|  0.0|STATS |public.tx_county_district                                                  254
+2021-08-11 13:51:32|2683.0|  0.0|STATS |==============================================================================
+2021-08-11 13:51:32|2683.0|  0.0|STATS |Total Features Read                                                     309566
+2021-08-11 13:51:32|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.0|  0.0|STATS |                           Features Written Summary
+2021-08-11 13:51:32|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.0|  0.0|STATS |public.tx_bottom_hole_latest_build                                     1349920
+2021-08-11 13:51:32|2683.0|  0.0|STATS |==============================================================================
+2021-08-11 13:51:32|2683.0|  0.0|STATS |Total Features Written                                                 1349920
+2021-08-11 13:51:32|2683.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-08-11 13:51:32|2683.6|  0.6|INFORM|Translation was SUCCESSFUL with 3 warning(s) (1349920 feature(s) output)
+2021-08-11 13:51:32|2683.6|  0.0|INFORM|FME Session Duration: 53 minutes 10.5 seconds. (CPU: 2485.7s user, 197.8s system)
+2021-08-11 13:51:32|2683.6|  0.0|INFORM|END - ProcessID: 13392, peak process memory usage: 6427584 kB, current process memory usage: 426084 kB

@@ -1,0 +1,16 @@
+DROP TABLE tx_casings CASCADE;
+ALTER TABLE tx_casings_latest_build RENAME TO tx_casings;
+DROP TABLE tx_formation_tops CASCADE;
+ALTER TABLE tx_formation_tops_latest_build RENAME TO tx_formation_tops;
+DROP TABLE tx_liners CASCADE;
+ALTER TABLE tx_liners_latest_build RENAME TO tx_liners;
+DROP TABLE tx_perforations CASCADE;
+ALTER TABLE tx_perforations_latest_build RENAME TO tx_perforations;
+DROP TABLE tx_remarks CASCADE;
+ALTER TABLE tx_remarks_latest_build RENAME TO tx_remarks;
+DROP TABLE tx_squeeze_intervals CASCADE;
+ALTER TABLE tx_squeeze_intervals_latest_build RENAME TO tx_squeeze_intervals;
+DROP TABLE tx_tubing CASCADE;
+ALTER TABLE tx_tubing_latest_build RENAME TO tx_tubing;
+DROP TABLE tx_water CASCADE;
+ALTER TABLE tx_water_latest_build RENAME TO tx_water;
