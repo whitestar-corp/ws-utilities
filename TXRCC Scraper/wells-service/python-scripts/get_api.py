@@ -14,8 +14,8 @@ url = 'https://mft.rrc.texas.gov/link/'
 page = ['7ed6883a-875d-4e24-a7e5-1614d5968389']
 executable_path = r'D:\Users\rwhite\Downloads\chromedriver.exe'
 element = ['//*[@id="fileTable:j_id__v_1"]/option[4]',
-           '//*[@id="fileTable:j_id_1q"]/div/div[2]',
-           '//*[@id="j_id_3a:j_id_3a"]/span']
+           '//*[@id="fileTable:j_id_1s"]/div/div[2]',
+           '//*[@id="j_id_3c:j_id_3c"]/span']
 targetdir = r'D:\Users\rwhite\Documents\texas-wells\wells-service\data\api'
 
 def every_downloads_chrome(driver):
